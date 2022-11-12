@@ -1,16 +1,16 @@
-import React, { useState, useEffect } from "react";
-import Button from "react-bootstrap/Button";
-import Navbar from "react-bootstrap/Navbar";
-import Nav from "react-bootstrap/Nav";
-import { useHistory } from "react-router-dom";
-import { useSelector, useDispatch } from "react-redux";
-import axios from "axios";
-import Spinner from "react-bootstrap/Spinner";
-import isEqual from "lodash/isEqual";
-import * as api from "../services/dashboard";
-import { getExpt, updateTagsAction } from "../redux";
-import { handleLogout } from "../providers/auth";
-import { logoutExptAction, logoutDataAction } from "../redux";
+import React, { useState, useEffect } from 'react';
+import Button from 'react-bootstrap/Button';
+import Navbar from 'react-bootstrap/Navbar';
+import Nav from 'react-bootstrap/Nav';
+import { useHistory } from 'react-router-dom';
+import { useSelector, useDispatch } from 'react-redux';
+import axios from 'axios';
+import Spinner from 'react-bootstrap/Spinner';
+import isEqual from 'lodash/isEqual';
+import * as api from '../services/dashboard';
+import { getExpt, updateTagsAction } from '../redux';
+import { handleLogout } from '../providers/auth';
+import { logoutExptAction, logoutDataAction } from '../redux';
 
 const NavBar = () => {
   const dispatch = useDispatch();
@@ -22,8 +22,8 @@ const NavBar = () => {
   const [modified, setModified] = useState(false);
   const [parasModified, setParasModified] = useState(false);
 
-  const token = localStorage.getItem("token");
-  if (token) axios.defaults.headers.common["Authorization"] = `Bearer ${token}`;
+  const token = localStorage.getItem('token');
+  if (token) axios.defaults.headers.common['Authorization'] = `Bearer ${token}`;
 
   const handleSave = () => {
     setSaving(true);
@@ -35,7 +35,7 @@ const NavBar = () => {
         setSaving(false);
       })
       .catch((err) => {
-        console.log("SAVE ERROR", err.message);
+        console.log('SAVE ERROR', err.message);
         setSaving(false);
       });
   };
@@ -50,7 +50,7 @@ const NavBar = () => {
         setSavingParas(false);
       })
       .catch((err) => {
-        console.log("SAVE ERROR", err.message);
+        console.log('SAVE ERROR', err.message);
         setSavingParas(false);
       });
   };
@@ -70,92 +70,93 @@ const NavBar = () => {
   }, [JSON.stringify(parasModified), JSON.stringify(experiment)]);
 
   return (
-    <Navbar bg="primary" variant="dark">
-      <Navbar.Brand href="/dashboard/users">Dashboard</Navbar.Brand>
-      <Nav className="mr-auto" activeKey={history.location.pathname}>
+    <Navbar bg='primary' variant='dark'>
+      <Navbar.Brand href='/dashboard/users'>Dashboard</Navbar.Brand>
+      <Nav className='mr-auto' activeKey={history.location.pathname}>
         <Nav.Link
-          eventKey="/dashboard/users"
-          onClick={() => history.push("/dashboard/users")}
+          eventKey='/dashboard/users'
+          onClick={() => history.push('/dashboard/users')}
         >
           Users
         </Nav.Link>
         <Nav.Link
-          eventKey="/dashboard/tags"
-          onClick={() => history.push("/dashboard/tags")}
+          eventKey='/dashboard/tags'
+          onClick={() => history.push('/dashboard/tags')}
         >
           Tags
         </Nav.Link>
         <Nav.Link
-          eventKey="/dashboard/parameters"
-          onClick={() => history.push("/dashboard/parameters")}
+          eventKey='/dashboard/parameters'
+          onClick={() => history.push('/dashboard/parameters')}
         >
           Parameters
         </Nav.Link>
         <Nav.Link
-          eventKey="/dashboard/data"
-          onClick={() => history.push("/dashboard/data")}
+          eventKey='/dashboard/data'
+          onClick={() => history.push('/dashboard/data')}
         >
           Data
         </Nav.Link>
       </Nav>
       {modified ? (
         <Button
-          variant="danger"
+          variant='danger'
           onClick={() => handleSave()}
-          style={{ alignSelf: "center" }}
+          style={{ alignSelf: 'center' }}
         >
           {saving ? (
             <div>
               <span>Saving...</span>
               <Spinner
-                as="span"
-                animation="grow"
-                size="sm"
-                role="status"
-                aria-hidden="true"
+                as='span'
+                animation='grow'
+                size='sm'
+                role='status'
+                aria-hidden='true'
               />
             </div>
           ) : (
-            "Save Tags"
+            'Save Tags'
           )}
         </Button>
       ) : null}
 
       {parasModified ? (
         <Button
-          variant="danger"
+          variant='danger'
           onClick={() => handleParasSave()}
-          style={{ alignSelf: "center" }}
+          style={{ alignSelf: 'center' }}
         >
           {savingParas ? (
             <div>
               <span>Saving...</span>
               <Spinner
-                as="span"
-                animation="grow"
-                size="sm"
-                role="status"
-                aria-hidden="true"
+                as='span'
+                animation='grow'
+                size='sm'
+                role='status'
+                aria-hidden='true'
               />
             </div>
           ) : (
-            "Save Parameters"
+            'Save Parameters'
           )}
         </Button>
       ) : null}
-      <p className="expt-id">
-        Expt ID: {experiment ? experiment._id : "loading"}
+      <p className='expt-id'>
+        Expt ID: {experiment ? experiment._id : 'loading'}
       </p>
-      <div style={{ justifySelf: "flex-end" }}>
+      <div style={{ justifySelf: 'flex-end' }}>
         <Button
-          variant="primary"
+          variant='primary'
           onClick={async () => {
-            localStorage.removeItem("token");
-            history.push("/");
+            localStorage.removeItem('token');
+            history.push('/');
             dispatch(await handleLogout());
             dispatch(logoutExptAction());
             dispatch(logoutDataAction());
           }}
+          className='signout-btn'
         >
           Signout
         </Button>

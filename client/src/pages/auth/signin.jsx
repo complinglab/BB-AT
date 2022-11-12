@@ -30,8 +30,6 @@ function Signin(props) {
       let response = await api.signin({ username, password });
       dispatch(handleLogin(response));
 
-      console.log(response);
-
       if (response.role === 'annotator') props.history.push('/treebank');
       if (response.role === 'experimenter')
         props.history.push('/dashboard/users');
