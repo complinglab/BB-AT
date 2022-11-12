@@ -6,7 +6,6 @@ import classNames from 'classnames/bind';
 import Tippy from '@tippyjs/react/headless';
 import DefaultTippy from '@tippyjs/react';
 import Spinner from 'react-bootstrap/Spinner';
-
 import Loading from '../../components/Loading';
 import styles from '../../styles/AdjudicationTool.module.css';
 import * as api from '../../services/adjutool';
@@ -31,7 +30,7 @@ const Tool = (props) => {
   const [annoData, setAnnoData] = useState(null);
   const [taskIndex, setTaskIndex] = useState(null);
   const [mismatchedTags, setMismatchedTags] = useState(null);
-  const [labelAmbiguity, setLabelAmbiguity] = useState(null);
+  const [labelAmbiguity, setLabelAmbiguity] = useState({});
   const [loadingLabelAmbiguity, setloadingLabelAmbiguity] = useState(true);
 
   const [selectedWord, setSelectedWord] = useState(null);
@@ -250,7 +249,7 @@ const Tool = (props) => {
       api
         .getItemDifficulty()
         .then((data) => {
-          console.log(data.csvData);
+          // console.log(data.csvData);
           setItemDiff(data.csvData);
           setLoadingItemDiff(false);
         })
@@ -347,7 +346,7 @@ const Tool = (props) => {
   };
 
   function getWordBg(word, sent, annotator) {
-    console.log(sent.sentId);
+    // console.log(sent.sentId);
     if (itemDiff.length !== 0) {
       // get items with the sentence id
       const itemsArr = itemDiff.filter((item) => item.sent_id === sent.sentId);
@@ -448,15 +447,20 @@ const Tool = (props) => {
   }
 
   // if no label ambiguity data exists
-  if (annConfidence && !labelAmbiguity && !loadingLabelAmbiguity) {
+  if (
+    annConfidence &&
+    Object.keys(labelAmbiguity).length === 0 &&
+    !loadingLabelAmbiguity
+  ) {
+    console.log('no LA data');
     return (
       <div className={styles.centered}>
         <h2 className={styles.row}>Error</h2>
 
-        <h5>Label ambiguity data not found!</h5>
+        <h5 className='my-4'>Label ambiguity data not found!</h5>
         <p>
           <span className={styles.note}>Note</span>: Please upload annotated
-          data csv files and run 'uploadLabelAmbiguity script file'
+          data csv files and <br /> run 'uploadLabelAmbiguity script file'
         </p>
         <Button onClick={() => history.push('/')}>Sign out</Button>
       </div>
