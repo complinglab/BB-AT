@@ -10,7 +10,7 @@
                 "sent_id": "train-s1",
                 "text": "Die doel van die webtuiste vir Suid-Afrikaanse Regeringsdienste is om 'n enkele bron van inligting te bied oor dienste wat deur die Suid-Afrikaanse regering verskaf word.",
                 "org_sent_id": "1",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -412,7 +412,7 @@
                 "sent_id": "train-s2",
                 "text": "Die oogmerk is om die dispariteit te verminder wat tussen die bemagtigdes en die ontmagtigdes, oftewel die eerste en tweede ekonomie\u00eb, bestaan.",
                 "org_sent_id": "2",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -781,7 +781,7 @@
                 "sent_id": "train-s3",
                 "text": "Die webtuiste is 'n kritiese ingryp wat daarop gerig is om seker te maak dat landsburgers met die regering in interaksie sal kan tree.",
                 "org_sent_id": "3",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -1742,7 +1742,7 @@
                 "sent_id": "train-s5",
                 "text": "'n Kritiese sektor van gebruikers is al die tussengangers, soos die Veeldoelige Gemeenskapsentra (MPCCs), Gemeenskapontwikkelingswerkers (GOW's) en die Batho Pele Gateway-inbelsentrum, wat diegene wat nie in staat is om regstreeks toegang tot die Internet te kry nie, sal help om die webtuiste te gebruik.",
                 "org_sent_id": "5",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -2508,7 +2508,7 @@
                 "sent_id": "train-s6",
                 "text": "Die webtuiste bevat inligting oor regeringsdienste wat op die nasionale regeringsvlak aangebied word.",
                 "org_sent_id": "6",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -2724,7 +2724,7 @@
                 "sent_id": "train-s7",
                 "text": "Dienste vir buitelandse burgers: inligting wat spesifiek bedoel is vir burgers van ander lande wat toepaslike dienste van die Suid-Afrikaanse regering nodig het.",
                 "org_sent_id": "7",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -3099,7 +3099,7 @@
                 "sent_id": "train-s8",
                 "text": "Elk van hierdie kategorie\u00eb is verder op so 'n wyse gestruktureer dat dit aanpas by die volgorde van lewensgebeure (tipiese gebeure in die lewe van 'n burger of 'n sakeonderneming).",
                 "org_sent_id": "8",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -3735,7 +3735,7 @@
                 "sent_id": "train-s10",
                 "text": "Inligting ten opsigte van elke diens is volgens sewe sleutelareas gerangskik, naamlik beskrywing, stappe om te volg, wetlike raamwerk, diensstandaard; koste, vorms om in te vul, en kontakbesonderhede.",
                 "org_sent_id": "10",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -4255,7 +4255,7 @@
                 "sent_id": "train-s11",
                 "text": "Hierdie afdeling van die webtuiste, wat in die regterkantste navigasiebalk vertoon word, bevat skakels na die webtuistes wat aan daardie lewensgebeurtenis verwant is.",
                 "org_sent_id": "11",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -4644,7 +4644,7 @@
                 "sent_id": "train-s12",
                 "text": "Hierdie weergawe van die webtuiste maak voorsiening vir elf tale, naamlik Engels, Afrikaans, isiXhosa, isiZulu, Sepedi, Sesotho, Setswana, Ndebele, Tsonga, Venda en Siswati.",
                 "org_sent_id": "12",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -5129,7 +5129,7 @@
                 "sent_id": "train-s13",
                 "text": "Ten einde toegang tot die inligting op die webtuiste uit te brei, word daar in die vooruitsig gestel dat die inligting uiteindelik in al elf amptelike tale beskikbaar sal wees.",
                 "org_sent_id": "13",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -5601,7 +5601,7 @@
                 "sent_id": "train-s14",
                 "text": "Vertaling van die inligting in die oorblywende amptelike tale sal na verwagting teen Maart 2007 afgehandel wees.",
                 "org_sent_id": "14",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -5873,7 +5873,7 @@
                 "sent_id": "train-s15",
                 "text": "Dienste-inligting word oorspronklik in Engels opgestel, waarna dit in die ander tale vertaal word.",
                 "org_sent_id": "15",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -6121,7 +6121,7 @@
                 "sent_id": "train-s16",
                 "text": "Dienste-inligting word in die ander tale geplaas nadat dit vertaal is.",
                 "org_sent_id": "16",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -6311,7 +6311,7 @@
                 "sent_id": "train-s17",
                 "text": "Gebruik die Kontak ons bladsy om kommentaar te lewer oor of navraag te doen na die Regeringsdienste-webtuiste.",
                 "org_sent_id": "17",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -6584,7 +6584,7 @@
                 "sent_id": "train-s18",
                 "text": "Die www.gov.za-skakel voorsien toegang tot die Suid-Afrikaanse Regering Aanlyn tuisbladsy, wat toegang verskaf tot die webtuiste (Regeringsdienste-webtuiste) en die Regeringsinligting-webtuiste (www.info.gov.za).",
                 "org_sent_id": "18",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -6982,7 +6982,7 @@
                 "sent_id": "train-s19",
                 "text": "Die werfkaart verskaf 'n visuele voorstelling van die struktuur van die webtuiste.",
                 "org_sent_id": "19",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -7182,7 +7182,7 @@
                 "sent_id": "train-s20",
                 "text": "Dit word hi\u00ebrargies aangebied, en verdeel die webtuiste se inligting in steeds meer spesifieke onderwerpareas.",
                 "org_sent_id": "20",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -7440,7 +7440,7 @@
                 "sent_id": "train-s21",
                 "text": "Dit stel jou dus in staat om jouself ooreenkomstig die inhoudstruktuur van die webtuiste te ori\u00ebnteer.",
                 "org_sent_id": "21",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -7703,7 +7703,7 @@
                 "sent_id": "train-s22",
                 "text": "Die tuisbladsy verskaf 'n lys van die mees besoekte dienste.",
                 "org_sent_id": "22",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -7874,7 +7874,7 @@
                 "sent_id": "train-s23",
                 "text": "Hierdie inskrywings bied toegang tot die vyf dienste wat die meeste deur gebruikers besoek is.",
                 "org_sent_id": "23",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -8114,7 +8114,7 @@
                 "sent_id": "train-s24",
                 "text": "Die lysting word aangepas in ooreenstemming met die statistiek vir die bladsye wat besoek is.",
                 "org_sent_id": "24",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -8359,7 +8359,7 @@
                 "sent_id": "train-s25",
                 "text": "'n Soekvenstertjie is beskikbaar op alle bladsye op die webtuiste.",
                 "org_sent_id": "25",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -8530,7 +8530,7 @@
                 "sent_id": "train-s26",
                 "text": "Wanneer 'n soekterm ingesleutel word, sal die volledige webtuiste vir die bepaalde woord (e) deursoek word.",
                 "org_sent_id": "26",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -8807,7 +8807,7 @@
                 "sent_id": "train-s27",
                 "text": "Skakels na eksterne webtuistes word aangedui deur die woorde 'buiteskakel- maak 'n nuwe venster oop', wat in 'n venstertjie sal verskyn wanneer jou merker oor die skakel beweeg word.",
                 "org_sent_id": "27",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -9449,7 +9449,7 @@
                 "sent_id": "train-s29",
                 "text": "Hoe gereeld gaan die inligting bygewerk word?",
                 "org_sent_id": "29",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -9578,7 +9578,7 @@
                 "sent_id": "train-s30",
                 "text": "Die webtuiste sal op 'n voortdurende basis bygewerk word.",
                 "org_sent_id": "30",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -10463,7 +10463,7 @@
                 "sent_id": "train-s34",
                 "text": "Regeringsdepartemente neem self eienaarskap van hul inligting op die webtuiste.",
                 "org_sent_id": "34",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -10636,7 +10636,7 @@
                 "sent_id": "train-s35",
                 "text": "Hierdie funksie is toegewys aan departementele kontakbestuurders wat verantwoordelik is vir die inligting wat op die webtuiste gepubliseer word.",
                 "org_sent_id": "35",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -10942,7 +10942,7 @@
                 "sent_id": "train-s36",
                 "text": "Regeringskommunikasie (GCIS) is verantwoordelik vir die oorkoepelende bestuur en ko\u00f6rdinering van die webtuiste se inhoud.",
                 "org_sent_id": "36",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -11208,7 +11208,7 @@
                 "sent_id": "train-s37",
                 "text": "Die vernaamste formaat vir inligting op die webtuiste is HTML.",
                 "org_sent_id": "37",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -11688,7 +11688,7 @@
                 "sent_id": "train-s39",
                 "text": "Ten einde PDF-dokumente te kan oopmaak, moet jy Adobe Acrobat Reader 4 of ho\u00ebr op jou rekenaar ge\u00efnstalleer h\u00ea.",
                 "org_sent_id": "39",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -12006,7 +12006,7 @@
                 "sent_id": "train-s40",
                 "text": "Dit sal dokumente regstreeks in jou blaaier oopmaak.",
                 "org_sent_id": "40",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -12152,7 +12152,7 @@
                 "sent_id": "train-s41",
                 "text": "Soms neem dit lank om PDF-dokumente oop te maak.",
                 "org_sent_id": "41",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -12309,7 +12309,7 @@
                 "sent_id": "train-s42",
                 "text": "In daardie geval beveel ons aan dat jy dit na jou rekenaar aflaai en liewer van daar af oopmaak.",
                 "org_sent_id": "42",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -12613,7 +12613,7 @@
                 "sent_id": "train-s43",
                 "text": "Gebruik jou muis om regs te klik op die dokument wat jy graag wil aflaai.",
                 "org_sent_id": "43",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -12862,7 +12862,7 @@
                 "sent_id": "train-s44",
                 "text": "In die tuimel-kieslys wat verskyn, kies 'Save Target As'.",
                 "org_sent_id": "44",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -13478,7 +13478,7 @@
                 "sent_id": "train-s46",
                 "text": "Die l\u00eaer sal afgelaai word na die plek wat jy aangedui het.",
                 "org_sent_id": "46",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -13946,7 +13946,7 @@
                 "sent_id": "train-s48",
                 "text": "Gebruik jou muis, en skuif en klik (linkerkantste muisklik) op die skakel na die dokument wat jy wil stoor.",
                 "org_sent_id": "48",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -14294,7 +14294,7 @@
                 "sent_id": "train-s49",
                 "text": "In die 'Save As 'venstertjie, kies die plek op jou hardeskyf waar jy die dokument wil stoor en klik op die 'Save' knoppie.",
                 "org_sent_id": "49",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -14722,7 +14722,7 @@
                 "sent_id": "train-s50",
                 "text": "Die l\u00eaer sal afgelaai word na die plek wat jy aangedui het.",
                 "org_sent_id": "50",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -14929,7 +14929,7 @@
                 "sent_id": "train-s51",
                 "text": "Maak jou Acrobat Reader toepassing oop en maak daarna ook die dokumente wat jy afgelaai het oop.",
                 "org_sent_id": "51",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -15602,7 +15602,7 @@
                 "sent_id": "train-s54",
                 "text": "Indien 'n vereniging, maatskappy of beslote korporasie nie sy skuld kan of wil betaal nie en ook nie sy verpligtinge kan nakom nie (weens insolvensie, wanbestuur of om enige ander rede) mag die Direkteur-generaal van Handel en Nywerheid 'n sakeonderneming onder administrasie plaas of laat likwideer.",
                 "org_sent_id": "54",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -16343,7 +16343,7 @@
                 "sent_id": "train-s55",
                 "text": "'n Vereniging of 'n voorlopige vereniging, enige lid van die vereniging of enige ander belanghebbende persoon mag by die hof aansoek doen dat die Direkteur-generaal die vereniging of voorlopige vereniging onder administrasie plaas of likwideer.",
                 "org_sent_id": "55",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -17373,7 +17373,7 @@
                 "sent_id": "train-s57",
                 "text": "In sy beslissing sal die hof enige moontlike aanbevelings deur die Direkteur-generaal oor die verdeling van bates in ag neem.",
                 "org_sent_id": "57",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -17689,7 +17689,7 @@
                 "sent_id": "train-s58",
                 "text": "Indien die Direkteur-generaal, of 'n vereniging of voorlopige vereniging, of enige lid van die vereniging, of enige ander belanghebbende persoon aansoek doen dat 'n vereniging of voorlopige vereniging deur die Direkteur-generaal onder administrasie geplaas of gelikwideer moet word, kan die Minister beslis ingevolge watter prosedure die Direkteur-generaal die vereniging of voorlopige vereniging onder administrasie moet plaas of likwideer.",
                 "org_sent_id": "58",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -18599,7 +18599,7 @@
                 "sent_id": "train-s59",
                 "text": "Die Minister kan onder sulke omstandighede ook die magte en pligte van die Direkteur-generaal, die registrasiebeampte, die vereniging, die lede en belanghebbende partye uiteensit.",
                 "org_sent_id": "59",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -19009,7 +19009,7 @@
                 "sent_id": "train-s60",
                 "text": "In die geval van 'n maatskappy of beslote korporasie (BK) kan enige belanghebbende party, direkteur of ouditeur van die maatskappy, die Suid-Afrikaanse Inkomstediens (SAID) of die Registrateur van Maatskappye om die deregistrasie van 'n maatskappy of BK aansoek doen.",
                 "org_sent_id": "60",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -20058,7 +20058,7 @@
                 "sent_id": "train-s62",
                 "text": "'n Maatskappy wat ooreenkomstig Artikel 21 van die Maatskappywet, 1973 ingelyf is.",
                 "org_sent_id": "62",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -20577,7 +20577,7 @@
                 "sent_id": "train-s64",
                 "text": "'n Trust met 'n stigtingsdokument en 'n trustakte.",
                 "org_sent_id": "64",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -20901,7 +20901,7 @@
                 "sent_id": "train-s66",
                 "text": "'n Vereniging van persone.",
                 "org_sent_id": "66",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -20982,7 +20982,7 @@
                 "sent_id": "train-s67",
                 "text": "Dit moet 'n vrywillige vereniging van persone wees wie se sake ooreenkomstig 'n grondwet gere\u00ebl word.",
                 "org_sent_id": "67",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -21245,7 +21245,7 @@
                 "sent_id": "train-s68",
                 "text": "As die stigtingsdokument nie aan die voorwaardes van Artikel 30 van die Wet op Organisasies sonder Winsoogmerk, 1997 voldoen nie, moet 'n geskrewe onderneming wat deur die aansoeker onderteken is, saam met die aansoekvorm ingedien word.",
                 "org_sent_id": "68",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -22216,7 +22216,7 @@
                 "sent_id": "train-s70",
                 "text": "Organisasies wat tans nie formeel van inkomstebelasting vrygestel is nie, kan 'n ingevulde aansoekvorm indien, saam met die nodige ondersteunende dokumente en die ondertekende geskrewe onderneming waarin persone wat in 'n fidusi\u00eare hoedanigheid optree, onderneem om aan die voorwaardes van Artikel 30 van die Wet op Organisasies sonder Winsoogmerk, 1997, te voldoen.",
                 "org_sent_id": "70",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -23064,7 +23064,7 @@
                 "sent_id": "train-s71",
                 "text": "Organisasies wat gestig is met die hoofdoelstelling om stipendiums, studiebeurse en ander toekennings vir studie, navorsing en onderrig te verskaf, moet naas al die ondersteunende dokumente wat hierbo genoem is ook 'n EI 3 Geskrewe Onderneming invul en indien.",
                 "org_sent_id": "71",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -23691,7 +23691,7 @@
                 "sent_id": "train-s72",
                 "text": "Openbare en onafhanklike (privaat) skole, ho\u00ebronderwysinstellings, instellings vir volwassene- basiese onderwys en opleiding (VBOO) en instellings vir verdere onderwys en opleiding (VOO) moet 'n kopie van 'n registrasiesertifikaat wat deur die betrokke opvoedkundige owerheid uitgereik is, indien.",
                 "org_sent_id": "72",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -24370,7 +24370,7 @@
                 "sent_id": "train-s73",
                 "text": "Onderhoud is die plig om 'n ander persoon, byvoorbeeld 'n minderjarige, te voorsien van huisvesting, voedsel, klere, onderwys en mediese sorg, of om die middele te verskaf wat nodig is om di\u00e9 persoon van hierdie noodsaaklikhede te voorsien.",
                 "org_sent_id": "73",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -25026,7 +25026,7 @@
                 "sent_id": "train-s74",
                 "text": "Hierdie regsplig om te onderhou word \"die onderhoudsplig\" genoem.",
                 "org_sent_id": "74",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -25211,7 +25211,7 @@
                 "sent_id": "train-s75",
                 "text": "Wie moet onderhoud verskaf?",
                 "org_sent_id": "75",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -25295,7 +25295,7 @@
                 "sent_id": "train-s76",
                 "text": "Die onderhoudsplig ontstaan deur middel van bloedverwantskap, aanneming, of huweliksluiting van die partye met mekaar.",
                 "org_sent_id": "76",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -25559,7 +25559,7 @@
                 "sent_id": "train-s77",
                 "text": "Hierdie situasie verskil egter van geval tot geval.",
                 "org_sent_id": "77",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -25697,7 +25697,7 @@
                 "sent_id": "train-s78",
                 "text": "Die plig om 'n familielid te onderhou is nie beperk tot die onderhoud van 'n kind nie.",
                 "org_sent_id": "78",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -26490,7 +26490,7 @@
                 "sent_id": "train-s81",
                 "text": "Watter uitgawes mag ge\u00ebis word?",
                 "org_sent_id": "81",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -26590,7 +26590,7 @@
                 "sent_id": "train-s82",
                 "text": "Jy mag sodanige onderhoud eis as wat redelikerwys noodsaaklik is om die kind of ander persoon wat op onderhoud geregtig is, te voorsien van 'n behoorlike opvoeding en bestaan.",
                 "org_sent_id": "82",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -27053,7 +27053,7 @@
                 "sent_id": "train-s83",
                 "text": "Dit sluit die verskaffing van noodsaaklikhede soos voedsel, klere en behuising in, en dit dek ook die kostes verbonde aan die voorsiening van behoorlike onderrig.",
                 "org_sent_id": "83",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -27466,7 +27466,7 @@
                 "sent_id": "train-s84",
                 "text": "Die hof is ook by magte om die vader te beveel om by te dra tot die betaling van laying-in expenses [??] en onderhoud van die kind se geboortedatum af tot op die dag waarop die onderhoudsbevel toegestaan word.",
                 "org_sent_id": "84",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -28086,7 +28086,7 @@
                 "sent_id": "train-s85",
                 "text": "Die hof kan ook 'n bevel verleen ten opsigte van die betaling van mediese onkoste, of hy kan beveel dat die kind as 'n afhanklike op die mediese fonds van een van die partye geregistreer moet word.",
                 "org_sent_id": "85",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -28662,7 +28662,7 @@
                 "sent_id": "train-s86",
                 "text": "Ten einde die hof in staat te stel om 'n billike onderhoudsbevel te verleen, moet albei die partye die hof van bewys van hulle uitgawes voorsien.",
                 "org_sent_id": "86",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -29079,7 +29079,7 @@
                 "sent_id": "train-s87",
                 "text": "Jou plig om onderhoud te betaal en jou reg op toegang tot jou kinders is twee heeltemal verskillende sake, wat op geen manier van mekaar afhanklik is nie.",
                 "org_sent_id": "87",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -29522,7 +29522,7 @@
                 "sent_id": "train-s88",
                 "text": "Indien enige van die partye nog kinders sou h\u00ea, sal dit geen invloed op die onderhoudsplig uitoefen nie.",
                 "org_sent_id": "88",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -30412,7 +30412,7 @@
                 "sent_id": "train-s91",
                 "text": "Jou plaaslike hof sal vir jou kan s\u00ea by watter hof jy om onderhoud aansoek moet doen indien jy nie seker is nie.",
                 "org_sent_id": "91",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -31097,7 +31097,7 @@
                 "sent_id": "train-s93",
                 "text": "Saam met die voltooide vorm moet jy ook bewys indien van jou maandelikse inkomste en uitgawes, soos kwitansies vir voedselaankope, die elektrisiteitsrekening en / of betaling van huishuur.",
                 "org_sent_id": "93",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -31985,7 +31985,7 @@
                 "sent_id": "train-s95",
                 "text": "'n Onderhoudsbeampte en 'n ondersoeker sal jou eis ondersoek en jou omstandighede nagaan.",
                 "org_sent_id": "95",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -32201,7 +32201,7 @@
                 "sent_id": "train-s96",
                 "text": "Die hof sal 'n dagvaarding ('n brief wat 'n persoon opdrag gee om na die hof toe te gaan) op die respondent (die persoon teen wie die aansoek om onderhoud gebring word) laat beteken om op 'n sekere dag in die hof te verskyn ten einde die aangeleentheid te bespreek.",
                 "org_sent_id": "96",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -33012,7 +33012,7 @@
                 "sent_id": "train-s97",
                 "text": "Die respondent het nou die keuse om toe te stem tot betaling van die onderhoud wat ge\u00ebis word, of om die aangeleentheid in die hof teen te staan.",
                 "org_sent_id": "97",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -33455,7 +33455,7 @@
                 "sent_id": "train-s98",
                 "text": "Indien die respondent instem om onderhoud te betaal, sal 'n landdros die relevante dokumente nagaan.",
                 "org_sent_id": "98",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -33714,7 +33714,7 @@
                 "sent_id": "train-s99",
                 "text": "Die landdros sal dan 'n bevel maak, en hy of sy mag besluit om dit te doen sonder om van die partye te vereis om in die hof te verskyn.",
                 "org_sent_id": "99",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -34195,7 +34195,7 @@
                 "sent_id": "train-s100",
                 "text": "Indien die persoon wat na bewering aanspreeklik is vir die betaling van onderhoud nie toestem tot die verlening van 'n onderhoudsbevel nie, moet hy of sy in die hof verskyn, waar getuienis van albei die partye \u00e9n hulle onderskeie getuies aangehoor sal word.",
                 "org_sent_id": "100",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -34874,7 +34874,7 @@
                 "sent_id": "train-s101",
                 "text": "Indien die hof bevind dat 'n persoon aanspreeklik is vir die betaling van onderhoud, sal hy 'n bevel maak waarin hy bepaal hoeveel onderhoud betaal moet word.",
                 "org_sent_id": "101",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -35314,7 +35314,7 @@
                 "sent_id": "train-s102",
                 "text": "Die hof sal ook bepaal wanneer en hoe onderhoudsbetalings gemaak moet word.",
                 "org_sent_id": "102",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -36121,7 +36121,7 @@
                 "sent_id": "train-s105",
                 "text": "Die afdeling, Magtiging om aansoek te doen, moet ingevul word deur die persoon (alleeneienaar, direkteur, vennote, lid, trustee of persoon wat die besigheid bestuur) wat aansoek doen om registrasie as 'n invoerder.",
                 "org_sent_id": "105",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -36717,7 +36717,7 @@
                 "sent_id": "train-s106",
                 "text": "Die naam van die applikant of die geregistreerde naam van die besigheid en nie die handelsnaam nie, moet hier ingevul word.",
                 "org_sent_id": "106",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -37058,7 +37058,7 @@
                 "sent_id": "train-s107",
                 "text": "Waar 'n asterisk (*) voorkom, moet jy dit wat nie van toepassing is nie, skrap.",
                 "org_sent_id": "107",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -37576,7 +37576,7 @@
                 "sent_id": "train-s109",
                 "text": "Die aansoekvorm (DA 185) moet deur die applikant self ingevul word en nie deur 'n derde party nie, anders sal die aansoek nie oorweeg word nie.",
                 "org_sent_id": "109",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -38243,7 +38243,7 @@
                 "sent_id": "train-s111",
                 "text": "Die Magtiging om aansoek te doen-gedeelte moet deur die applikant (alleeneienaar, direkteur, vennote, lid, trustee of persoon wat enige ander maatskappy bestuur) voltooi word wanneer daar om registrasie as 'n kortinggebruiker aansoek gedoen word.",
                 "org_sent_id": "111",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -38840,7 +38840,7 @@
                 "sent_id": "train-s112",
                 "text": "Die naam van die applikant of die geregistreerde naam van die entiteit, en nie die handelsnaam nie, moet hier ingevul word.",
                 "org_sent_id": "112",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -39662,7 +39662,7 @@
                 "sent_id": "train-s115",
                 "text": "Die applikant moet die aansoekvorm teken.",
                 "org_sent_id": "115",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -40384,7 +40384,7 @@
                 "sent_id": "train-s118",
                 "text": "Die aansoeker moet 'n regspersoon wees, byvoorbeeld Johan Pieters Citizen wat sake doen as Diepsloot Stud.",
                 "org_sent_id": "118",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -40652,7 +40652,7 @@
                 "sent_id": "train-s119",
                 "text": "'n Oorsese maatskappy mag nie aansoek doen om registrasie in Suid-Afrika nie.",
                 "org_sent_id": "119",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -40851,7 +40851,7 @@
                 "sent_id": "train-s120",
                 "text": "Slegs 'n plaaslik geregistreerde maatskappy, 'n Suid-Afrikaanse burger of 'n liggaam met regspersoonlikheid wat in Suid-Afrika geregistreer is, mag aansoek doen om die registrasie van misstowwe.",
                 "org_sent_id": "120",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -41616,7 +41616,7 @@
                 "sent_id": "train-s123",
                 "text": "Die aansoek om registrasie van dierevoer en misstowwe bestaan uit 'n Dekbrief van die registrasiehouer of di\u00e9 se aangewese verteenwoordiger.",
                 "org_sent_id": "123",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -42760,7 +42760,7 @@
                 "sent_id": "train-s126",
                 "text": "Die ander afskrif kan 'n fotostaat wees).",
                 "org_sent_id": "126",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -42904,7 +42904,7 @@
                 "sent_id": "train-s127",
                 "text": "Die wetlik aangewese persoon, wat verkieslik die registrateur se kontakpersoon by die maatskappy moet wees, moet die aansoekvorms teken.",
                 "org_sent_id": "127",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -43236,7 +43236,7 @@
                 "sent_id": "train-s128",
                 "text": "Die naam en registrasienommer van die produk moet gebruik word soos wat dit op die registrasiesertifikaat aangedui word.",
                 "org_sent_id": "128",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -43524,7 +43524,7 @@
                 "sent_id": "train-s129",
                 "text": "Enige naamsverandering, hoe klein ookal, sal as 'n wysiging beskou word.",
                 "org_sent_id": "129",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -43863,7 +43863,7 @@
                 "sent_id": "train-s131",
                 "text": "Om aansoeke aan die tegniese raadgewers te oorhandig sal die proses vertraag.",
                 "org_sent_id": "131",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -44065,7 +44065,7 @@
                 "sent_id": "train-s132",
                 "text": "Alle misstowwe wat in Suid-Afrika ingevoer, vervaardig, geproduseer of verkoop word, moet geregistreer wees met die registrateur van Wet 36 van 1947.",
                 "org_sent_id": "132",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -44450,7 +44450,7 @@
                 "sent_id": "train-s133",
                 "text": "Die aansoeker moet 'n regspersoon wees, byvoorbeeld Johan Pieters Citizen wat sake doen as Diepsloot Stud.",
                 "org_sent_id": "133",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -44917,7 +44917,7 @@
                 "sent_id": "train-s135",
                 "text": "Slegs 'n plaaslik geregistreerde maatskappy, 'n Suid-Afrikaanse burger of 'n liggaam met regspersoonlikheid wat in Suid-Afrika geregistreer is mag aansoek doen om die registrasie van misstowwe.",
                 "org_sent_id": "135",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -45333,7 +45333,7 @@
                 "sent_id": "train-s136",
                 "text": "Groep 2-misstowwe is di\u00e9 wat makro- of mikro\u00f6rganismes as hoofbestanddeel bevat.",
                 "org_sent_id": "136",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -45509,7 +45509,7 @@
                 "sent_id": "train-s137",
                 "text": "Hulle is ook bekend as organiese misstowwe.",
                 "org_sent_id": "137",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -45638,7 +45638,7 @@
                 "sent_id": "train-s138",
                 "text": "Die aansoek om registrasie van dierevoer en misstowwe bestaan uit 'n dekbrief van die registrasiehouer of di\u00e9 se aangewese verteenwoordiger.",
                 "org_sent_id": "138",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -45945,7 +45945,7 @@
                 "sent_id": "train-s139",
                 "text": "Dien 'n aansoekvorm in vir nuwe aansoeke en wysigings aan 'n bestaande registrasie, insluitende verandering van formulering.",
                 "org_sent_id": "139",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -46227,7 +46227,7 @@
                 "sent_id": "train-s140",
                 "text": "Dien aansoekvorms in duplikaat in en vul die vorms volledig in, sonder om te verwys na vorige aansoeke, bladsynommers of ander produkte (ten minste een afskrif van die aansoekvorms moet 'n oorspronklike handtekening h\u00ea.",
                 "org_sent_id": "140",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -46782,7 +46782,7 @@
                 "sent_id": "train-s141",
                 "text": "Die ander afskrif kan 'n fotostaat wees).",
                 "org_sent_id": "141",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -46926,7 +46926,7 @@
                 "sent_id": "train-s142",
                 "text": "Die wetlik aangewese persoon, wat verkieslik die registrateur se kontakpersoon by die maatskappy moet wees, moet die aansoekvorms teken.",
                 "org_sent_id": "142",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -47546,7 +47546,7 @@
                 "sent_id": "train-s144",
                 "text": "Enige naamsverandering, hoe klein ookal, sal as 'n wysiging beskou word.",
                 "org_sent_id": "144",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -47759,7 +47759,7 @@
                 "sent_id": "train-s145",
                 "text": "Dien die aansoekvorms by die administrasiekantoor in.",
                 "org_sent_id": "145",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -48087,7 +48087,7 @@
                 "sent_id": "train-s147",
                 "text": "Planttelersregte word slegs toegestaan vir vari\u00ebteite van di\u00e9 soorte plante wat ingevolge die Wet op Planttelersregte, 1976 verklaar is.",
                 "org_sent_id": "147",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -48398,7 +48398,7 @@
                 "sent_id": "train-s148",
                 "text": "Daar is sowat 290 soorte plante op die lys van plante (Tabel 1) waarvoor planttelersregte toegestaan mag word.",
                 "org_sent_id": "148",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -48707,7 +48707,7 @@
                 "sent_id": "train-s149",
                 "text": "Voortplantingsmateriaal van daardie vari\u00ebteit nog nie vir langer as een jaar in Suid-Afrika verkoop word nie.",
                 "org_sent_id": "149",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -48955,7 +48955,7 @@
                 "sent_id": "train-s150",
                 "text": "Voortplantingsmateriaal vir 'n vari\u00ebteit van 'n boom of wingerdstok nog nie vir langer as ses jaar in die handel of aan die publiek van 'n ander land beskikbaar is nie; en vir enige ander plant nog nie vir langer as vier jaar nie.",
                 "org_sent_id": "150",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -49594,7 +49594,7 @@
                 "sent_id": "train-s151",
                 "text": "Raadpleeg Tabel 1 van die Wet op Planttelersregte, 1976 om vas te stel of die soort plant van die vari\u00ebteit waarvoor beskerming aangevra word, reeds verklaar is.",
                 "org_sent_id": "151",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -50033,7 +50033,7 @@
                 "sent_id": "train-s152",
                 "text": "As die soort plant nie in die tabel verskyn nie, moet jy 'n skriftelike aansoek om verklaring, met 'n motivering daarby, by die Registrateur: Planttelersregte indien.",
                 "org_sent_id": "152",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -50491,7 +50491,7 @@
                 "sent_id": "train-s153",
                 "text": "Dui duidelik op die tegniese vraelys aan met watter bekende vari\u00ebteite die nuwe vari\u00ebteit vergelyk moet word om sy onderskeidende eienskappe vas te stel.",
                 "org_sent_id": "153",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -50874,7 +50874,7 @@
                 "sent_id": "train-s154",
                 "text": "Jy mag om voorlopige beskerming van 'n vari\u00ebteit aansoek doen.",
                 "org_sent_id": "154",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -51048,7 +51048,7 @@
                 "sent_id": "train-s155",
                 "text": "Dit beteken dat die vari\u00ebteit vir die duur van die evalueringstydperk beskerm word.",
                 "org_sent_id": "155",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -51700,7 +51700,7 @@
                 "sent_id": "train-s157",
                 "text": "Jy word aangeraai om voorlopige beskerming aan te vra vir gewasse waarvoor toetsing langer as 'n jaar neem om af te handel.",
                 "org_sent_id": "157",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -52245,7 +52245,7 @@
                 "sent_id": "train-s159",
                 "text": "Jy kan hierdie datums, asook inligting oor die hoeveelheid van die voortplantingsmateriaal wat ingedien moet word en die plek van indiening, kan by die Registrateur aanvra.",
                 "org_sent_id": "159",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -52676,7 +52676,7 @@
                 "sent_id": "train-s160",
                 "text": "As daar reeds 'n vari\u00ebteitslys bestaan vir die soort plant waarvoor jy planttelersregte aanvra, kan jy die aansoeke gelyktydig indien om geld en tyd te bespaar.",
                 "org_sent_id": "160",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -53504,7 +53504,7 @@
                 "sent_id": "train-s162",
                 "text": "Die aansoeker moet 'n regspersoon wees, byvoorbeeld Johan Pieters Burger wat handel dryf as Diepsloot-stoetery.",
                 "org_sent_id": "162",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -53758,7 +53758,7 @@
                 "sent_id": "train-s163",
                 "text": "'n Oorsese maatskappy mag nie om registrasie in Suid-Afrika aansoek doen nie.",
                 "org_sent_id": "163",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -54385,7 +54385,7 @@
                 "sent_id": "train-s165",
                 "text": "'n Veevoedsel sluit nie strooi, kaf, ongemaalde hooi, kuilvoer, graankorrels of enige voedsel wat 'n boer vir eie gebruik voorberei, in nie.",
                 "org_sent_id": "165",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -55211,7 +55211,7 @@
                 "sent_id": "train-s168",
                 "text": "Tjeks en posorders moet aan die Direkteur-generaal: Landbou uitgemaak word.",
                 "org_sent_id": "168",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -55394,7 +55394,7 @@
                 "sent_id": "train-s169",
                 "text": "Dien 'n aansoekvorm (dien aansoekvorms in tweevoud) in vir nuwe aansoeke en wysigings aan 'n bestaande registrasie, insluitende verandering van formulering.",
                 "org_sent_id": "169",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -55762,7 +55762,7 @@
                 "sent_id": "train-s170",
                 "text": "Vul die vorms volledig in, sonder om te verwys na vorige aansoeke, bladsynommers of ander produkte (ten minste een afskrif van die aansoekvorms moet 'n oorspronklike handtekening h\u00ea.",
                 "org_sent_id": "170",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -56233,7 +56233,7 @@
                 "sent_id": "train-s171",
                 "text": "Die ander afskrif kan 'n fotostaat wees).",
                 "org_sent_id": "171",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -56377,7 +56377,7 @@
                 "sent_id": "train-s172",
                 "text": "Die wetlik aangewese persoon, wat verkieslik die registrateur se kontakpersoon by die maatskappy moet wees, moet die aansoekvorms onderteken.",
                 "org_sent_id": "172",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -56709,7 +56709,7 @@
                 "sent_id": "train-s173",
                 "text": "Die naam en registrasienommer van die produk moet gebruik word soos wat dit op die registrasiesertifikaat aangedui word.",
                 "org_sent_id": "173",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -57224,7 +57224,7 @@
                 "sent_id": "train-s175",
                 "text": "Dien die aansoekvorms by die administrasiekantoor in.",
                 "org_sent_id": "175",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -57350,7 +57350,7 @@
                 "sent_id": "train-s176",
                 "text": "As jy aansoeke aan die tegniese raadgewers oorhandig, sal dit die proses vertraag.",
                 "org_sent_id": "176",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -57584,7 +57584,7 @@
                 "sent_id": "train-s177",
                 "text": "Rekreasievisvangs sluit betrokkenheid by 'n visverwante aktiwiteit soos die invoer van seewatervis vir rekreasiedoeleindes in.",
                 "org_sent_id": "177",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -57822,7 +57822,7 @@
                 "sent_id": "train-s178",
                 "text": "Om seewatervis op rekreasiegrondslag in te voer, moet jy aansoek doen om 'n rekreasie-invoerpermit wat deur die Minister van Omgewingsake en Toerisme (DEA&T), of gedelegeerde instansie, uitgereik sal word.",
                 "org_sent_id": "178",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -58335,7 +58335,7 @@
                 "sent_id": "train-s179",
                 "text": "Hierdie ingevoerde vis mag nie te koop aangebied word nie; dit is slegs vir persoonlike gebruik.",
                 "org_sent_id": "179",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -58614,7 +58614,7 @@
                 "sent_id": "train-s180",
                 "text": "Geen persoon mag seewatervis invoer sonder 'n rekreasie-invoerpermit nie.",
                 "org_sent_id": "180",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -58767,7 +58767,7 @@
                 "sent_id": "train-s181",
                 "text": "Wanneer 'n bestaande rekreasie-invoerpermit verval, moet jy om 'n nuwe rekreasie-invoerpermit aansoek doen.",
                 "org_sent_id": "181",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -59002,7 +59002,7 @@
                 "sent_id": "train-s182",
                 "text": "Versuim om aan die permitvoorwaardes gehoor te gee, kan tot opheffing of kansellasie van jou permit lei.",
                 "org_sent_id": "182",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -59286,7 +59286,7 @@
                 "sent_id": "train-s183",
                 "text": "LW: Hierdie invoerpermit sluit varswatervis uit, want dit word deur die Departement van Landbou geadministreer.",
                 "org_sent_id": "183",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -59554,7 +59554,7 @@
                 "sent_id": "train-s184",
                 "text": "Aansoek om 'n invoerpermit vir lewende varswatervis of tropiese vis moet by die Departement van Landbou ingedien word.",
                 "org_sent_id": "184",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -59840,7 +59840,7 @@
                 "sent_id": "train-s185",
                 "text": "Geen spesie wat deur die Konvensie oor Internasionale Handel in Bedreigde Spesies van Wilde Fauna en Flora (CITES) gelys is, mag ingevoer word nie.",
                 "org_sent_id": "185",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -60751,7 +60751,7 @@
                 "sent_id": "train-s187",
                 "text": "Geen lewende seewatervis mag ingevoer word nie.",
                 "org_sent_id": "187",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -60879,7 +60879,7 @@
                 "sent_id": "train-s188",
                 "text": "Vorms kan per hand afgelewer of per pos gestuur word.",
                 "org_sent_id": "188",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -61364,7 +61364,7 @@
                 "sent_id": "train-s190",
                 "text": "Jy het nie 'n permit vir aas nodig nie.",
                 "org_sent_id": "190",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -61520,7 +61520,7 @@
                 "sent_id": "train-s191",
                 "text": "Sorg egter dat jy \u00f3f 'n rekreasiepermit vir aas (slegs die saklimiet mag vervoer word) \u00f3f 'n kontantstrokie vir gekoopte aas by jou het.",
                 "org_sent_id": "191",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -61923,7 +61923,7 @@
                 "sent_id": "train-s192",
                 "text": "Vorms kan per hand afgelewer of per pos gestuur word.",
                 "org_sent_id": "192",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -62093,7 +62093,7 @@
                 "sent_id": "train-s193",
                 "text": "Kommersi\u00eble visvangs behels dat jy 'n aktiwiteit onderneem wat met visvangs verband hou, soos om seewatervis vir handelsdoeleindes uit te voer.",
                 "org_sent_id": "193",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -63064,7 +63064,7 @@
                 "sent_id": "train-s195",
                 "text": "Niemand mag seewatervis sonder 'n permit uitvoer nie.",
                 "org_sent_id": "195",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -63205,7 +63205,7 @@
                 "sent_id": "train-s196",
                 "text": "Wanneer jou bestaande permit na drie maande verval, moet jy om 'n nuwe een aansoek doen.",
                 "org_sent_id": "196",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -63480,7 +63480,7 @@
                 "sent_id": "train-s197",
                 "text": "As jy versuim om aan die permitvoorwaardes te voldoen, kan jou permit gekanselleer of opgehef word.",
                 "org_sent_id": "197",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -63757,7 +63757,7 @@
                 "sent_id": "train-s198",
                 "text": "LW: Die uitvoerpermit waarna verwys word, sluit varswatervis uit.",
                 "org_sent_id": "198",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -63940,7 +63940,7 @@
                 "sent_id": "train-s199",
                 "text": "Varswatervis word deur die Departement van Landbou geadministreer.",
                 "org_sent_id": "199",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -64081,7 +64081,7 @@
                 "sent_id": "train-s200",
                 "text": "Aansoeke om 'n uitvoerpermit vir lewende, gematigde varswatervis of tropiese vis moet by die Departement van Landbou ingedien word.",
                 "org_sent_id": "200",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -64770,7 +64770,7 @@
                 "sent_id": "train-s202",
                 "text": "As 'n uitvoerpermit vir die perlemoenspesie aan jou uitgereik is, moet jy ook vir elke besending perlemoen 'n CITES-sertifikaat h\u00ea.",
                 "org_sent_id": "202",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -65103,7 +65103,7 @@
                 "sent_id": "train-s203",
                 "text": "Vir elke uitvoerpermit wat vir grootoog-tuna, suidelike blouvin-tuna, swaardvis, Antarktiese tandvis en Patagoniese tandvis uitgereik is, moet jy vir elke besending ook die betrokke vangsstatistiek-dokument h\u00ea.",
                 "org_sent_id": "203",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -65565,7 +65565,7 @@
                 "sent_id": "train-s204",
                 "text": "Vangsstatistiek-dokumente is by die Departement Omgewingsake en Toerisme, Tak: Mariene en Kusbestuur, Direktoraat Kus- en Diepseevisserybestuur te kry.",
                 "org_sent_id": "204",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -66773,7 +66773,7 @@
                 "sent_id": "train-s208",
                 "text": "Stel jou naaste tak van die Suid-Afrikaanse Buro vir Standaarde van jou uitvoerbesending in kennis as die vis wat jy wil uitvoer nie vars is nie en nie vir menslike verbruik bedoel is nie.",
                 "org_sent_id": "208",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -67603,7 +67603,7 @@
                 "sent_id": "train-s210",
                 "text": "Jy moet 'n aansoekfooi van R225 (BTW ingesluit) betaal.",
                 "org_sent_id": "210",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -67787,7 +67787,7 @@
                 "sent_id": "train-s211",
                 "text": "Vul die aansoekvorm om 'n uitvoerpermit in, onderteken dit en pos dit saam met die nodige dokumente aan die kantoor van Mariene en Kusbestuur (die adres verskyn onder).",
                 "org_sent_id": "211",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -68512,7 +68512,7 @@
                 "sent_id": "train-s213",
                 "text": "Om vis op kommersi\u00eble grondslag in te voer, beteken dat jy aan aktiwiteite soos die invoer van seewatervis vir handelsdoeleindes deelneem.",
                 "org_sent_id": "213",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -68852,7 +68852,7 @@
                 "sent_id": "train-s214",
                 "text": "Om seewatervis te mag invoer, moet jy aansoek doen om 'n invoerpermit, wat deur die Minister van Omgewingsake en Toerisme of die gedelegeerde gesagsowerheid toegeken word.",
                 "org_sent_id": "214",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -69284,7 +69284,7 @@
                 "sent_id": "train-s215",
                 "text": "Niemand mag seewatervis sonder 'n permit invoer nie.",
                 "org_sent_id": "215",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -69425,7 +69425,7 @@
                 "sent_id": "train-s216",
                 "text": "Wanneer die bestaande invoerpermit verval, moet jy om 'n nuwe invoerpermit aansoek doen.",
                 "org_sent_id": "216",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -70198,7 +70198,7 @@
                 "sent_id": "train-s219",
                 "text": "'n Aansoek om 'n invoerpermit vir lewende varswatervis of tropiese vis moet by die Departement van Landbou ingedien word.",
                 "org_sent_id": "219",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -70912,7 +70912,7 @@
                 "sent_id": "train-s221",
                 "text": "'n Invoerpermit vir die vang van enige perlemoen, kreef en ander spesie wat uiteengesit is in Bylae 4, 5 & 12 van die Wet op Lewende Mariene Hulpbronne, Wet 18 van 1998 (MLRA) sal vir elke besending geldig wees (3 weke vanaf die datum van uitreiking).",
                 "org_sent_id": "221",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -71680,7 +71680,7 @@
                 "sent_id": "train-s222",
                 "text": "Slegs bevrore heel krap (of stukke krap) wat wat elk 600 g of meer weeg, en hoogstens 25 ton daarvan, mag (jaarliks) ingevoer word.",
                 "org_sent_id": "222",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -72124,7 +72124,7 @@
                 "sent_id": "train-s223",
                 "text": "Lewende krap mag glad nie ingevoer word nie.",
                 "org_sent_id": "223",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -72886,7 +72886,7 @@
                 "sent_id": "train-s225",
                 "text": "Lees die aansoekvorm noukeurig deur om seker te maak dat jy aan al die aansoekvereistes en -voorwaardes voldoen.",
                 "org_sent_id": "225",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -74391,7 +74391,7 @@
                 "sent_id": "train-s229",
                 "text": "Jy moet 'n aansoekfooi van R225 (BTW ingesluit) betaal (die bankbesonderhede verskyn onderaan).",
                 "org_sent_id": "229",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -74662,7 +74662,7 @@
                 "sent_id": "train-s230",
                 "text": "Jy kan vra dat die onderhoudsbedrag wat betaal word, verander moet word, hetsy omdat dit onvoldoende geword het of omdat jy nie langer kan bekostig om die huidige bedrag aan onderhoud te betaal nie.",
                 "org_sent_id": "230",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -75219,7 +75219,7 @@
                 "sent_id": "train-s231",
                 "text": "Kry meer inligting by die Departement van Justisie en Grondwetlike Ontwikkeling.",
                 "org_sent_id": "231",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -75400,7 +75400,7 @@
                 "sent_id": "train-s232",
                 "text": "Doen aansoek by die landdroshof in die distrik waar die persoon woon wat onderhoud betaal.",
                 "org_sent_id": "232",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -76232,7 +76232,7 @@
                 "sent_id": "train-s235",
                 "text": "Vul die toepaslike vorm in en stuur dit aan die onderhoudsbeampte.",
                 "org_sent_id": "235",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -77028,7 +77028,7 @@
                 "sent_id": "train-s237",
                 "text": "Dieselfde prosedure as wanneer 'n onderhoudseis vir die eerste keer ingestel word, sal nou gevolg word.",
                 "org_sent_id": "237",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -77713,7 +77713,7 @@
                 "sent_id": "train-s240",
                 "text": "Jy kan enige klagte aanhangig maak by die onderhoudsondersoekbeampte; die onderhoudsbeampte; die bestuurder van die hof; die Streekshoof: Justisie en Staatkundige Ontwikkeling, of die Sentrum vir Uitnemende Diens; die Nasionale Departement van Justisie en Grondwetlike Ontwikkeling se Onderhoudsprojek; of by die Direktoraat: Geslagsake.",
                 "org_sent_id": "240",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -78466,7 +78466,7 @@
                 "sent_id": "train-s241",
                 "text": "Tensy die balju vra vir 'n voorskot ten einde 'n eksekusiebevel vir onderhoud uit te voer, sal daar min of geen koste wees nie.",
                 "org_sent_id": "241",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -78845,7 +78845,7 @@
                 "sent_id": "train-s242",
                 "text": "Aangesien die registrasie van 'n maatskappy met aandelekapitaal ingewikkeld is, word aansoekers aangeraai om die dienste van 'n prokureur daarvoor te bekom.",
                 "org_sent_id": "242",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -79781,7 +79781,7 @@
                 "sent_id": "train-s244",
                 "text": "'n Openbare maatskappy kan Tabel A op die aansoekvorm volledig s\u00f3 aanvaar of dit laat aanpas met dien verstande dat dit steeds aan die vereistes van die Maatskappywet, 1973 voldoen.",
                 "org_sent_id": "244",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -80252,7 +80252,7 @@
                 "sent_id": "train-s245",
                 "text": "'n Privaat maatskappy kan Tabel B op die aansoekvorm volledig s\u00f3 aanvaar of dit laat aanpas met dien verstande dat dit steeds aan die vereistes van die Maatskappywet, 1973 voldoen.",
                 "org_sent_id": "245",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -80723,7 +80723,7 @@
                 "sent_id": "train-s246",
                 "text": "Tree met die Companies and Intellectual Property Registration Office in verbinding.",
                 "org_sent_id": "246",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -80892,7 +80892,7 @@
                 "sent_id": "train-s247",
                 "text": "Doen aansoek om 'n naam te reserveer deur vorm CM5 voor te l\u00ea- Aansoek om die reservering van 'n naam.",
                 "org_sent_id": "247",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -81217,7 +81217,7 @@
                 "sent_id": "train-s248",
                 "text": "Die vorm is by die Departement van Handel en Nywerheid te kry.",
                 "org_sent_id": "248",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -81413,7 +81413,7 @@
                 "sent_id": "train-s249",
                 "text": "Vul vorm CM29 in- Inhoud van register van direkteure, ouditeure en amptenare.",
                 "org_sent_id": "249",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -81631,7 +81631,7 @@
                 "sent_id": "train-s250",
                 "text": "Die vorm is by die Departement van Handel en Nywerheid te kry.",
                 "org_sent_id": "250",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -81827,7 +81827,7 @@
                 "sent_id": "train-s251",
                 "text": "Elke direkteur van die maatskappy moet een kopie van vorm CM47 invul.",
                 "org_sent_id": "251",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -82020,7 +82020,7 @@
                 "sent_id": "train-s252",
                 "text": "Die vorm is by die Departement van Handel en Nywerheid te kry.",
                 "org_sent_id": "252",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -82216,7 +82216,7 @@
                 "sent_id": "train-s253",
                 "text": "Vul vorm CM31 in om toestemming te gee dat 'n persoon as ouditeur mag optree.",
                 "org_sent_id": "253",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -82453,7 +82453,7 @@
                 "sent_id": "train-s254",
                 "text": "Die vorm is by die Departement van Handel en Nywerheid te kry.",
                 "org_sent_id": "254",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -82649,7 +82649,7 @@
                 "sent_id": "train-s255",
                 "text": "Vul vorm CM44 in- Akte van oprigting van 'n maatskappy met aandelekapitaal wat skedule 1 aanneem- invul.",
                 "org_sent_id": "255",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -83333,7 +83333,7 @@
                 "sent_id": "train-s257",
                 "text": "Dit is die dokument wat deur die Registrateur van Maatskappye onderteken en gestempel word sodra al die meegaande dokumente (wat hierbo gelys is) nagegaan en gefinaliseer is.",
                 "org_sent_id": "257",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -83783,7 +83783,7 @@
                 "sent_id": "train-s258",
                 "text": "Akte van oprigting plus CM2A, CM2B en CM2C indien daar meer as een aandeelhouer is, of CM2D indien daar net een aandeelhouer is.",
                 "org_sent_id": "258",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -84137,7 +84137,7 @@
                 "sent_id": "train-s259",
                 "text": "Die Wet op Erkenning van Gebruiklike Huwelike, 1998 het op 15 November 2000 in werking getree.",
                 "org_sent_id": "259",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -84400,7 +84400,7 @@
                 "sent_id": "train-s260",
                 "text": "Indien jy voor daardie datum volgens die gewoontereg reeds in 'n erkende huwelik was, word jou huwelik volgens die nuwe wet erken.",
                 "org_sent_id": "260",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -84763,7 +84763,7 @@
                 "sent_id": "train-s261",
                 "text": "Indien 'n man reeds meer as een vrou het, word al die huwelike volgens die nuwe wet erken.",
                 "org_sent_id": "261",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -85058,7 +85058,7 @@
                 "sent_id": "train-s262",
                 "text": "Die Wet erken ook huwelike wat na hierdie datum volgens die gewoontereg voltrek is en stipuleer die re\u00ebls vir mense wat ingevolge die gewoontereg trou sodat hulle huwelik erken kan word.",
                 "org_sent_id": "262",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -85714,7 +85714,7 @@
                 "sent_id": "train-s264",
                 "text": "Albei partye moet toestem om volgens die gewoontereg te trou.",
                 "org_sent_id": "264",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -85883,7 +85883,7 @@
                 "sent_id": "train-s265",
                 "text": "Die huwelik moet onderhandel word, gevier word en gesluit word ingevolge die gewoontereg.",
                 "org_sent_id": "265",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -86688,7 +86688,7 @@
                 "sent_id": "train-s269",
                 "text": "Indien jy voor 15 November 2000 ingevolge die gewoontereg getroud is, moet jy jou huwelik by die Departement van Binnelandse Sake registreer.",
                 "org_sent_id": "269",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -87049,7 +87049,7 @@
                 "sent_id": "train-s270",
                 "text": "Indien jy getroud is nadat die wet in werking getree het, moet jy jou huwelik binne drie maande na die huwelik registreer.",
                 "org_sent_id": "270",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -87412,7 +87412,7 @@
                 "sent_id": "train-s271",
                 "text": "Huwelike volgens die Gewoontereg en Gemeenskap van Goedere?",
                 "org_sent_id": "271",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -87547,7 +87547,7 @@
                 "sent_id": "train-s272",
                 "text": "Alle huwelike wat ingevolge die gewoontereg voltrek is nadat die Wet in werking getree het, is binne gemeenskap van goedere.",
                 "org_sent_id": "272",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -87875,7 +87875,7 @@
                 "sent_id": "train-s273",
                 "text": "Dit beteken dat die man en vrou 'n gelyke aandeel het in bates, geld en eiendom en dit beteken ook dat albei die skuld deel.",
                 "org_sent_id": "273",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -88270,7 +88270,7 @@
                 "sent_id": "train-s274",
                 "text": "Indien die partye verkies dat hulle huwelik op huweliksvoorwaarde berus moet hulle voor die huwelik 'n huweliksvoorwaardekontrak sluit.",
                 "org_sent_id": "274",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -88559,7 +88559,7 @@
                 "sent_id": "train-s275",
                 "text": "Indien hulle dit wil verander nadat hulle reeds getroud is, moet hulle by die Ho\u00ebrhof aansoek doen.",
                 "org_sent_id": "275",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -89608,7 +89608,7 @@
                 "sent_id": "train-s278",
                 "text": "Wat gebeur indien my man met 'n ander vrou wil trou?",
                 "org_sent_id": "278",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -90304,7 +90304,7 @@
                 "sent_id": "train-s280",
                 "text": "Die hof moet verseker dat die eiendomsbelange van al die vrouens beskerm word.",
                 "org_sent_id": "280",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -90797,7 +90797,7 @@
                 "sent_id": "train-s282",
                 "text": "Indien jou man geen ander vroue het nie, kan jy sowel 'n burgerlike huwelik as 'n huwelik volgens die gewoontereg aangaan.",
                 "org_sent_id": "282",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -91140,7 +91140,7 @@
                 "sent_id": "train-s283",
                 "text": "Nie een van julle twee sal egter huwelike met iemand anders volgens die gewoontereg kan aangaan indien julle reeds volgens die burgerlike reg met mekaar getroud is nie.",
                 "org_sent_id": "283",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -91572,7 +91572,7 @@
                 "sent_id": "train-s284",
                 "text": "Die man of vrou kan die huwelik registreer by die naaste Departement van Binnelandse Sake.",
                 "org_sent_id": "284",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -91815,7 +91815,7 @@
                 "sent_id": "train-s285",
                 "text": "Dit is wenslik dat albei huweliksmaats die huwelik gaan registreer om die registrasie te bespoedig.",
                 "org_sent_id": "285",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -92343,7 +92343,7 @@
                 "sent_id": "train-s287",
                 "text": "'n Brief of 'n be\u00ebdigde verklaring van die tradisionele leier.",
                 "org_sent_id": "287",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -92512,7 +92512,7 @@
                 "sent_id": "train-s288",
                 "text": "Die aansoek moet by 'n registrasiebeampte of 'n aangewese persoon ingedien word wat jou dan van 'n erkenning van ontvangs van die aansoek moet voorsien in die vorm van Vorm B: Acknowledgement of receipt of application for registration of customary marriage.",
                 "org_sent_id": "288",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -93121,7 +93121,7 @@
                 "sent_id": "train-s289",
                 "text": "Die registrasiebeampte of aangewese persoon sal die aansoek aanstuur na die naaste streeks- of distrikskantoor van die Departement sodat dit in die bevolkingsregister ingesluit kan word.",
                 "org_sent_id": "289",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -93523,7 +93523,7 @@
                 "sent_id": "train-s290",
                 "text": "Die registrasiesertifikaat of Vorm C: Customary marriage certificate sal aan jou uitgereik word.",
                 "org_sent_id": "290",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -93743,7 +93743,7 @@
                 "sent_id": "train-s291",
                 "text": "Hou die sertifikaat in veilige bewaring want dit is belangrik.",
                 "org_sent_id": "291",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -93917,7 +93917,7 @@
                 "sent_id": "train-s292",
                 "text": "'n Buitelandse visvaartuig is 'n vaartuig wat deur 'n nie-Suid-Afrikaanse burger, dit wil s\u00ea 'n buitelander, besit word en onder 'n ander vlagstaat as die Republiek van Suid-Afrika (RSA) geregistreer is.",
                 "org_sent_id": "292",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -94454,7 +94454,7 @@
                 "sent_id": "train-s293",
                 "text": "So 'n vaartuig mag slegs onder buitengewone omstandighede deur die houer van 'n Suid-Afrikaanse visvangsreg gehuur of gekontrakteer word om onder die RSA se vlag aan visvangsaktiwiteite binne die eksklusiewe ekonomiese sone (EES) of in internasionale water deel te neem.",
                 "org_sent_id": "293",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -95476,7 +95476,7 @@
                 "sent_id": "train-s295",
                 "text": "Voor jy by visvangs betrokke raak, moet jy met die Departement van Omgewingsake en Toerisme in verbinding om vas te stel of die huur van 'n buitelandse vaartuig in 'n spesifieke visvangsektor toegelaat sal word en om uit te vind watter dokumente nodig is om goedkeuring vir so 'n aansoek te verkry.",
                 "org_sent_id": "295",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -96271,7 +96271,7 @@
                 "sent_id": "train-s296",
                 "text": "Sodra daar in beginsel steun vir die gebruik van 'n buitelandse vaartuig verleen is, moet jy 'n aansoekvorm vir 'n lisensie vir 'n buitelandse visvaartuig by jou naaste kantoor van die Departement van Omgewingsake en Toerisme (DEA&T-kantoor) Department of Environmental Affairs and Tourism kry.",
                 "org_sent_id": "296",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -97251,7 +97251,7 @@
                 "sent_id": "train-s298",
                 "text": "Alle buitelandse vaartuie moet 'n funksionele INMARSAT C VMS aan boord h\u00ea, wat aan Mariene- en Kusbestuur verslag doen.",
                 "org_sent_id": "298",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -97739,7 +97739,7 @@
                 "sent_id": "train-s300",
                 "text": "Jy moet in jou aansoek aandui in watter visvangsektor en vir hoe lank die vaartuig gebruik gaan word.",
                 "org_sent_id": "300",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {

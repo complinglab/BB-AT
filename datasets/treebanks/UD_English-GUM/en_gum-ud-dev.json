@@ -11,7 +11,7 @@
                 "sent_id": "GUM_academic_exposure-1",
                 "text": "Introduction",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -35,7 +35,7 @@
                 "sent_id": "GUM_academic_exposure-2",
                 "text": "Research on adult-learned second language (L2) has provided considerable insight into the neurocognitive mechanisms underlying the learning and processing of L2 grammar [1] \u2013 [11].",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -3737,7 +3737,7 @@
                 "sent_id": "GUM_academic_exposure-9",
                 "text": "Additionally, we test whether any such outcomes might vary as a function of the type of L2 training, in particular between classroom-like and immersion-like contexts.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -4166,7 +4166,7 @@
                 "sent_id": "GUM_academic_exposure-11",
                 "text": "We are aware of six studies designed to investigate the effects of a substantial period of limited exposure following adult L2 training [17], [18], [21] \u2013 [24], all of which were restricted to the examination of behavioral (performance) outcomes.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -4912,7 +4912,7 @@
                 "sent_id": "GUM_academic_exposure-12",
                 "text": "(Note that we do not consider case studies, purely observational data, or research on L2s acquired by children; for a comprehensive review, see [16]).",
                 "s_type": "imp",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -6418,7 +6418,7 @@
                 "sent_id": "GUM_academic_exposure-14",
                 "text": "These language measures were compared in most studies to the same measures in a different set of subjects who had not experienced a period of limited exposure [17], [18], [22], [23], or to retrospective ratings of the same subjects [21], with only one longitudinal study testing the same subjects before and after a period of limited exposure [24].",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -7477,7 +7477,7 @@
                 "sent_id": "GUM_academic_exposure-15",
                 "text": "Across the studies, the periods of limited exposure followed either classroom training [17], [18], [22], [24] or mixed classroom and immersion training [21], [23], [24].",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -8125,7 +8125,7 @@
                 "sent_id": "GUM_academic_exposure-16",
                 "text": "The training lasted varying lengths of time, apparently usually in the range of a few years, and resulted in seemingly varying proficiency levels (though not directly measured, except by [24]) prior to the period of limited exposure.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -8979,7 +8979,7 @@
                 "sent_id": "GUM_academic_exposure-18",
                 "text": "A period of limited exposure generally leads to attrition (loss) of L2 performance or knowledge [17], [18], [21], [23].",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -10865,7 +10865,7 @@
                 "sent_id": "GUM_academic_exposure-21",
                 "text": "Higher levels of proficiency (or exposure) may be associated with less attrition [17], [18], [21], [23] or even with no observed losses [21].",
                 "s_type": "sub",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -11410,7 +11410,7 @@
                 "sent_id": "GUM_academic_exposure-22",
                 "text": "Moreover, one study found no changes at all in performance, across proficiency levels, after either 2 or 4 years of limited exposure [22].",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -12651,7 +12651,7 @@
                 "sent_id": "GUM_academic_exposure-24",
                 "text": "It remains unclear what might explain such gains, which have been attributed to motivation and to L2 experience during the period of ostensibly limited exposure [24], or to factors related to general maturation, cognitive development, or continued academic training [18].",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -13344,7 +13344,7 @@
                 "sent_id": "GUM_academic_librarians-1",
                 "text": "Digital Humanities Clinics -",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -13486,7 +13486,7 @@
                 "sent_id": "GUM_academic_librarians-3",
                 "text": "Michiel Cock m.p.cock@vu.nl Vrije Universiteit Amsterdam, the Netherlands",
                 "s_type": "frag",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -13783,7 +13783,7 @@
                 "sent_id": "GUM_academic_librarians-5",
                 "text": "In 2015, an initiative was started to set up a Dutch speaking DH+Lib community in the Netherlands and Belgium, based on the example of the American communal space of librarians, archivists, LIS graduate students, and information specialists to discuss topics \u2018Where the Digital Humanities and Libraries meet\u2019.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -15097,7 +15097,7 @@
                 "sent_id": "GUM_academic_librarians-7",
                 "text": "On the administrative level, the directors of the libraries participating in the consortium of Dutch academic libraries (UKB) also expressed the wish that librarians become more fluent in DH.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -15560,7 +15560,7 @@
                 "sent_id": "GUM_academic_librarians-8",
                 "text": "A year later, the National Library of the Netherlands (Koninklijke Bibliotheek), and the University Library of the Vrije Universiteit Amsterdam again concluded that librarians at their institutes who wanted to get involved in DH needed more training to adequately support researchers and students in this field.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -16269,7 +16269,7 @@
                 "sent_id": "GUM_academic_librarians-9",
                 "text": "Therefore both institutes joined forces to develop a set of clinics on DH for librarians.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -16494,7 +16494,7 @@
                 "sent_id": "GUM_academic_librarians-10",
                 "text": "The two institutes were later joined by the Leiden University Libraries.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -16675,7 +16675,7 @@
                 "sent_id": "GUM_academic_librarians-11",
                 "text": "We see this as the ideal opportunity to provide these educative sessions not only to our own librarians, but also to the academic librarians of other Dutch research libraries.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -17117,7 +17117,7 @@
                 "sent_id": "GUM_academic_librarians-12",
                 "text": "In essence, we want to teach our country\u2019s librarians the ins and outs of DH in order for them to take up their natural role of facilitating and supporting research and ideally become the research partner needed in DH projects.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -18221,7 +18221,7 @@
                 "sent_id": "GUM_academic_librarians-14",
                 "text": "The content of these sessions should enable them to provide services to researchers and students, identify remaining gaps in knowledge or skills that they could address by self-directed learning and (perhaps) to automate their daily library work.",
                 "s_type": "sub",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -18796,7 +18796,7 @@
                 "sent_id": "GUM_academic_librarians-15",
                 "text": "We are not setting out to turn them into programmers or data crunchers, but want to boost their knowledge level to where they feel comfortable providing information about DH projects, follow the literature and research, follow online tutorials and hopefully take up the challenge of finishing this professional development by engaging with the DH community.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -20488,7 +20488,7 @@
                 "sent_id": "GUM_academic_librarians-18",
                 "text": "Identify possible subjects, based on experience, a comparison of existing teaching material related to DH (e.g. The Programming Historian, the Digital Scholarship Training Programme at the British Library and Columbia University's Developing Librarian project) and the TaDiRAH taxonomy of research activities;",
                 "s_type": "inf",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -21161,7 +21161,7 @@
                 "sent_id": "GUM_academic_librarians-19",
                 "text": "Get feedback from researchers on possible subjects, based on the knowledge and skills they feel librarians need;",
                 "s_type": "inf",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -21438,7 +21438,7 @@
                 "sent_id": "GUM_academic_librarians-20",
                 "text": "Get feedback from librarians on possible subjects, based on already known gaps in their knowledge and skills.",
                 "s_type": "inf",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -22368,7 +22368,7 @@
                 "sent_id": "GUM_academic_librarians-22",
                 "text": "Our plan is to organize a maximum of 6 clinics, each one full day.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -22867,7 +22867,7 @@
                 "sent_id": "GUM_academic_librarians-24",
                 "text": "The afternoon sessions will be devoted to the hands-on training of skills, following the Library Carpentry model as closely as possible.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -23193,7 +23193,7 @@
                 "sent_id": "GUM_academic_librarians-25",
                 "text": "By having researchers provide the lecture sessions, we hope to fuel the enthusiasm of the librarians with the inspiration of direct contact with researchers and to provide access to a network within and across universities.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -23709,7 +23709,7 @@
                 "sent_id": "GUM_academic_librarians-26",
                 "text": "With these clinics, we hope to initiate a stream of DH activities in Dutch universities, making access to support easier for new digital scholars.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -24092,7 +24092,7 @@
                 "sent_id": "GUM_academic_librarians-27",
                 "text": "The poster at DH2017 will present the curriculum, its position in the international context and offer the lessons learned from both the design process and the first clinics.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -24522,7 +24522,7 @@
                 "sent_id": "GUM_academic_librarians-28",
                 "text": "We welcome discussion about our efforts and the possibilities of applying this in other contexts.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -24759,7 +24759,7 @@
                 "sent_id": "GUM_bio_byron-1",
                 "text": "Education and early loves",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -24823,7 +24823,7 @@
                 "sent_id": "GUM_bio_byron-2",
                 "text": "Byron received his early formal education at Aberdeen Grammar School, and in August 1799 entered the school of Dr. William Glennie, in Dulwich. [17]",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -25238,7 +25238,7 @@
                 "sent_id": "GUM_bio_byron-3",
                 "text": "Placed under the care of a Dr. Bailey, he was encouraged to exercise in moderation but not restrain himself from \"violent\" bouts in an attempt to overcompensate for his deformed foot.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -25742,7 +25742,7 @@
                 "sent_id": "GUM_bio_byron-4",
                 "text": "His mother interfered with his studies, often withdrawing him from school, with the result that he lacked discipline and his classical studies were neglected.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -26146,7 +26146,7 @@
                 "sent_id": "GUM_bio_byron-5",
                 "text": "In 1801, he was sent to Harrow, where he remained until July 1805. [6]",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -26431,7 +26431,7 @@
                 "sent_id": "GUM_bio_byron-6",
                 "text": "An undistinguished student and an unskilled cricketer, he did represent the school during the very first Eton v Harrow cricket match at Lord's in 1805. [19]",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -27045,7 +27045,7 @@
                 "sent_id": "GUM_bio_byron-8",
                 "text": "Byron fell in love with Mary Chaworth, whom he met while at school, [6] and she was the reason he refused to return to Harrow in September 1803.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -27524,7 +27524,7 @@
                 "sent_id": "GUM_bio_byron-9",
                 "text": "His mother wrote, \"He has no indisposition that I know of but love, desperate love, the worst of all maladies in my opinion. In short, the boy is distractedly in love with Miss Chaworth.\" [6]",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -28174,7 +28174,7 @@
                 "sent_id": "GUM_bio_byron-10",
                 "text": "In Byron's later memoirs, \"Mary Chaworth is portrayed as the first object of his adult sexual feelings.\" [20]",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -28539,7 +28539,7 @@
                 "sent_id": "GUM_bio_byron-11",
                 "text": "Byron finally returned in January 1804, [6] to a more settled period which saw the formation of a circle of emotional involvements with other Harrow boys, which he recalled with great vividness: \"My school friendships were with me passions (for I was always violent).\" [21]",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -29354,7 +29354,7 @@
                 "sent_id": "GUM_bio_byron-12",
                 "text": "The most enduring of those was with John FitzGibbon, 2nd Earl of Clare \u2014 four years Byron's junior \u2014 whom he was to meet unexpectedly many years later in Italy (1821). [22]",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -29909,7 +29909,7 @@
                 "sent_id": "GUM_bio_byron-13",
                 "text": "His nostalgic poems about his Harrow friendships, Childish Recollections (1806), express a prescient \"consciousness of sexual differences that may in the end make England untenable to him.\" [23]",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -31489,7 +31489,7 @@
                 "sent_id": "GUM_bio_byron-18",
                 "text": "The following autumn, he went up to Trinity College, Cambridge, [24] where he met and formed a close friendship with the younger John Edleston.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -31928,7 +31928,7 @@
                 "sent_id": "GUM_bio_byron-19",
                 "text": "About his \"prot\u00e9g\u00e9\" he wrote, \"He has been my almost constant associate since October, 1805, when I entered Trinity College. His voice first attracted my attention, his countenance fixed it, and his manners attached me to him for ever.\"",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -32904,7 +32904,7 @@
                 "sent_id": "GUM_bio_byron-21",
                 "text": "In later years, he described the affair as \"a violent, though pure love and passion\".",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -33194,7 +33194,7 @@
                 "sent_id": "GUM_bio_byron-22",
                 "text": "This statement, however, needs to be read in the context of hardening public attitudes toward homosexuality in England and the severe sanctions (including public hanging) against convicted or even suspected offenders. [26]",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -34323,7 +34323,7 @@
                 "sent_id": "GUM_bio_byron-24",
                 "text": "Byron spent three years at Trinity College, engaging in sexual escapades, boxing, horse riding and gambling. [28]",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -35503,7 +35503,7 @@
                 "sent_id": "GUM_bio_emperor-1",
                 "text": "Emperor Norton",
                 "s_type": "frag",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -35541,7 +35541,7 @@
                 "sent_id": "GUM_bio_emperor-2",
                 "text": "Joshua Abraham Norton (c. 1818 \u2013 January 8, 1880), known as Emperor Norton, was a citizen of San Francisco, California, who in 1859 proclaimed himself \"Norton I, Emperor of the United States\".",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -36405,7 +36405,7 @@
                 "sent_id": "GUM_bio_emperor-4",
                 "text": "Born in England, Norton spent most of his early life in South Africa.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -36626,7 +36626,7 @@
                 "sent_id": "GUM_bio_emperor-5",
                 "text": "After the death of his mother in 1846 and his father in 1848, he sailed west, arriving in San Francisco possibly in November 1849.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -37011,7 +37011,7 @@
                 "sent_id": "GUM_bio_emperor-6",
                 "text": "Norton initially made a living as a businessman, but he lost his fortune investing in Peruvian rice.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -37293,7 +37293,7 @@
                 "sent_id": "GUM_bio_emperor-7",
                 "text": "After he lost a lawsuit in which he tried to void his rice contract, Norton's public prominence faded.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -37610,7 +37610,7 @@
                 "sent_id": "GUM_bio_emperor-8",
                 "text": "He reemerged in September 1859, laying claim to the position of Emperor of the United States.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -37872,7 +37872,7 @@
                 "sent_id": "GUM_bio_emperor-9",
                 "text": "He had no political power, and his influence extended only so far as he was humored by those around him;",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -38204,7 +38204,7 @@
                 "sent_id": "GUM_bio_emperor-10",
                 "text": "nevertheless, he was treated deferentially in San Francisco, and currency issued in his name was honored in the establishments he frequented.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -38564,7 +38564,7 @@
                 "sent_id": "GUM_bio_emperor-11",
                 "text": "Though some considered him insane or eccentric, citizens of San Francisco celebrated his regal presence and his proclamations, such as his order that the United States Congress be dissolved by force and his numerous decrees calling for a bridge connecting San Francisco to Oakland, and a corresponding tunnel to be built under San Francisco Bay.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -39984,7 +39984,7 @@
                 "sent_id": "GUM_bio_emperor-13",
                 "text": "On January 8, 1880, Norton collapsed at the corner of California and Dupont (now Grant) streets and died before he could be given medical treatment.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -40410,7 +40410,7 @@
                 "sent_id": "GUM_bio_emperor-14",
                 "text": "Nearly 30,000 people packed the streets of San Francisco to pay him homage at his funeral.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -41158,7 +41158,7 @@
                 "sent_id": "GUM_bio_emperor-16",
                 "text": "Norton I, Emperor of the United States, photograph, c. 1871 \u2013 72",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -41373,7 +41373,7 @@
                 "sent_id": "GUM_bio_emperor-17",
                 "text": "Declares himself emperor",
                 "s_type": "frag",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -41620,7 +41620,7 @@
                 "sent_id": "GUM_bio_emperor-19",
                 "text": "By 1859, Norton had become completely disgruntled with what he considered the inadequacies of the legal and political structures of the United States.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -42475,7 +42475,7 @@
                 "sent_id": "GUM_bio_emperor-21",
                 "text": "At the peremptory request and desire of a large majority of the citizens of these United States, I, Joshua Norton, formerly of Algoa Bay, Cape of Good Hope, and now for the last 9 years and 10 months past of S.F., Cal., declare and proclaim myself Emperor of these U.S.;",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -43286,7 +43286,7 @@
                 "sent_id": "GUM_bio_emperor-22",
                 "text": "and in virtue of the authority thereby in me vested, do hereby order and direct the representatives of the different States of the Union to assemble in Musical Hall, of this city, on the 1st day of Feb. next, then and there to make such alterations in the existing laws of the Union as may ameliorate the evils under which the country is laboring, and thereby cause confidence to exist, both at home and abroad, in our stability and integrity.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -44495,7 +44495,7 @@
                 "sent_id": "GUM_bio_emperor-23",
                 "text": "\u2014 NORTON I, Emperor of the United States.",
                 "s_type": "frag",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -44642,7 +44642,7 @@
                 "sent_id": "GUM_bio_emperor-24",
                 "text": "The announcement was first reprinted for humorous effect by the editor of the San Francisco Bulletin.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -45079,7 +45079,7 @@
                 "sent_id": "GUM_bio_emperor-26",
                 "text": "Thus commenced his unprecedented and whimsical 21-year \"reign\" over America.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -45272,7 +45272,7 @@
                 "sent_id": "GUM_bio_emperor-27",
                 "text": "One of Norton's undated proclamations",
                 "s_type": "frag",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -45612,7 +45612,7 @@
                 "sent_id": "GUM_bio_emperor-29",
                 "text": "After assuming absolute control over the country, he saw no further need for a legislature, and on October 12, 1859, he issued a decree formally abolishing the United States Congress.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -46116,7 +46116,7 @@
                 "sent_id": "GUM_bio_emperor-30",
                 "text": "In it, Norton observed:",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -46214,7 +46214,7 @@
                 "sent_id": "GUM_bio_emperor-31",
                 "text": "... fraud and corruption prevent a fair and proper expression of the public voice;",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -46430,7 +46430,7 @@
                 "sent_id": "GUM_bio_emperor-32",
                 "text": "that open violation of the laws are constantly occurring, caused by mobs, parties, factions and undue influence of political sects;",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -46770,7 +46770,7 @@
                 "sent_id": "GUM_bio_emperor-33",
                 "text": "that the citizen has not that protection of person and property which he is entitled.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -47391,7 +47391,7 @@
                 "sent_id": "GUM_bio_emperor-35",
                 "text": "In an imperial decree the following month, Norton summoned the Army to depose the elected officials of the U.S. Congress:",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -47711,7 +47711,7 @@
                 "sent_id": "GUM_bio_emperor-36",
                 "text": "WHEREAS, a body of men calling themselves the National Congress are now in session in Washington City, in violation of our Imperial edict of the 12th of October last, declaring the said Congress abolished;",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -48252,7 +48252,7 @@
                 "sent_id": "GUM_bio_emperor-37",
                 "text": "WHEREAS, it is necessary for the repose of our Empire that the said decree should be strictly complied with;",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -48559,7 +48559,7 @@
                 "sent_id": "GUM_bio_emperor-38",
                 "text": "NOW, THEREFORE, we do hereby Order and Direct Major-General Scott, the Command-in-Chief of our Armies, immediately upon receipt of this, our Decree, to proceed with a suitable force and clear the Halls of Congress.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -49135,7 +49135,7 @@
                 "sent_id": "GUM_fiction_beast-1",
                 "text": "The Beast",
                 "s_type": "frag",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -49174,7 +49174,7 @@
                 "sent_id": "GUM_fiction_beast-2",
                 "text": "I was thirteen.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -50278,7 +50278,7 @@
                 "sent_id": "GUM_fiction_beast-4",
                 "text": "And it has, because it is spring and inside the ground something is stirring.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -50526,7 +50526,7 @@
                 "sent_id": "GUM_fiction_beast-5",
                 "text": "I was wearing a yellow linen dress which my mother had picked out and which I therefore disliked although I knew it flattered me.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -50913,7 +50913,7 @@
                 "sent_id": "GUM_fiction_beast-6",
                 "text": "My shoes were white and I was concentrating on keeping them out of the mud.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -51156,7 +51156,7 @@
                 "sent_id": "GUM_fiction_beast-7",
                 "text": "My father and I were going to mass \u2014 my mother did not go; she was Protestant.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -52019,7 +52019,7 @@
                 "sent_id": "GUM_fiction_beast-9",
                 "text": "When I was a little girl, he did that often, and called me Muscles.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -52283,7 +52283,7 @@
                 "sent_id": "GUM_fiction_beast-10",
                 "text": "He had not called me Muscles or put his hand on my head for a long time.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -52558,7 +52558,7 @@
                 "sent_id": "GUM_fiction_beast-11",
                 "text": "I could not help arching my back a little, I wanted to push against his hand like a cat but the instinct that comes with being thirteen, the half-understood caution that makes a girl timid, or wild, the shyness told me to just walk.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -53760,7 +53760,7 @@
                 "sent_id": "GUM_fiction_beast-14",
                 "text": "But I still wanted to push against his hand and put my hand in his pocket and steal the leather palmed glove, that secret animal.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -54152,7 +54152,7 @@
                 "sent_id": "GUM_fiction_beast-15",
                 "text": "Instead I went into the church, took a Bulletin, dipped my finger in Holy Water and genuflected.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -55111,7 +55111,7 @@
                 "sent_id": "GUM_fiction_beast-18",
                 "text": "The paper taste of the wafer was still in my mouth and I took a deep breath of the leather.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -55421,7 +55421,7 @@
                 "sent_id": "GUM_fiction_beast-19",
                 "text": "It smelled like March.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -55505,7 +55505,7 @@
                 "sent_id": "GUM_fiction_beast-20",
                 "text": "We walked back through the school because it was drizzling, my father tall in his navy suit and my shoes going click on the linoleum.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -56175,7 +56175,7 @@
                 "sent_id": "GUM_fiction_beast-22",
                 "text": "The hall ended in a T and we went left through the gym, walked underneath the bleachers and stood next to the side door, waiting for the rain to stop.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -56646,7 +56646,7 @@
                 "sent_id": "GUM_fiction_beast-23",
                 "text": "It was dark under the bleachers.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -57557,7 +57557,7 @@
                 "sent_id": "GUM_fiction_beast-26",
                 "text": "I thought of bacon and eggs, toast with peach jam out of the jar.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -57787,7 +57787,7 @@
                 "sent_id": "GUM_fiction_beast-27",
                 "text": "I was so hungry.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -58259,7 +58259,7 @@
                 "sent_id": "GUM_fiction_beast-30",
                 "text": "Next to the door was a tall wrought-iron candle holder \u2014 the kind that stood at either end of the altar.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -58577,7 +58577,7 @@
                 "sent_id": "GUM_fiction_beast-31",
                 "text": "There was no holder and the end was jagged.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {

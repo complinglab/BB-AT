@@ -11,7 +11,7 @@
                 "sent_id": "GUM_academic_discrimination-1",
                 "text": "The prevalence of discrimination across racial groups in contemporary America:",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -170,7 +170,7 @@
                 "sent_id": "GUM_academic_discrimination-2",
                 "text": "Results from a nationally representative sample of adults",
                 "s_type": "frag",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -831,7 +831,7 @@
                 "sent_id": "GUM_academic_discrimination-6",
                 "text": "psychologists have examined the mental processes that underpin conscious and unconscious biases [6];",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -1960,7 +1960,7 @@
                 "sent_id": "GUM_academic_discrimination-10",
                 "text": "What also should not be lost in discussion of discrimination is the growing push to implement social policy aimed at reducing the occurrence of discriminatory practices.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -2838,7 +2838,7 @@
                 "sent_id": "GUM_academic_discrimination-12",
                 "text": "Indeed, the implementation of certain policies is rooted in the assumption that discrimination and biases are, at least to some appreciable amount, present in modern society.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -3559,7 +3559,7 @@
                 "sent_id": "GUM_academic_discrimination-14",
                 "text": "At least one prior study by Kessler and colleagues [15], however, using measures of perceived discrimination in a large American sample, reported that approximately 33% of respondents reported some form of discrimination (see also, Gibbons et al. [4]).",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -4249,7 +4249,7 @@
                 "sent_id": "GUM_academic_discrimination-15",
                 "text": "The current study seeks to build on this research by estimating the prevalence of discrimination experiences among a large, nationally representative sample of adults from the United States.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -4672,7 +4672,7 @@
                 "sent_id": "GUM_academic_discrimination-16",
                 "text": "Additionally, the analysis address the perceived reasons for reported discrimination experiences.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -4868,7 +4868,7 @@
                 "sent_id": "GUM_academic_discrimination-17",
                 "text": "Reason for discrimination.",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -4932,7 +4932,7 @@
                 "sent_id": "GUM_academic_discrimination-18",
                 "text": "All respondents who indicated they were discriminated against \u2014 specifically, those who responded with sometimes or often to the perceived discrimination measure described above \u2014 were asked the following question:",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -5386,7 +5386,7 @@
                 "sent_id": "GUM_academic_discrimination-19",
                 "text": "\u201cWhat do you think was the main reason for these experiences?\u201d",
                 "s_type": "wh",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -5763,7 +5763,7 @@
                 "sent_id": "GUM_academic_discrimination-21",
                 "text": "For the present analysis, these responses were recoded into nine mutually exclusive categories capturing the following options:",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -6039,7 +6039,7 @@
                 "sent_id": "GUM_academic_discrimination-22",
                 "text": "race / ancestry / skin color;",
                 "s_type": "frag",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -6143,7 +6143,7 @@
                 "sent_id": "GUM_academic_discrimination-23",
                 "text": "gender;",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -6181,7 +6181,7 @@
                 "sent_id": "GUM_academic_discrimination-24",
                 "text": "age;",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -6257,7 +6257,7 @@
                 "sent_id": "GUM_academic_discrimination-26",
                 "text": "height or weight;",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -6373,7 +6373,7 @@
                 "sent_id": "GUM_academic_discrimination-28",
                 "text": "education or income;",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -6437,7 +6437,7 @@
                 "sent_id": "GUM_academic_discrimination-29",
                 "text": "physical disability;",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -6489,7 +6489,7 @@
                 "sent_id": "GUM_academic_discrimination-30",
                 "text": "and other.",
                 "s_type": "frag",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -6539,7 +6539,7 @@
                 "sent_id": "GUM_academic_discrimination-31",
                 "text": "The following categories from the original questionnaire were collapsed into one category for the analysis: race; ancestry or national origin; and shade of skin color.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -6949,7 +6949,7 @@
                 "sent_id": "GUM_academic_discrimination-32",
                 "text": "Additionally, because this question was only asked of respondents who reported prior discrimination experiences, the built-in skip pattern resulted in a large number of cases scored as missing (legitimate skip).",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -7500,7 +7500,7 @@
                 "sent_id": "GUM_academic_discrimination-34",
                 "text": "Because a race variable is not available from the Wave 4 interviews, we use the racial category reported by the respondent during the Wave 1 interview.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -8700,7 +8700,7 @@
                 "sent_id": "GUM_academic_discrimination-37",
                 "text": "Respondents were asked to indicate their race from among the following categories: White; Black or African American; Hispanic; American Indian or Native American; and Asian or Pacific Islander.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -9179,7 +9179,7 @@
                 "sent_id": "GUM_academic_discrimination-38",
                 "text": "Respondents were provided the opportunity to select more than one race, and those who did were asked a follow-up question regarding which category best described their racial background.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -9924,7 +9924,7 @@
                 "sent_id": "GUM_academic_discrimination-40",
                 "text": "Demographic variables.",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -9976,7 +9976,7 @@
                 "sent_id": "GUM_academic_discrimination-41",
                 "text": "To provide information on the analytical sample as a whole, two additional demographic variables are included.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -10237,7 +10237,7 @@
                 "sent_id": "GUM_academic_discrimination-42",
                 "text": "First, age is a continuous measure created by subtracting the year of the respondents' birth (obtained from Wave 1) from the year of the interview at Wave 4.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -10706,7 +10706,7 @@
                 "sent_id": "GUM_academic_discrimination-43",
                 "text": "Second, sex was dichotomously coded based on the self-reported sex of the respondent at Wave 4 (0 = female and 1 = male).",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -11086,7 +11086,7 @@
                 "sent_id": "GUM_academic_discrimination-44",
                 "text": "Analytical plan.",
                 "s_type": "frag",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -11265,7 +11265,7 @@
                 "sent_id": "GUM_academic_discrimination-46",
                 "text": "First, summary statistics of the study variables and racial categories were produced.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -11469,7 +11469,7 @@
                 "sent_id": "GUM_academic_discrimination-47",
                 "text": "Second, we examined the relative proportions of the two discrimination experience measures across each racial category.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -12513,7 +12513,7 @@
                 "sent_id": "GUM_academic_discrimination-50",
                 "text": "More specifically, when analyzing weighted sample data employing the svy suite of commands in Stata the conventional Pearson \u03c72 statistic test of independence is converted into \u201can F statisticwith noninteger degrees of freedom by using a second-order Rao and Scott (1981 [22], 1984 [23]) correction\u201d. [24]",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -14683,7 +14683,7 @@
                 "sent_id": "GUM_academic_discrimination-54",
                 "text": "Thus, all estimates reported here can be considered nationally representative of the United States.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -15052,7 +15052,7 @@
                 "sent_id": "GUM_academic_eegimaa-2",
                 "text": "This section briefly presents the G\u00fajjolaay Eegimaa (Eegimaa for short; Ethnologue code: ISO 639-3: bqj), its speakers and its varieties.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -16682,7 +16682,7 @@
                 "sent_id": "GUM_academic_eegimaa-6",
                 "text": "J\u00f3ola languages are classified as members of Sapir\u2019s (1971) BAK group of Atlantic languages of the Niger Congo language phylum.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -17585,7 +17585,7 @@
                 "sent_id": "GUM_academic_eegimaa-9",
                 "text": "The arrow on the map points to the Eegimaa speaking area (Bandial is the name used by Ethnologue for Eegimaa).",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -17918,7 +17918,7 @@
                 "sent_id": "GUM_academic_eegimaa-10",
                 "text": "Eegimaa is mainly spoken in Mof-\u00c1vvi, a former kingdom of 10 villages located to the west of Ziguinchor, the capital city of the former administrative region of Casamance in the south of Senegal.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -18425,7 +18425,7 @@
                 "sent_id": "GUM_academic_eegimaa-11",
                 "text": "Mof-\u00c1vvi is a peninsula bordered by the Casamance River to the north, which separates it from the J\u00f3ola B\u00faluf and J\u00f3ola Fogny areas, and to the east by the villages Brin and Djibonker, where the speakers of Kujireray and Ba\u00efnounk Gub\u00ebeher live.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -19622,7 +19622,7 @@
                 "sent_id": "GUM_academic_eegimaa-13",
                 "text": "The map in Figure 2 below, adapted from Palmeri and Gazio (1995), shows a very approximate location of Mof-\u00c1vvi in relation to other neighbouring speech communities.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -20057,7 +20057,7 @@
                 "sent_id": "GUM_academic_eegimaa-14",
                 "text": "Some of these communities will be referred to in our discussion of death prevention names in \u00a7 6.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -20324,7 +20324,7 @@
                 "sent_id": "GUM_academic_eegimaa-15",
                 "text": "The Eegimaa spoken in Mof-\u00c1vvi is known by several names given by speakers of neighbouring languages.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -21265,7 +21265,7 @@
                 "sent_id": "GUM_academic_eegimaa-17",
                 "text": "Endungo is the name given by Bayot speakers, but its meaning is not known.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -22896,7 +22896,7 @@
                 "sent_id": "GUM_academic_eegimaa-20",
                 "text": "Figure 1.",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -22948,7 +22948,7 @@
                 "sent_id": "GUM_academic_eegimaa-21",
                 "text": "Map of Senegal (courtesy of Google maps)",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -23132,7 +23132,7 @@
                 "sent_id": "GUM_academic_eegimaa-23",
                 "text": "Map of the Eegimaa speaking area",
                 "s_type": "frag",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -23225,7 +23225,7 @@
                 "sent_id": "GUM_academic_eegimaa-24",
                 "text": "Village names are written using their usual spelling.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -23566,7 +23566,7 @@
                 "sent_id": "GUM_academic_eegimaa-26",
                 "text": "Language names are written following the recommendation for the transcription of national languages of Senegal, Decree 2005-981.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -24167,7 +24167,7 @@
                 "sent_id": "GUM_academic_eegimaa-28",
                 "text": "J\u00f3ola language varieties which are closely related to Eegimaa include Kujireray / Kuluunaay(from the village of Brin with 76% lexical similarity) and Gufi\u00f1amay (from the village of Afiniam with 74% lexical similarity (based on Lewis et al., 2014 eds.)).",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -24865,7 +24865,7 @@
                 "sent_id": "GUM_academic_eegimaa-29",
                 "text": "G\u00fataamay (from the village of Butam), Gulapaoray (from the village Djilapaor) and Gusiilay (ISO 639-3: bsl) from the village of Thionk Essil are also other languages related to Eegimaa.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -25393,7 +25393,7 @@
                 "sent_id": "GUM_academic_eegimaa-30",
                 "text": "They are located north of the Casamance River in the J\u00f3ola B\u00faluf area.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -26874,7 +26874,7 @@
                 "sent_id": "GUM_academic_eegimaa-34",
                 "text": "Eegimaa is an endangered language whose transmission to new generations has been declining significantly in the last decades.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -27157,7 +27157,7 @@
                 "sent_id": "GUM_academic_eegimaa-35",
                 "text": "It is important to understand the contact situation of Eegimaa, because some of the ritual names analysed in this paper come from other languages or from neighbouring communities.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -27583,7 +27583,7 @@
                 "sent_id": "GUM_academic_eegimaa-36",
                 "text": "These names are given either in Eegimaa or in a different language.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -27811,7 +27811,7 @@
                 "sent_id": "GUM_bio_dvorak-2",
                 "text": "Anton\u00edn Leopold Dvo\u0159\u00e1k (/ d(\u0259)\u02c8v\u0254\u02d0r\u0292\u0251\u02d0k, -\u0292\u00e6k / d(\u0259)-VOR-zha(h)k; Czech: [\u02c8anto\u0272i\u02d0n \u02c8l\u025bopolt \u02c8dvor\u031da\u02d0k]; 8 September 1841 \u2013 1 May 1904) was a Czech composer.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -28268,7 +28268,7 @@
                 "sent_id": "GUM_bio_dvorak-3",
                 "text": "After Bed\u0159ich Smetana, he was the next Czech Romantic-era composer to achieve worldwide recognition.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -28507,7 +28507,7 @@
                 "sent_id": "GUM_bio_dvorak-4",
                 "text": "Following Smetana's nationalist example, Dvo\u0159\u00e1k frequently employed aspects, specifically rhythms, of the folk music of Moravia and his native Bohemia.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -28864,7 +28864,7 @@
                 "sent_id": "GUM_bio_dvorak-5",
                 "text": "Dvo\u0159\u00e1k's own style has been described as \"the fullest recreation of a national idiom with that of the symphonic tradition, absorbing folk influences and finding effective ways of using them\". [1]",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -29407,7 +29407,7 @@
                 "sent_id": "GUM_bio_dvorak-6",
                 "text": "Anton\u00edn Dvo\u0159\u00e1k",
                 "s_type": "frag",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -29725,7 +29725,7 @@
                 "sent_id": "GUM_bio_dvorak-8",
                 "text": "The first public performances of his works were in Prague in 1872 and, with special success, in 1873, when he was aged 31.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -30118,7 +30118,7 @@
                 "sent_id": "GUM_bio_dvorak-9",
                 "text": "Seeking recognition beyond the Prague area, he submitted a score of his First Symphony to a prize competition in Germany, but did not win, and the unreturned manuscript was lost until rediscovered many decades later.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -31353,7 +31353,7 @@
                 "sent_id": "GUM_bio_dvorak-12",
                 "text": "The prize was awarded to Dvo\u0159\u00e1k in 1874 [a] and again in 1876 and in 1877, when Brahms and the prominent critic Eduard Hanslick, also a member of the jury, made themselves known to him.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -31935,7 +31935,7 @@
                 "sent_id": "GUM_bio_dvorak-13",
                 "text": "Brahms recommended Dvo\u0159\u00e1k to his publisher, Simrock, who soon afterward commissioned what became the Slavonic Dances, Op. 46.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -32260,7 +32260,7 @@
                 "sent_id": "GUM_bio_dvorak-14",
                 "text": "These were highly praised by the Berlin music critic Louis Ehlert in 1878, the sheet music (of the original piano 4-hands version) had excellent sales, and Dvo\u0159\u00e1k's international reputation was launched at last.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -33139,7 +33139,7 @@
                 "sent_id": "GUM_bio_dvorak-16",
                 "text": "It was very successfully performed in London in 1883, leading to many other performances in the United Kingdom and United States. [2]",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -33509,7 +33509,7 @@
                 "sent_id": "GUM_bio_dvorak-17",
                 "text": "In his career, Dvo\u0159\u00e1k made nine invited visits to England, often conducting performances of his own works.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -33801,7 +33801,7 @@
                 "sent_id": "GUM_bio_dvorak-18",
                 "text": "His Seventh Symphony was written for London.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -34250,7 +34250,7 @@
                 "sent_id": "GUM_bio_dvorak-20",
                 "text": "In 1891 Dvo\u0159\u00e1k was appointed as a professor at the Prague Conservatory.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -34443,7 +34443,7 @@
                 "sent_id": "GUM_bio_dvorak-21",
                 "text": "In 1890 \u2013 91, he wrote his Dumky Trio, one of his most successful chamber music pieces.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -34739,7 +34739,7 @@
                 "sent_id": "GUM_bio_dvorak-22",
                 "text": "In 1892, Dvo\u0159\u00e1k moved to the United States and became the director of the National Conservatory of Music of America in New York City.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -36067,7 +36067,7 @@
                 "sent_id": "GUM_bio_dvorak-25",
                 "text": "But shortfalls in payment of his salary, along with increasing recognition in Europe and an onset of homesickness, led him to leave the United States and return to Bohemia in 1895.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -36541,7 +36541,7 @@
                 "sent_id": "GUM_bio_dvorak-26",
                 "text": "All of Dvo\u0159\u00e1k's nine operas but his first have librettos in Czech and were intended to convey Czech national spirit, as were some of his choral works.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -36969,7 +36969,7 @@
                 "sent_id": "GUM_bio_dvorak-27",
                 "text": "By far the most successful of the operas is Rusalka.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -37790,7 +37790,7 @@
                 "sent_id": "GUM_bio_jespersen-1",
                 "text": "Otto Jespersen",
                 "s_type": "frag",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -37828,7 +37828,7 @@
                 "sent_id": "GUM_bio_jespersen-2",
                 "text": "Jens Otto Harry Jespersen or Otto Jespersen (Danish: [\u028ct\u02e2o \u02c8j\u025bsb\u0325\u0250sn\u0329]; 16 July 1860 \u2013 30 April 1943) was a Danish linguist who specialized in the grammar of the English language.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -38395,7 +38395,7 @@
                 "sent_id": "GUM_bio_jespersen-4",
                 "text": "Otto Jespersen was born in Randers in Jutland.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -39007,7 +39007,7 @@
                 "sent_id": "GUM_bio_jespersen-6",
                 "text": "He entered the University of Copenhagen in 1877 when he was 17, initially studying law but not forgetting his language studies.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -39350,7 +39350,7 @@
                 "sent_id": "GUM_bio_jespersen-7",
                 "text": "In 1881 he shifted his focus completely to languages, and in 1887 earned his master's degree in French, with English and Latin as his secondary languages.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -39782,7 +39782,7 @@
                 "sent_id": "GUM_bio_jespersen-8",
                 "text": "He supported himself during his studies through part-time work as a schoolteacher and as a shorthand reporter in the Danish parliament.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -40106,7 +40106,7 @@
                 "sent_id": "GUM_bio_jespersen-9",
                 "text": "In 1887 \u2013 1888, he traveled to England, Germany and France, meeting linguists like Henry Sweet and Paul Passy and attending lectures at institutions like Oxford University.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -41088,7 +41088,7 @@
                 "sent_id": "GUM_bio_jespersen-12",
                 "text": "Academic life and work",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -41152,7 +41152,7 @@
                 "sent_id": "GUM_bio_jespersen-13",
                 "text": "Jespersen was a professor of English at the University of Copenhagen from 1893 to 1925, and served as Rector of the university in 1920 \u2013 21.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -41960,7 +41960,7 @@
                 "sent_id": "GUM_bio_jespersen-15",
                 "text": "He advanced the theories of Rank and Nexus in Danish in two papers: Sprogets logik (1913) and De to hovedarter af grammatiske forbindelser (1921).",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -43773,7 +43773,7 @@
                 "sent_id": "GUM_bio_jespersen-18",
                 "text": "This term is qualified by a further concept called a junction which represents one idea, expressed by means of two or more elements, whereas a nexus combines two ideas.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -44241,7 +44241,7 @@
                 "sent_id": "GUM_bio_jespersen-19",
                 "text": "Junction and nexus proved valuable in bringing the concept of context to the forefront of the attention of the world of linguistics.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -44732,7 +44732,7 @@
                 "sent_id": "GUM_bio_jespersen-21",
                 "text": "Language: Its Nature, Development and Origin (1922) is considered by many to be his masterpiece.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -45029,7 +45029,7 @@
                 "sent_id": "GUM_bio_jespersen-22",
                 "text": "Modern English Grammar on Historical Principles (1909 \u2013 1949), concentrated on morphology and syntax, and Growth and Structure of the English Language (1905) is a comprehensive view of English by someone with another native language, and still in print, over 70 years after his death and more than 100 years after publication.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -45867,7 +45867,7 @@
                 "sent_id": "GUM_bio_jespersen-23",
                 "text": "Late in his life he published Analytic Syntax (1937), in which he presents his views on syntactic structure using an idiosyncratic shorthand notation.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -46922,7 +46922,7 @@
                 "sent_id": "GUM_bio_jespersen-25",
                 "text": "In the 21st century this book is still used as one of the basic texts in modern Structural linguistics.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -47553,7 +47553,7 @@
                 "sent_id": "GUM_bio_jespersen-27",
                 "text": "Jespersen visited the United States twice:",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -47664,7 +47664,7 @@
                 "sent_id": "GUM_bio_jespersen-28",
                 "text": "he lectured at the Congress of Arts and Sciences in St. Louis in 1904, and in 1909 \u2013 1910 he visited both the University of California and Columbia University.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -48336,7 +48336,7 @@
                 "sent_id": "GUM_bio_jespersen-30",
                 "text": "His autobiography (see below) was published in English translation as recently as 1995.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -48569,7 +48569,7 @@
                 "sent_id": "GUM_bio_jespersen-31",
                 "text": "Jespersen was a proponent of phonosemanticism and wrote:",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -48708,7 +48708,7 @@
                 "sent_id": "GUM_bio_jespersen-32",
                 "text": "\u201cIs there really much more logic in the opposite extreme which denies any kind of sound symbolism (apart from the small class of evident echoisms and \u2018onomatopoeia\u2019) and sees in our words only a collection of accidental and irrational associations of sound and meaning? ...",
                 "s_type": "q",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -49414,7 +49414,7 @@
                 "sent_id": "GUM_bio_jespersen-33",
                 "text": "There is no denying that there are words which we feel instinctively to be adequate to express the ideas they stand for.\u201d",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -49984,7 +49984,7 @@
                 "sent_id": "GUM_bio_jespersen-35",
                 "text": "In addition to continuing to write, he convened and chaired the first International Meeting on Linguistic Research in Geneva in 1930, and acted as president of the Fourth International Congress of Linguists in Copenhagen in 1936.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -50528,7 +50528,7 @@
                 "sent_id": "GUM_bio_jespersen-36",
                 "text": "Jespersen was an important figure in the international language movement.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -50696,7 +50696,7 @@
                 "sent_id": "GUM_bio_jespersen-37",
                 "text": "He was an early supporter of the Esperanto offshoot Ido and in 1927 published his own project Novial.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -51135,7 +51135,7 @@
                 "sent_id": "GUM_bio_jespersen-39",
                 "text": "Jespersen received honorary degrees from Columbia University in New York (1910), St. Andrews University in Scotland (1925), and the Sorbonne in Paris (1927).",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -51586,7 +51586,7 @@
                 "sent_id": "GUM_bio_jespersen-40",
                 "text": "He was one of the first six international scholars to be elected as honorary members of the Linguistic Society of America.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -51907,7 +51907,7 @@
                 "sent_id": "GUM_fiction_falling-1",
                 "text": "Falling",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -51931,7 +51931,7 @@
                 "sent_id": "GUM_fiction_falling-2",
                 "text": "You \u2019re on the 236th-level Kaiserstrasse moving sidewalk when you see her.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -52134,7 +52134,7 @@
                 "sent_id": "GUM_fiction_falling-3",
                 "text": "You \u2019re leaning on the railing, waiting to ask Derya about a job, watching the glittering stream of mites that arc over half the sky \u2014 flying up to rewind their nanosprings in the stratospheric sunlight, flying down to make Frankfurt run.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -52778,7 +52778,7 @@
                 "sent_id": "GUM_fiction_falling-4",
                 "text": "You never get tired of watching them.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -53022,7 +53022,7 @@
                 "sent_id": "GUM_fiction_falling-6",
                 "text": "Someone\u2019s hung it up here \u2014 a hundred meters of clean gray and green twentieth-century modernism, plucked up from the river Main and suspended in the chilly air 2,360 meters up, between a lump of wooded parkland and a cluster of antique subway cars.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -54697,7 +54697,7 @@
                 "sent_id": "GUM_fiction_falling-9",
                 "text": "She\u2019s a strawberry blonde, slim, her skin blank and virginal as new butter.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -54956,7 +54956,7 @@
                 "sent_id": "GUM_fiction_falling-10",
                 "text": "She\u2019s beyond the rail now, hanging out over the mountain - high drop.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -55192,7 +55192,7 @@
                 "sent_id": "GUM_fiction_falling-11",
                 "text": "Thin translucent shadows move across her \u2014 the shadows of the neosilk-and-nanotube filaments that hang the city from the hundreds of five-kilometer-high towers that encircle it.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -55588,7 +55588,7 @@
                 "sent_id": "GUM_fiction_falling-12",
                 "text": "(A civic agent notices you noticing, and attaches itself to your infospace, whispering statistics \u2014",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -56175,7 +56175,7 @@
                 "sent_id": "GUM_fiction_falling-14",
                 "text": "\u201cFrankfurt\u2019s current population is stable at 53 million\u201d \u2014",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -56625,7 +56625,7 @@
                 "sent_id": "GUM_fiction_falling-16",
                 "text": "\u201cCurrent personal squatright: 311 cubic meters per resident\u201d \u2014",
                 "s_type": "other",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -56911,7 +56911,7 @@
                 "sent_id": "GUM_fiction_falling-18",
                 "text": "You \u2019re watching her lean out.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -57027,7 +57027,7 @@
                 "sent_id": "GUM_fiction_falling-19",
                 "text": "The wind whips her hair, ruffles the skirt around her knees.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -57235,7 +57235,7 @@
                 "sent_id": "GUM_fiction_falling-20",
                 "text": "She must be a tourist.",
                 "s_type": "sub",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -57334,7 +57334,7 @@
                 "sent_id": "GUM_fiction_falling-21",
                 "text": "You remember your first trip to the upper levels: leaning over the edge into the angry swarm of mites, whirring and buzzing warnings and shoving you back like a million mosquito chaperones.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -57831,7 +57831,7 @@
                 "sent_id": "GUM_fiction_falling-22",
                 "text": "Everyone tries it once \u2014 Except that there aren\u2019t any mites around her.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -58057,7 +58057,7 @@
                 "sent_id": "GUM_fiction_falling-23",
                 "text": "You clutch the railing.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -58142,7 +58142,7 @@
                 "sent_id": "GUM_fiction_falling-24",
                 "text": "Hot, animal fear surges in your chest.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -58592,7 +58592,7 @@
                 "sent_id": "GUM_fiction_falling-26",
                 "text": "Then she lets go and falls.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -58710,7 +58710,7 @@
                 "sent_id": "GUM_fiction_falling-27",
                 "text": "You scream.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -58767,7 +58767,7 @@
                 "text": "\u201cFucking airsurfers,\u201d says Derya.",
                 "s_type": "decl",
                 "speaker": "Derya",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -58893,7 +58893,7 @@
                 "sent_id": "GUM_fiction_falling-29",
                 "text": "He steps off the moving sidewalk near you: tall, hook-nosed, the fashionable whorls of pox and acne making constellations of his cheeks and chest; the glowing, formal tattoos of his committees and lifebrands adorning his massive triceps.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -59514,7 +59514,7 @@
                 "sent_id": "GUM_fiction_falling-30",
                 "text": "You swallow on a dry throat.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -59625,7 +59625,7 @@
                 "sent_id": "GUM_fiction_falling-31",
                 "text": "Derya, of all people, hearing you scream!",
                 "s_type": "ger",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -59773,7 +59773,7 @@
                 "sent_id": "GUM_fiction_falling-32",
                 "text": "He gives you a hooded look.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -59893,7 +59893,7 @@
                 "text": "\u201cThey infect themselves with some designer virus -",
                 "s_type": "decl",
                 "speaker": "Derya",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -60033,7 +60033,7 @@
                 "text": "it lets them hack the city\u2019s person-recognition systems.",
                 "s_type": "decl",
                 "speaker": "Derya",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -60196,7 +60196,7 @@
                 "text": "So the mites don\u2019t see them when they jump.",
                 "s_type": "decl",
                 "speaker": "Derya",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -60830,7 +60830,7 @@
                 "sent_id": "GUM_fiction_falling-38",
                 "text": "At the 131st, below her, is the old Stock Exchange, hung upside-down now as a hipster den.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -61137,7 +61137,7 @@
                 "sent_id": "GUM_fiction_falling-39",
                 "text": "Now the mites are finally closing in.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -61256,7 +61256,7 @@
                 "sent_id": "GUM_fiction_falling-40",
                 "text": "A silver swarm coalesces around the 164th, and she vanishes into it, like a snip of scallion into cloudy miso soup.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -61610,7 +61610,7 @@
                 "sent_id": "GUM_fiction_falling-41",
                 "text": "When the cloud disperses, she\u2019s standing on one of the Stock Exchange\u2019s upside-down overhangs.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -61884,7 +61884,7 @@
                 "sent_id": "GUM_fiction_falling-42",
                 "text": "She waves, antlike, then crawls through a dormer window.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -62394,7 +62394,7 @@
                 "text": "Ripple effects are causing project slowdowns ...\u201d",
                 "s_type": "decl",
                 "speaker": "Derya",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -62518,7 +62518,7 @@
                 "text": "\u201cFreeloaders drive systemic evolution,\u201d you find yourself saying.",
                 "s_type": "decl",
                 "speaker": "Protagonist",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -62926,7 +62926,7 @@
                 "text": "\u201cThe Free Society is fragile.",
                 "s_type": "decl",
                 "speaker": "Derya",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -63040,7 +63040,7 @@
                 "text": "The minute enough people find anticontributive behavior cool, the party\u2019s over \u2014",
                 "s_type": "decl",
                 "speaker": "Derya",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -63253,7 +63253,7 @@
                 "text": "it\u2019s back to capitalist competition or state control.\u201d",
                 "s_type": "decl",
                 "speaker": "Derya",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -63421,7 +63421,7 @@
                 "sent_id": "GUM_fiction_falling-51",
                 "text": "He stares until you meet his eye.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -63778,7 +63778,7 @@
                 "text": "you even talk to them, your rep will be trashed on all the major servers.",
                 "s_type": "decl",
                 "speaker": "Derya",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -64030,7 +64030,7 @@
                 "text": "You won\u2019t work, you won\u2019t party, you\u2019ll be defriended by every one of your tribes.",
                 "s_type": "decl",
                 "speaker": "Derya",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -64344,7 +64344,7 @@
                 "text": "Got it?\u201d",
                 "s_type": "q",
                 "speaker": "Derya",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -64416,7 +64416,7 @@
                 "sent_id": "GUM_fiction_falling-57",
                 "text": "Her broad-brimmed hat is still sailing on the wind.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -64572,7 +64572,7 @@
                 "sent_id": "GUM_fiction_falling-58",
                 "text": "The mites missed it.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -64659,7 +64659,7 @@
                 "sent_id": "GUM_fiction_falling-59",
                 "text": "It cuts between the towers of the 50th.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -64802,7 +64802,7 @@
                 "sent_id": "GUM_fiction_falling-60",
                 "text": "The upside-down trading floor is deserted.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -64916,7 +64916,7 @@
                 "sent_id": "GUM_fiction_falling-61",
                 "text": "There are heaps of yellowed euros and deutschmarks dumped here, like snowdrifts.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -65198,7 +65198,7 @@
                 "sent_id": "GUM_fiction_falling-63",
                 "text": "Silence.",
                 "s_type": "frag",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -65236,7 +65236,7 @@
                 "sent_id": "GUM_fiction_falling-64",
                 "text": "And the air is strangely clear.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -65443,7 +65443,7 @@
                 "sent_id": "GUM_fiction_falling-66",
                 "text": "The city has no eyes or ears here.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -65774,7 +65774,7 @@
                 "sent_id": "GUM_fiction_falling-68",
                 "text": "Then she\u2019s there, in a doorway.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -65919,7 +65919,7 @@
                 "sent_id": "GUM_fiction_falling-69",
                 "text": "Her eyes, bright blue, radiant.",
                 "s_type": "frag",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -66045,7 +66045,7 @@
                 "sent_id": "GUM_fiction_falling-70",
                 "text": "Her smile, with that chaste yellow dress, so bashful.",
                 "s_type": "frag",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -66313,7 +66313,7 @@
                 "text": "\u201cYou want it?\u201d she says.",
                 "s_type": "decl",
                 "speaker": "Woman",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -66466,7 +66466,7 @@
                 "text": "\u201cYou want to be infected?",
                 "s_type": "q",
                 "speaker": "Woman",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -66578,7 +66578,7 @@
                 "text": "You want to fly?\u201d",
                 "s_type": "q",
                 "speaker": "Woman",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -66674,7 +66674,7 @@
                 "sent_id": "GUM_fiction_falling-75",
                 "text": "You nod.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -66730,7 +66730,7 @@
                 "sent_id": "GUM_fiction_falling-76",
                 "text": "Eyes closing, she leans in for the kiss.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -66924,7 +66924,7 @@
                 "sent_id": "GUM_fiction_teeth-2",
                 "text": "Steven wanted to be a dentist.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -68441,7 +68441,7 @@
                 "sent_id": "GUM_fiction_teeth-6",
                 "text": "Where we had shelves of plastic dinosaurs and superhero figurines from cornflake boxes, Steven had plaster casts of jawbones, gums and teeth grinning down at us.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -68853,7 +68853,7 @@
                 "sent_id": "GUM_fiction_teeth-7",
                 "text": "The instruments were locked away in glass cabinets and only his parents had the key.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -69298,7 +69298,7 @@
                 "text": "\u201cThey sort of tolerate it.",
                 "s_type": "decl",
                 "speaker": "Steven",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -69412,7 +69412,7 @@
                 "text": "But Dad says they \u2019re a sort of collection, and too expensive for me to play with.\u201d",
                 "s_type": "decl",
                 "speaker": "Steven",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -69701,7 +69701,7 @@
                 "sent_id": "GUM_fiction_teeth-11",
                 "text": "Of course, we tried to pick the locks, but the spikes and saws and drillheads remained \u2014 tantalisingly \u2014 out of reach.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -70050,7 +70050,7 @@
                 "sent_id": "GUM_fiction_teeth-12",
                 "text": "We didn\u2019t see Steven\u2019s interest as strange, well, not that much.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -70285,7 +70285,7 @@
                 "sent_id": "GUM_fiction_teeth-13",
                 "text": "We all had our own interests \u2014 drawing, electronics, collecting beer caps \u2014 that each appeared obscure to anyone else.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -70811,7 +70811,7 @@
                 "sent_id": "GUM_fiction_teeth-15",
                 "text": "And if Steven didn\u2019t see it as weird, or no weirder than Andy showing us his Eastern-Block beer caps all laid out neatly on cork boards with little hand-written labels, why should it bother us?",
                 "s_type": "wh",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -71596,7 +71596,7 @@
                 "sent_id": "GUM_fiction_teeth-17",
                 "text": "The bunch that no one picked for their side at football or hockey, and that was the glue that held us together.",
                 "s_type": "multiple",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -71947,7 +71947,7 @@
                 "sent_id": "GUM_fiction_teeth-18",
                 "text": "Besides, Steven had some really good stuff: sweets that stained your teeth bright red \u2014 well, technically, not your teeth, just the plaque, but the result was often the same.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -72474,7 +72474,7 @@
                 "sent_id": "GUM_fiction_teeth-19",
                 "text": "It took a few days good brushing to get it off.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -72765,7 +72765,7 @@
                 "sent_id": "GUM_fiction_teeth-21",
                 "text": "He had effervescent tablets that turned the canteen drinking water into that exact same pink mixture that the dentist gave you to rinse your mouth out after scraping around inside, and guaranteed to make the other kids splutter and spit it out when the taste slowly percolated through and met the memory of their last checkup.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -73590,7 +73590,7 @@
                 "sent_id": "GUM_fiction_teeth-22",
                 "text": "Then there was the event that became the rite of passage into our group of misfits and outcasts: making a mould of your teeth.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -73966,7 +73966,7 @@
                 "sent_id": "GUM_fiction_teeth-23",
                 "text": "It was inevitable that one of us, seeing the plaster casts on the shelf by Steven\u2019s bed would ask how they were done.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -74352,7 +74352,7 @@
                 "sent_id": "GUM_fiction_teeth-24",
                 "text": "It was just as inevitable that a few minutes later, Steven would be mixing up various powders and liquids, and pouring them into a horse-shoe shaped contraption.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -74784,7 +74784,7 @@
                 "sent_id": "GUM_fiction_teeth-25",
                 "text": "It wasn\u2019t dangerous.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -74874,7 +74874,7 @@
                 "sent_id": "GUM_fiction_teeth-26",
                 "text": "At least, I suppose so.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -75393,7 +75393,7 @@
                 "sent_id": "GUM_fiction_teeth-28",
                 "text": "And we were off.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -75474,7 +75474,7 @@
                 "sent_id": "GUM_fiction_teeth-29",
                 "text": "The hardest part was probably to overcome the gagging reflex that set in when you bit down into the acrid resin jelly and it flowed out and up and around, over teeth, gums and tongue.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -76220,7 +76220,7 @@
                 "sent_id": "GUM_fiction_teeth-31",
                 "text": "And you seemed to be suddenly drowning in your own saliva.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -76396,7 +76396,7 @@
                 "sent_id": "GUM_fiction_teeth-32",
                 "text": "Things generally got better when Steven reminded you that you could actually breathe, and swallow, normally.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -77313,7 +77313,7 @@
                 "sent_id": "GUM_fiction_teeth-35",
                 "text": "As the seal around your gums and teeth was pretty solid, you thought it would never come off, as the others giggled at your expressions and grimaces.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -77747,7 +77747,7 @@
                 "sent_id": "GUM_fiction_teeth-36",
                 "text": "Steven jiggled the handle that stuck out beyond your front teeth like some metallic duck\u2019s bill, turning and twisting it most professionally and murmuring encouragements.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -78142,7 +78142,7 @@
                 "sent_id": "GUM_fiction_teeth-37",
                 "text": "And, then, with an awful sucking slurp, it came free.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -78351,7 +78351,7 @@
                 "sent_id": "GUM_fiction_teeth-38",
                 "text": "The initiated then revelled in retelling the gross sensation of having this evil-smelling plastic slug invade your mouth, while the others waited their turn with mixed trepidation and excitement.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -78800,7 +78800,7 @@
                 "sent_id": "GUM_fiction_teeth-39",
                 "text": "Raucous laughter greeted the suggestions of the other body parts that could receive the same treatment.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -79051,7 +79051,7 @@
                 "sent_id": "GUM_fiction_teeth-40",
                 "text": "The next part of the proceedings was less thrilling.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -80027,7 +80027,7 @@
                 "sent_id": "GUM_fiction_teeth-43",
                 "text": "But the next time we visited his room we got to marvel at our toothy grins labelled and lined up on the shelf.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -80382,7 +80382,7 @@
                 "sent_id": "GUM_fiction_teeth-44",
                 "text": "We were all perfectly happy with the result, even wanting one as a trophy until Steven passed an expert eye over them, pointing out here a gap, here a filling, and there a completely misaligned incisor.",
                 "s_type": "decl",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -81170,7 +81170,7 @@
                 "sent_id": "GUM_fiction_teeth-46",
                 "text": "It didn\u2019t matter.",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -81258,7 +81258,7 @@
                 "sent_id": "GUM_fiction_teeth-47",
                 "text": "We were all friends, a group bonded by the common experience of being able to see our teeth on Steven\u2019s shelf.",
                 "s_type": "decl",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -81606,7 +81606,7 @@
                 "sent_id": "GUM_interview_hill-1",
                 "text": "Wikinews interviews Christopher Hill, U.S. Republican Party presidential candidate",
                 "s_type": "decl",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -81760,7 +81760,7 @@
                 "sent_id": "GUM_interview_hill-2",
                 "text": "Interview",
                 "s_type": "frag",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -81785,7 +81785,7 @@
                 "text": "What qualifications do you have that will assist you in executing the duties of president?",
                 "s_type": "wh",
                 "speaker": "WilliamSSaturn",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -82478,7 +82478,7 @@
                 "text": "I understood it was an Oath to ALL of our people.",
                 "s_type": "decl",
                 "speaker": "ChristopherHill",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -83224,7 +83224,7 @@
                 "text": "Why run for president?",
                 "s_type": "wh",
                 "speaker": "WilliamSSaturn",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -83303,7 +83303,7 @@
                 "text": "Why not run for a lower office that you would be more likely to win and effect change?",
                 "s_type": "wh",
                 "speaker": "WilliamSSaturn",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -83577,7 +83577,7 @@
                 "text": "When I was a young man in Air Force ROTC I was chosen to attend a unique Pilot Training Program called Euro- NATO Joint Jet Pilot Training.",
                 "s_type": "decl",
                 "speaker": "ChristopherHill",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -84296,7 +84296,7 @@
                 "text": "I volunteered for that program because I knew I wanted to be a Fighter Pilot and at the \"Top of the Spear.\"",
                 "s_type": "decl",
                 "speaker": "ChristopherHill",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -84805,7 +84805,7 @@
                 "text": "If you graduated you were assigned a fighter, if you were not quite fighter pilot material you had no response to fly another aircraft, you were washed out.",
                 "s_type": "decl",
                 "speaker": "ChristopherHill",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -85261,7 +85261,7 @@
                 "text": "Congress has proven itself ineffective as a body.",
                 "s_type": "decl",
                 "speaker": "ChristopherHill",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {

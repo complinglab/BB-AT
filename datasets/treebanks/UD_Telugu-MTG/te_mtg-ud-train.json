@@ -65,7 +65,7 @@
                 "sent_id": "2",
                 "text": "\u0c0e\u0c15\u0c4d\u0c15\u0c21\u0c3f\u0c15\u0c3f \u0c35\u0c46\u0c33\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c02\u0c21\u0c40 ?",
                 "translit": "\u00e8kka\u1e0diki v\u00e8\u1e37tunn\u0101ra\u1e41\u1e0d\u012b ?",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -570,7 +570,7 @@
                 "sent_id": "11",
                 "text": "\u0c05\u0c2c\u0c26\u0c4d\u0c26\u0c02 \u0c1a\u0c46\u0c2c\u0c41\u0c24\u0c3e\u0c28\u0c41\u0c1f\u0c30\u0c3e ?",
                 "translit": "abadda\u1e41 c\u00e8but\u0101nu\u1e6dar\u0101 ?",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -625,7 +625,7 @@
                 "sent_id": "12",
                 "text": "\u0c08 \u0c30\u0c46\u0c02\u0c21\u0c41 \u0c05\u0c15\u0c4d\u0c37\u0c30\u0c3e\u0c32\u0c41 \u0c26\u0c3f\u0c26\u0c4d\u0c26\u0c41\u0c15\u0c4b\u0c35\u0c47 !",
                 "translit": "\u012b r\u00e8\u1e41\u1e0du ak\u1e63ar\u0101lu diddukove !",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -712,7 +712,7 @@
                 "sent_id": "13",
                 "text": "\u0c35\u0c3e\u0c23\u0c4d\u0c23\u0c3f \u0c15\u0c42\u0c21\u0c3e \u0c2a\u0c3f\u0c32\u0c35\u0c35\u0c47 !",
                 "translit": "v\u0101\u1e47\u1e47i k\u016b\u1e0d\u0101 pilavave !",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -782,7 +782,7 @@
                 "sent_id": "14",
                 "text": "\u0c0e\u0c15\u0c4d\u0c15\u0c21 \u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c35\u0c2e\u0c4d\u0c2e\u0c3e \u0c07\u0c2a\u0c4d\u0c2a\u0c1f\u0c3f\u0c26\u0c3e\u0c15\u0c3e ?",
                 "translit": "\u00e8kka\u1e0da unn\u0101vamm\u0101 ippa\u1e6did\u0101k\u0101 ?",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -1037,7 +1037,7 @@
                 "sent_id": "17",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41 \u0c30\u0c47\u0c2a\u0c28\u0c4d\u0c28\u0c3e \u0c0e\u0c32\u0c4d\u0c32\u0c41\u0c02\u0c21\u0c28\u0c4d\u0c28\u0c3e \u0c2e\u0c26\u0c4d\u0c30\u0c3e\u0c38\u0c41 \u0c35\u0c46\u0c33\u0c4d\u0c24\u0c3e\u0c21\u0c41 .",
                 "translit": "r\u0101mu repann\u0101 \u00e8llu\u1e41\u1e0dann\u0101 madr\u0101su v\u00e8\u1e37t\u0101\u1e0du .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -1492,7 +1492,7 @@
                 "sent_id": "23",
                 "text": "\u0c26\u0c47\u0c35\u0c41\u0c21\u0c41 \u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c4b , \u0c32\u0c47\u0c21\u0c4b .",
                 "translit": "devu\u1e0du unn\u0101\u1e0do , le\u1e0do .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -1577,7 +1577,7 @@
                 "sent_id": "24",
                 "text": "\u0c2e\u0c33\u0c4d\u0c33\u0c40 \u0c28\u0c3f\u0c28\u0c4d\u0c28\u0c41 \u0c1a\u0c42\u0c21\u0c17\u0c32\u0c28\u0c4b , \u0c32\u0c47\u0c26\u0c4b .",
                 "translit": "ma\u1e37\u1e37\u012b ninnu c\u016b\u1e0dagalano , ledo .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -1677,7 +1677,7 @@
                 "sent_id": "25",
                 "text": "\u0c06\u0c2e\u0c46\u0c15\u0c3f \u0c05\u0c2a\u0c4d\u0c2a\u0c1f\u0c3f\u0c15\u0c3f \u0c2a\u0c26\u0c2e\u0c42\u0c21\u0c41 \u0c38\u0c02\u0c35\u0c24\u0c4d\u0c38\u0c30\u0c3e\u0c32\u0c41 \u0c26\u0c3e\u0c1f\u0c47\u0c2f\u0c4b \u0c32\u0c47\u0c26\u0c4b , \u0c17\u0c3e\u0c28\u0c3f \u0c05\u0c2a\u0c4d\u0c2a\u0c1f\u0c3f\u0c15\u0c47 \u0c2c\u0c3e\u0c17\u0c3e \u0c0f\u0c2a\u0c3e\u0c30\u0c3f\u0c17\u0c3e \u0c09\u0c02\u0c21\u0c47\u0c26\u0c3f .",
                 "translit": "\u0101m\u00e8ki appa\u1e6diki padam\u016b\u1e0du sa\u1e41vatsar\u0101lu d\u0101\u1e6deyo ledo , g\u0101ni appa\u1e6dike b\u0101g\u0101 ep\u0101rig\u0101 u\u1e41\u1e0dedi .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -1884,7 +1884,7 @@
                 "sent_id": "26",
                 "text": "\u0c05\u0c21\u0c35\u0c3f\u0c32\u0c4b \u0c15\u0c3e\u0c32\u0c41 \u0c2a\u0c46\u0c1f\u0c4d\u0c1f\u0c47\u0c28\u0c4b \u0c32\u0c47\u0c26\u0c4b , \u0c2a\u0c46\u0c26\u0c4d\u0c26 \u0c2a\u0c41\u0c32\u0c3f \u0c15\u0c28\u0c2c\u0c21\u0c3f\u0c02\u0c26\u0c3f .",
                 "translit": "a\u1e0davilo k\u0101lu p\u00e8\u1e6d\u1e6deno ledo , p\u00e8dda puli kanaba\u1e0di\u1e41di .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -2029,7 +2029,7 @@
                 "sent_id": "27",
                 "text": "\u0c24\u0c3f\u0c32\u0c15\u0c4d \u0c2e\u0c39\u0c3e\u0c36\u0c2f\u0c41\u0c21\u0c3f \u0c1a\u0c3e\u0c35\u0c41 \u0c17\u0c41\u0c30\u0c3f\u0c02\u0c1a\u0c3f \u0c1c\u0c28\u0c02 \u0c2e\u0c30\u0c3f\u0c1a\u0c47\u0c30\u0c4b \u0c32\u0c47\u0c26\u0c4b , \u0c17\u0c3e\u0c02\u0c27\u0c40 \u0c2e\u0c41\u0c02\u0c26\u0c41\u0c15\u0c41 \u0c35\u0c1a\u0c4d\u0c1a\u0c47\u0c30\u0c41 .",
                 "translit": "tilak mah\u0101\u015bayu\u1e0di c\u0101vu guri\u1e41ci jana\u1e41 maricero ledo , g\u0101\u1e41dh\u012b mu\u1e41duku vacceru .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -2219,7 +2219,7 @@
                 "sent_id": "28",
                 "text": "\u0c24\u0c30\u0c35\u0c3e\u0c24\u0c3f \u0c2a\u0c28\u0c3f \u0c0f\u0c2e\u0c3f\u0c1f\u0c3f ?",
                 "translit": "tarav\u0101ti pani emi\u1e6di ?",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -2289,7 +2289,7 @@
                 "sent_id": "29",
                 "text": "\u0c05\u0c24\u0c28\u0c3f \u0c24\u0c30\u0c35\u0c3e\u0c24 \u0c0e\u0c35\u0c30\u0c41 ?",
                 "translit": "atani tarav\u0101ta \u00e8varu ?",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -2359,7 +2359,7 @@
                 "sent_id": "30",
                 "text": "\u0c24\u0c30\u0c35\u0c3e\u0c24 \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c02\u0c21\u0c3f .",
                 "translit": "tarav\u0101ta v\u00e8\u1e37\u1e37a\u1e41\u1e0di .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -2414,7 +2414,7 @@
                 "sent_id": "31",
                 "text": "\u0c08 \u0c32\u0c4b\u0c15\u0c02\u0c32\u0c4b \u0c05\u0c2c\u0c26\u0c4d\u0c26\u0c02 \u0c06\u0c21\u0c28\u0c3f\u0c35\u0c3e\u0c21\u0c41 \u0c32\u0c47\u0c21\u0c41 .",
                 "translit": "\u012b loka\u1e41lo abadda\u1e41 \u0101\u1e0daniv\u0101\u1e0du le\u1e0du .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -2614,7 +2614,7 @@
                 "sent_id": "34",
                 "text": "\u0c05\u0c24\u0c28\u0c41 \u0c07\u0c02\u0c24 \u0c1a\u0c3f\u0c28\u0c4d\u0c28 \u0c07\u0c02\u0c1f\u0c4d\u0c32\u0c4b \u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c41 .",
                 "translit": "atanu i\u1e41ta cinna i\u1e41\u1e6dlo unn\u0101\u1e0du .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -2914,7 +2914,7 @@
                 "sent_id": "37",
                 "text": "\u0c28\u0c47\u0c28\u0c41 \u0c2e\u0c40 \u0c0a\u0c33\u0c4d\u0c33\u0c4b \u0c15\u0c4a\u0c02\u0c24 \u0c15\u0c3e\u0c32\u0c02 \u0c17\u0c21\u0c3f\u0c2a\u0c47\u0c28\u0c41 .",
                 "translit": "nenu m\u012b \u016b\u1e37\u1e37o k\u00f2\u1e41ta k\u0101la\u1e41 ga\u1e0dipenu .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -3029,7 +3029,7 @@
                 "sent_id": "38",
                 "text": "\u0c07\u0c21\u0c41\u0c17\u0c4b\u0c28\u0c02\u0c21\u0c3f \u0c05\u0c26\u0c4d\u0c26\u0c46 !",
                 "translit": "i\u1e0dugona\u1e41\u1e0di add\u00e8 !",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -3084,7 +3084,7 @@
                 "sent_id": "39",
                 "text": "\u0c05\u0c26\u0c41\u0c17\u0c4b ! \u0c17\u0c41\u0c30\u0c4d\u0c30\u0c02 \u0c2a\u0c30\u0c41\u0c17\u0c46\u0c24\u0c4d\u0c24\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c26\u0c3f !",
                 "translit": "adugo ! gurra\u1e41 parug\u00e8ttutunnadi !",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -3169,7 +3169,7 @@
                 "sent_id": "40",
                 "text": "\u0c05\u0c30\u0c41\u0c17\u0c4b \u0c2e\u0c40 \u0c28\u0c3e\u0c28\u0c4d\u0c28\u0c17\u0c3e\u0c30\u0c41 \u0c35\u0c1a\u0c4d\u0c1a\u0c47\u0c30\u0c41 !",
                 "translit": "arugo m\u012b n\u0101nnag\u0101ru vacceru !",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -3254,7 +3254,7 @@
                 "sent_id": "41",
                 "text": "\u0c05\u0c21\u0c41\u0c17\u0c4b \u0c2e\u0c40 \u0c24\u0c2e\u0c4d\u0c2e\u0c41\u0c21\u0c41 !",
                 "translit": "a\u1e0dugo m\u012b tammu\u1e0du !",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -3324,7 +3324,7 @@
                 "sent_id": "42",
                 "text": "\u0c24\u0c3e\u0c33\u0c02 \u0c1a\u0c46\u0c35\u0c3f \u0c0f\u0c26\u0c40 ?",
                 "translit": "t\u0101\u1e37a\u1e41 c\u00e8vi ed\u012b ?",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -3464,7 +3464,7 @@
                 "sent_id": "44",
                 "text": "\u0c2e\u0c40 \u0c2e\u0c3e\u0c2e\u0c17\u0c3e\u0c30\u0c41 \u0c0f\u0c30\u0c40 ?",
                 "translit": "m\u012b m\u0101mag\u0101ru er\u012b ?",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -3534,7 +3534,7 @@
                 "sent_id": "45",
                 "text": "\u0c05\u0c24\u0c28\u0c41 \u0c2e\u0c26\u0c4d\u0c30\u0c3e\u0c38\u0c41\u0c28\u0c41\u0c02\u0c1a\u0c3f \u0c35\u0c1a\u0c4d\u0c1a\u0c47\u0c21\u0c41 .",
                 "translit": "atanu madr\u0101sunu\u1e41ci vacce\u1e0du .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -3604,7 +3604,7 @@
                 "sent_id": "46",
                 "text": "\u0c28\u0c47\u0c28\u0c41 \u0c09\u0c26\u0c4d\u0c2f\u0c4b\u0c17\u0c02 \u0c15\u0c4b\u0c38\u0c02 \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c47\u0c28\u0c41 .",
                 "translit": "nenu udyoga\u1e41 kosa\u1e41 v\u00e8\u1e37\u1e37enu .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -3759,7 +3759,7 @@
                 "sent_id": "50",
                 "text": "\u0c2e\u0c3e \u0c0a\u0c30\u0c41 \u0c08 \u0c0a\u0c30\u0c3f\u0c15\u0c3f \u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41\u0c28 \u0c09\u0c02\u0c26\u0c3f .",
                 "translit": "m\u0101 \u016bru \u012b \u016briki t\u016brpuna u\u1e41di .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -3874,7 +3874,7 @@
                 "sent_id": "51",
                 "text": "\u0c28\u0c47\u0c28\u0c41 \u0c05\u0c24\u0c28\u0c3f \u0c26\u0c4d\u0c35\u0c3e\u0c30\u0c3e \u0c2a\u0c41\u0c38\u0c4d\u0c24\u0c15\u0c02 \u0c2a\u0c02\u0c2a\u0c41\u0c24\u0c3e\u0c28\u0c41 .",
                 "translit": "nenu atani dv\u0101r\u0101 pustaka\u1e41 pa\u1e41put\u0101nu .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -3974,7 +3974,7 @@
                 "sent_id": "52",
                 "text": "\u0c35\u0c3e\u0c30\u0c41 \u0c0e\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c35\u0c38\u0c4d\u0c24\u0c3e\u0c30\u0c41 ?",
                 "translit": "v\u0101ru \u00e8ppu\u1e0du vast\u0101ru ?",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -4114,7 +4114,7 @@
                 "sent_id": "55",
                 "text": "\u0c2e\u0c28\u0c02 \u0c0e\u0c02\u0c26\u0c41\u0c15\u0c41 \u0c05\u0c28\u0c4d\u0c28\u0c02 \u0c24\u0c3f\u0c28\u0c4d\u0c28\u0c3e\u0c02 ?",
                 "translit": "mana\u1e41 \u00e8\u1e41duku anna\u1e41 tinn\u0101\u1e41 ?",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -4199,7 +4199,7 @@
                 "sent_id": "56",
                 "text": "\u0c35\u0c3e\u0c30\u0c41 \u0c0e\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c30\u0c3e\u0c35\u0c1f\u0c02 ?",
                 "translit": "v\u0101ru \u00e8ppu\u1e0du r\u0101va\u1e6da\u1e41 ?",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -4339,7 +4339,7 @@
                 "sent_id": "60",
                 "text": "\u0c2e\u0c47\u0c2e\u0c41 \u0c2d\u0c4b\u0c1c\u0c28\u0c02 \u0c1a\u0c46\u0c2f\u0c4d\u0c2f\u0c3e\u0c32\u0c3f .",
                 "translit": "memu bhojana\u1e41 c\u00e8yy\u0101li .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -4704,7 +4704,7 @@
                 "sent_id": "66",
                 "text": "\u0c28\u0c47\u0c28\u0c41 \u0c06 \u0c2a\u0c28\u0c3f \u0c1a\u0c46\u0c2f\u0c4d\u0c2f\u0c3e\u0c32\u0c4d\u0c38\u0c3f \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c47\u0c28\u0c41 .",
                 "translit": "nenu \u0101 pani c\u00e8yy\u0101lsi v\u00e8\u1e37\u1e37enu .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -4874,7 +4874,7 @@
                 "sent_id": "70",
                 "text": "\u0c07\u0c26\u0c3f \u0c2a\u0c41\u0c38\u0c4d\u0c24\u0c15\u0c3e\u0c32 \u0c2c\u0c40\u0c30\u0c4d\u0c35\u0c3e .",
                 "translit": "idi pustak\u0101la b\u012brv\u0101 .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -4944,7 +4944,7 @@
                 "sent_id": "71",
                 "text": "\u0c05\u0c26\u0c3f \u0c15\u0c42\u0c30\u0c17\u0c3e\u0c2f\u0c32 \u0c26\u0c41\u0c15\u0c3e\u0c23\u0c2e\u0c3e ?",
                 "translit": "adi k\u016brag\u0101yala duk\u0101\u1e47am\u0101 ?",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -5014,7 +5014,7 @@
                 "sent_id": "73",
                 "text": "\u0c07\u0c35\u0c3f \u0c2e\u0c40 \u0c38\u0c4d\u0c28\u0c47\u0c39\u0c3f\u0c24\u0c41\u0c32 \u0c2a\u0c41\u0c38\u0c4d\u0c24\u0c15\u0c3e\u0c32\u0c3e ?",
                 "translit": "ivi m\u012b snehitula pustak\u0101l\u0101 ?",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -5229,7 +5229,7 @@
                 "sent_id": "75",
                 "text": "\u0c12\u0c02\u0c1f\u0c3f\u0c15\u0c3f \u0c2e\u0c02\u0c1a\u0c3f\u0c26\u0c3f \u0c15\u0c3e\u0c26\u0c41 \u0c05\u0c28\u0c3f \u0c28\u0c47\u0c28\u0c41 \u0c38\u0c3f\u0c17\u0c30\u0c46\u0c1f\u0c4d\u0c32\u0c41 \u0c24\u0c3e\u0c17\u0c1f\u0c02 \u0c2e\u0c3e\u0c28\u0c47\u0c38\u0c47\u0c28\u0c41 .",
                 "translit": "\u00f2\u1e41\u1e6diki ma\u1e41cidi k\u0101du ani nenu sigar\u00e8\u1e6dlu t\u0101ga\u1e6da\u1e41 m\u0101nesenu .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -5374,7 +5374,7 @@
                 "sent_id": "76",
                 "text": "\u0c2e\u0c4a\u0c28\u0c4d\u0c28 \u0c28\u0c47\u0c28\u0c41 \u0c0a\u0c33\u0c4d\u0c33\u0c4b \u0c32\u0c47\u0c28\u0c41 .",
                 "translit": "m\u00f2nna nenu \u016b\u1e37\u1e37o lenu .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -6389,7 +6389,7 @@
                 "sent_id": "94",
                 "text": "\u0c0e\u0c35\u0c30\u0c41 \u0c28\u0c28\u0c4d\u0c28\u0c41 \u0c2a\u0c3f\u0c32\u0c3f\u0c1a\u0c47\u0c30\u0c41 ?",
                 "translit": "\u00e8varu nannu piliceru ?",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -6459,7 +6459,7 @@
                 "sent_id": "95",
                 "text": "\u0c0e\u0c35\u0c30\u0c4b \u0c35\u0c3e\u0c23\u0c4d\u0c23\u0c3f \u0c2a\u0c3f\u0c32\u0c3f\u0c1a\u0c47\u0c30\u0c41 .",
                 "translit": "\u00e8varo v\u0101\u1e47\u1e47i piliceru .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -6529,7 +6529,7 @@
                 "sent_id": "96",
                 "text": "\u0c2e\u0c40 \u0c05\u0c2c\u0c4d\u0c2c\u0c3e\u0c2f\u0c3f\u0c28\u0c3f \u0c2e\u0c3e \u0c07\u0c02\u0c1f\u0c3f\u0c15\u0c3f \u0c2a\u0c02\u0c2a\u0c02\u0c21\u0c3f .",
                 "translit": "m\u012b abb\u0101yini m\u0101 i\u1e41\u1e6diki pa\u1e41pa\u1e41\u1e0di .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -6629,7 +6629,7 @@
                 "sent_id": "97",
                 "text": "\u0c05\u0c24\u0c28\u0c41 \u0c2a\u0c3f\u0c32\u0c4d\u0c32\u0c35\u0c3e\u0c23\u0c4d\u0c23\u0c3f \u0c15\u0c4a\u0c1f\u0c4d\u0c1f\u0c47\u0c21\u0c41 .",
                 "translit": "atanu pillav\u0101\u1e47\u1e47i k\u00f2\u1e6d\u1e6de\u1e0du .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -6699,7 +6699,7 @@
                 "sent_id": "98",
                 "text": "\u0c2e\u0c40 \u0c28\u0c3e\u0c28\u0c4d\u0c28\u0c17\u0c3e\u0c30\u0c4d\u0c28\u0c3f \u0c2a\u0c3f\u0c32\u0c35\u0c02\u0c21\u0c3f .",
                 "translit": "m\u012b n\u0101nnag\u0101rni pilava\u1e41\u1e0di .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -6869,7 +6869,7 @@
                 "sent_id": "100",
                 "text": "\u0c28\u0c3e \u0c2a\u0c28\u0c3f \u0c35\u0c3e\u0c21\u0c47 \u0c1a\u0c47\u0c38\u0c3f \u0c2a\u0c46\u0c1f\u0c4d\u0c1f\u0c47\u0c21\u0c41 .",
                 "translit": "n\u0101 pani v\u0101\u1e0de cesi p\u00e8\u1e6d\u1e6de\u1e0du .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -6969,7 +6969,7 @@
                 "sent_id": "101",
                 "text": "\u0c35\u0c3e\u0c21\u0c41 \u0c05\u0c28\u0c4d\u0c28\u0c02 \u0c24\u0c3f\u0c28\u0c15\u0c41\u0c02\u0c21\u0c3e \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c47\u0c21\u0c41 .",
                 "translit": "v\u0101\u1e0du anna\u1e41 tinaku\u1e41\u1e0d\u0101 v\u00e8\u1e37\u1e37e\u1e0du .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -7154,7 +7154,7 @@
                 "sent_id": "104",
                 "text": "\u0c24\u0c46\u0c32\u0c3f\u0c2f\u0c15\u0c41\u0c02\u0c21\u0c3e \u0c2e\u0c3e\u0c1f\u0c4d\u0c32\u0c3e\u0c21\u0c15\u0c41 .",
                 "translit": "t\u00e8liyaku\u1e41\u1e0d\u0101 m\u0101\u1e6dl\u0101\u1e0daku .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -7294,7 +7294,7 @@
                 "sent_id": "107",
                 "text": "\u0c35\u0c3e\u0c21\u0c3f\u0c15\u0c3f \u0c24\u0c46\u0c32\u0c3f\u0c2f\u0c15 , \u0c2c\u0c3e\u0c27 \u0c2a\u0c21\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c41 .",
                 "translit": "v\u0101\u1e0diki t\u00e8liyaka , b\u0101dha pa\u1e0dutunn\u0101\u1e0du .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -7394,7 +7394,7 @@
                 "sent_id": "108",
                 "text": "\u0c35\u0c3e\u0c21\u0c41 \u0c38\u0c30\u0c3f\u0c17\u0c3e \u0c24\u0c3f\u0c28\u0c15 \u0c1a\u0c3f\u0c15\u0c4d\u0c15\u0c3f\u0c2a\u0c4b\u0c2f\u0c3e\u0c21\u0c41 .",
                 "translit": "v\u0101\u1e0du sarig\u0101 tinaka cikkipoy\u0101\u1e0du .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -7479,7 +7479,7 @@
                 "sent_id": "109",
                 "text": "\u0c28\u0c47\u0c28\u0c41 \u0c1a\u0c46\u0c2a\u0c4d\u0c2a\u0c15\u0c2e\u0c41\u0c02\u0c26\u0c41 , \u0c30\u0c3e\u0c15\u0c02\u0c21\u0c3f .",
                 "translit": "nenu c\u00e8ppakamu\u1e41du , r\u0101ka\u1e41\u1e0di .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -7564,7 +7564,7 @@
                 "sent_id": "110",
                 "text": "\u0c06\u0c2f\u0c28\u0c4d\u0c28\u0c3f \u0c2a\u0c3f\u0c32\u0c35\u0c15\u0c2e\u0c41\u0c02\u0c26\u0c41 , \u0c28\u0c28\u0c4d\u0c28\u0c41 \u0c2a\u0c3f\u0c32\u0c35\u0c02\u0c21\u0c3f .",
                 "translit": "\u0101yanni pilavakamu\u1e41du , nannu pilava\u1e41\u1e0di .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -7719,7 +7719,7 @@
                 "sent_id": "112",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41 \u0c07\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c47 \u0c0a\u0c30\u0c3f\u0c28\u0c3f\u0c02\u0c1a\u0c3f \u0c35\u0c1a\u0c4d\u0c1a\u0c47\u0c21\u0c41 .",
                 "translit": "r\u0101mu ippu\u1e0de \u016brini\u1e41ci vacce\u1e0du .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -7959,7 +7959,7 @@
                 "sent_id": "118",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41 \u0c28\u0c3e\u0c15\u0c41 \u0c24\u0c2e\u0c4d\u0c2e\u0c41\u0c21\u0c41 \u0c15\u0c3e\u0c21\u0c41 .",
                 "translit": "r\u0101mu n\u0101ku tammu\u1e0du k\u0101\u1e0du .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -8229,7 +8229,7 @@
                 "sent_id": "121",
                 "text": "\u0c30\u0c47\u0c2a\u0c41 \u0c06\u0c2f\u0c28\u0c4d\u0c28\u0c3f \u0c15\u0c32\u0c41\u0c38\u0c41\u0c15\u0c4a\u0c02\u0c1f\u0c3e\u0c28\u0c28\u0c3f \u0c30\u0c3e\u0c38\u0c47\u0c28\u0c41 .",
                 "translit": "repu \u0101yanni kalusuk\u00f2\u1e41\u1e6d\u0101nani r\u0101senu .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -8314,7 +8314,7 @@
                 "sent_id": "122",
                 "text": "\u0c05\u0c26\u0c3f \u0c0e\u0c32\u0c3e \u0c1a\u0c47\u0c2f\u0c3e\u0c32\u0c3e \u0c05\u0c28\u0c3f \u0c26\u0c3f\u0c17\u0c41\u0c32\u0c41 \u0c2a\u0c21\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c28\u0c41 .",
                 "translit": "adi \u00e8l\u0101 cey\u0101l\u0101 ani digulu pa\u1e0dutunn\u0101nu .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -8689,7 +8689,7 @@
                 "sent_id": "126",
                 "text": "\u0c30\u0c47\u0c2a\u0c41 \u0c06\u0c2f\u0c28 \u0c28\u0c3e\u0c15\u0c41 \u0c21\u0c2c\u0c4d\u0c2c\u0c41 \u0c07\u0c38\u0c4d\u0c24\u0c3e\u0c30\u0c28\u0c3f \u0c28\u0c2e\u0c4d\u0c2e\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c28\u0c41 .",
                 "translit": "repu \u0101yana n\u0101ku \u1e0dabbu ist\u0101rani nammutunn\u0101nu .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -8804,7 +8804,7 @@
                 "sent_id": "127",
                 "text": "\u0c28\u0c3e\u0c15\u0c41 \u0c2a\u0c30\u0c3f\u0c17\u0c46\u0c24\u0c4d\u0c24\u0c3e\u0c32\u0c3f \u0c05\u0c28\u0c3f \u0c24\u0c4b\u0c1a\u0c32\u0c47\u0c26\u0c41 .",
                 "translit": "n\u0101ku parig\u00e8tt\u0101li ani tocaledu .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -8989,7 +8989,7 @@
                 "sent_id": "129",
                 "text": "\u0c12\u0c15 \u0c35\u0c02\u0c1f\u0c2e\u0c28\u0c3f\u0c37\u0c3f\u0c28\u0c3f \u0c15\u0c41\u0c26\u0c41\u0c30\u0c4d\u0c1a\u0c41\u0c26\u0c3e\u0c02 \u0c05\u0c28\u0c41\u0c15\u0c4a\u0c02\u0c1f\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c28\u0c41 .",
                 "translit": "\u00f2ka va\u1e41\u1e6damani\u1e63ini kudurcud\u0101\u1e41 anuk\u00f2\u1e41\u1e6dunn\u0101nu .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -9076,7 +9076,7 @@
                 "sent_id": "130",
                 "text": "\u0c30\u0c47\u0c2a\u0c41 \u0c35\u0c3f\u0c1c\u0c2f\u0c35\u0c3e\u0c21 \u0c2a\u0c4b\u0c26\u0c3e\u0c02 \u0c05\u0c28\u0c41\u0c15\u0c4a\u0c02\u0c1f\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c28\u0c41 .",
                 "translit": "repu vijayav\u0101\u1e0da pod\u0101\u1e41 anuk\u00f2\u1e41\u1e6dunn\u0101nu .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -9161,7 +9161,7 @@
                 "sent_id": "133",
                 "text": "\u0c24\u0c46\u0c32\u0c41\u0c38\u0c41 , \u0c2e\u0c40\u0c30\u0c41 \u0c05\u0c32\u0c3e \u0c05\u0c02\u0c1f\u0c3e\u0c30\u0c28\u0c3f !",
                 "translit": "t\u00e8lusu , m\u012bru al\u0101 a\u1e41\u1e6d\u0101rani !",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -9261,7 +9261,7 @@
                 "sent_id": "134",
                 "text": "\u0c30\u0c3e\u0c2e\u0c3e\u0c30\u0c3e\u0c35\u0c41 \u0c2e\u0c02\u0c1a\u0c3f\u0c35\u0c3e\u0c21\u0c41 .",
                 "translit": "r\u0101m\u0101r\u0101vu ma\u1e41civ\u0101\u1e0du .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -9316,7 +9316,7 @@
                 "sent_id": "135",
                 "text": "\u0c2e\u0c28\u0c02 \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 \u0c35\u0c3e\u0c33\u0c4d\u0c33\u0c02 .",
                 "translit": "mana\u1e41 t\u00e8lugu v\u0101\u1e37\u1e37a\u1e41 .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -9386,7 +9386,7 @@
                 "sent_id": "136",
                 "text": "\u0c2e\u0c28\u0c02 \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 \u0c35\u0c3e\u0c33\u0c4d\u0c33\u0c02 \u0c15\u0c3e\u0c2e\u0c41 .",
                 "translit": "mana\u1e41 t\u00e8lugu v\u0101\u1e37\u1e37a\u1e41 k\u0101mu .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -9686,7 +9686,7 @@
                 "sent_id": "139",
                 "text": "\u0c2e\u0c3e\u0c2e\u0c3f\u0c21\u0c3f\u0c2a\u0c02\u0c21\u0c41 \u0c24\u0c40\u0c2a\u0c3f .",
                 "translit": "m\u0101mi\u1e0dipa\u1e41\u1e0du t\u012bpi .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -9741,7 +9741,7 @@
                 "sent_id": "140",
                 "text": "\u0c15\u0c2e\u0c32 \u0c2a\u0c4a\u0c21\u0c41\u0c17\u0c41 .",
                 "translit": "kamala p\u00f2\u1e0dugu .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -9796,7 +9796,7 @@
                 "sent_id": "141",
                 "text": "\u0c35\u0c46\u0c02\u0c15\u0c2f\u0c4d\u0c2f\u0c15\u0c41 \u0c2a\u0c3f\u0c1a\u0c4d\u0c1a\u0c3f .",
                 "translit": "v\u00e8\u1e41kayyaku picci .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -9851,7 +9851,7 @@
                 "sent_id": "142",
                 "text": "\u0c30\u0c2e\u0c23\u0c2f\u0c4d\u0c2f\u0c15\u0c41 \u0c1a\u0c46\u0c35\u0c41\u0c21\u0c41 .",
                 "translit": "rama\u1e47ayyaku c\u00e8vu\u1e0du .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -9906,7 +9906,7 @@
                 "sent_id": "143",
                 "text": "\u0c35\u0c3f\u0c1c\u0c2f\u0c35\u0c3e\u0c21\u0c32\u0c4b \u0c1a\u0c1a\u0c4d\u0c1a\u0c47 \u0c0e\u0c02\u0c21\u0c32\u0c41 .",
                 "translit": "vijayav\u0101\u1e0dalo cacce \u00e8\u1e41\u1e0dalu .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -10061,7 +10061,7 @@
                 "sent_id": "148",
                 "text": "\u0c35\u0c3e\u0c21\u0c3f\u0c15\u0c3f \u0c06\u0c15\u0c32\u0c3f\u0c17\u0c3e \u0c09\u0c02\u0c26\u0c3f .",
                 "translit": "v\u0101\u1e0diki \u0101kalig\u0101 u\u1e41di .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -10201,7 +10201,7 @@
                 "sent_id": "151",
                 "text": "\u0c35\u0c3e\u0c21\u0c41 \u0c06\u0c15\u0c32\u0c3f\u0c17\u0c3e \u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c41 .",
                 "translit": "v\u0101\u1e0du \u0101kalig\u0101 unn\u0101\u1e0du .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -10271,7 +10271,7 @@
                 "sent_id": "154",
                 "text": "\u0c28\u0c3e\u0c15\u0c41 \u0c2a\u0c41\u0c38\u0c4d\u0c24\u0c15\u0c02 \u0c15\u0c3e\u0c35\u0c3e\u0c32\u0c3f .",
                 "translit": "n\u0101ku pustaka\u1e41 k\u0101v\u0101li .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -10341,7 +10341,7 @@
                 "sent_id": "155",
                 "text": "\u0c35\u0c3e\u0c21\u0c3f\u0c15\u0c3f \u0c24\u0c46\u0c32\u0c3f\u0c35\u0c3f \u0c32\u0c47\u0c26\u0c41 .",
                 "translit": "v\u0101\u1e0diki t\u00e8livi ledu .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -10411,7 +10411,7 @@
                 "sent_id": "156",
                 "text": "\u0c30\u0c2e\u0c23\u0c3e\u0c30\u0c3e\u0c35\u0c41 \u0c28\u0c3f\u0c26\u0c4d\u0c30 \u0c2a\u0c4b\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c3e ?",
                 "translit": "rama\u1e47\u0101r\u0101vu nidra potunn\u0101\u1e0d\u0101 ?",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -10481,7 +10481,7 @@
                 "sent_id": "158",
                 "text": "\u0c2e\u0c40\u0c30\u0c41 \u0c07\u0c15\u0c4d\u0c15\u0c21\u0c3f\u0c28\u0c41\u0c02\u0c1a\u0c3f \u0c0e\u0c15\u0c4d\u0c15\u0c21\u0c3f\u0c15\u0c3f \u0c35\u0c46\u0c33\u0c4d\u0c24\u0c3e\u0c30\u0c41 ?",
                 "translit": "m\u012bru ikka\u1e0dinu\u1e41ci \u00e8kka\u1e0diki v\u00e8\u1e37t\u0101ru ?",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -10566,7 +10566,7 @@
                 "sent_id": "159",
                 "text": "\u0c0e\u0c35\u0c30\u0c41 \u0c0e\u0c35\u0c30\u0c3f\u0c15\u0c3f \u0c0f\u0c02 \u0c0e\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c0e\u0c02\u0c26\u0c41\u0c15\u0c41 \u0c07\u0c1a\u0c4d\u0c1a\u0c47\u0c30\u0c41 ?",
                 "translit": "\u00e8varu \u00e8variki e\u1e41 \u00e8ppu\u1e0du \u00e8\u1e41duku icceru ?",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -10906,7 +10906,7 @@
                 "sent_id": "163",
                 "text": "\u0c06\u0c2f\u0c28 \u0c2a\u0c4d\u0c30\u0c4a\u0c2b\u0c46\u0c38\u0c30\u0c41\u0c17\u0c3e\u0c30\u0c3e ?",
                 "translit": "\u0101yana pr\u00f2ph\u00e8sarug\u0101r\u0101 ?",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -10961,7 +10961,7 @@
                 "sent_id": "164",
                 "text": "\u0c06\u0c2f\u0c28 \u0c21\u0c3e\u0c15\u0c4d\u0c1f\u0c30\u0c41\u0c17\u0c3e\u0c30\u0c3e ?",
                 "translit": "\u0101yana \u1e0d\u0101k\u1e6darug\u0101r\u0101 ?",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -11016,7 +11016,7 @@
                 "sent_id": "166",
                 "text": "\u0c15\u0c2e\u0c32 \u0c35\u0c3f\u0c2e\u0c32 \u0c15\u0c02\u0c1f\u0c46 \u0c24\u0c46\u0c32\u0c41\u0c2a\u0c3e ?",
                 "translit": "kamala vimala ka\u1e41\u1e6d\u00e8 t\u00e8lup\u0101 ?",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -11186,7 +11186,7 @@
                 "sent_id": "168",
                 "text": "\u0c15\u0c2e\u0c32 \u0c35\u0c3f\u0c2e\u0c32 \u0c15\u0c02\u0c1f\u0c46 \u0c24\u0c46\u0c32\u0c41\u0c2a\u0c3e \u0c28\u0c32\u0c41\u0c2a\u0c3e ?",
                 "translit": "kamala vimala ka\u1e41\u1e6d\u00e8 t\u00e8lup\u0101 nalup\u0101 ?",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -11356,7 +11356,7 @@
                 "sent_id": "170",
                 "text": "\u0c06\u0c2f\u0c28 \u0c2e\u0c3e\u0c15\u0c41 \u0c06\u0c2b\u0c40\u0c38\u0c30\u0c3e ?",
                 "translit": "\u0101yana m\u0101ku \u0101ph\u012bsar\u0101 ?",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -11426,7 +11426,7 @@
                 "sent_id": "171",
                 "text": "\u0c06\u0c2f\u0c28 \u0c2e\u0c40\u0c15\u0c3e \u0c2e\u0c3e\u0c15\u0c3e \u0c06\u0c2b\u0c40\u0c38\u0c30\u0c41 ?",
                 "translit": "\u0101yana m\u012bk\u0101 m\u0101k\u0101 \u0101ph\u012bsaru ?",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -11511,7 +11511,7 @@
                 "sent_id": "172",
                 "text": "\u0c2e\u0c40\u0c30\u0c41 \u0c05\u0c28\u0c4d\u0c28\u0c02 \u0c0e\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c24\u0c3f\u0c02\u0c1f\u0c3e\u0c30\u0c41 ?",
                 "translit": "m\u012bru anna\u1e41 \u00e8ppu\u1e0du ti\u1e41\u1e6d\u0101ru ?",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -11596,7 +11596,7 @@
                 "sent_id": "173",
                 "text": "\u0c2e\u0c3e \u0c05\u0c2c\u0c4d\u0c2c\u0c3e\u0c2f\u0c3f \u0c30\u0c47\u0c2a\u0c41 \u0c0a\u0c30\u0c3f\u0c15\u0c3f \u0c35\u0c46\u0c33\u0c4d\u0c24\u0c3e\u0c21\u0c41 .",
                 "translit": "m\u0101 abb\u0101yi repu \u016briki v\u00e8\u1e37t\u0101\u1e0du .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -11696,7 +11696,7 @@
                 "sent_id": "174",
                 "text": "\u0c2e\u0c3e \u0c28\u0c3e\u0c28\u0c4d\u0c28\u0c17\u0c3e\u0c30\u0c41 \u0c2e\u0c26\u0c4d\u0c30\u0c3e\u0c38\u0c41\u0c28\u0c41\u0c02\u0c1a\u0c3f \u0c2c\u0c4a\u0c2e\u0c4d\u0c2e\u0c32\u0c41 \u0c24\u0c46\u0c38\u0c4d\u0c24\u0c3e\u0c30\u0c41 .",
                 "translit": "m\u0101 n\u0101nnag\u0101ru madr\u0101sunu\u1e41ci b\u00f2mmalu t\u00e8st\u0101ru .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -11796,7 +11796,7 @@
                 "sent_id": "175",
                 "text": "\u0c05\u0c02\u0c17\u0c1f\u0c4d\u0c32\u0c4b \u0c2e\u0c3e\u0c2e\u0c3f\u0c21\u0c3f\u0c2a\u0c02\u0c21\u0c4d\u0c32\u0c41 \u0c15\u0c4a\u0c02\u0c1f\u0c3e\u0c28\u0c41 .",
                 "translit": "a\u1e41ga\u1e6dlo m\u0101mi\u1e0dipa\u1e41\u1e0dlu k\u00f2\u1e41\u1e6d\u0101nu .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -12006,7 +12006,7 @@
                 "sent_id": "178",
                 "text": "\u0c06\u0c35\u0c41\u0c32\u0c41 \u0c2a\u0c3e\u0c32\u0c41 \u0c07\u0c38\u0c4d\u0c24\u0c3e\u0c2f\u0c3f .",
                 "translit": "\u0101vulu p\u0101lu ist\u0101yi .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -12146,7 +12146,7 @@
                 "sent_id": "180",
                 "text": "\u0c2e\u0c3e \u0c05\u0c2e\u0c4d\u0c2e\u0c3e\u0c2f\u0c3f \u0c28\u0c3e \u0c2e\u0c3e\u0c1f \u0c35\u0c3f\u0c02\u0c1f\u0c41\u0c02\u0c26\u0c3f .",
                 "translit": "m\u0101 amm\u0101yi n\u0101 m\u0101\u1e6da vi\u1e41\u1e6du\u1e41di .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -12246,7 +12246,7 @@
                 "sent_id": "181",
                 "text": "\u0c28\u0c47\u0c28\u0c41 \u0c2e\u0c3f\u0c20\u0c3e\u0c2f\u0c3f \u0c24\u0c3f\u0c02\u0c1f\u0c3e\u0c28\u0c41 .",
                 "translit": "nenu mi\u1e6dh\u0101yi ti\u1e41\u1e6d\u0101nu .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -12471,7 +12471,7 @@
                 "sent_id": "185",
                 "text": "\u0c2e\u0c47\u0c02 \u0c21\u0c3e\u0c15\u0c4d\u0c1f\u0c30\u0c4d\u0c32\u0c02 \u0c15\u0c3e\u0c26\u0c41 .",
                 "translit": "me\u1e41 \u1e0d\u0101k\u1e6darla\u1e41 k\u0101du .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -12541,7 +12541,7 @@
                 "sent_id": "187",
                 "text": "\u0c2e\u0c40\u0c30\u0c41 \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c3f\u0c28\u0c3e , \u0c28\u0c47\u0c28\u0c41 \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c28\u0c41 .",
                 "translit": "m\u012bru v\u00e8\u1e37\u1e37in\u0101 , nenu v\u00e8\u1e37\u1e37anu .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -12741,7 +12741,7 @@
                 "sent_id": "189",
                 "text": "\u0c35\u0c3e\u0c21\u0c3f\u0c15\u0c3f \u0c24\u0c46\u0c32\u0c3f\u0c38\u0c3f\u0c28\u0c3e \u0c1a\u0c46\u0c2a\u0c4d\u0c2a\u0c21\u0c41 .",
                 "translit": "v\u0101\u1e0diki t\u00e8lisin\u0101 c\u00e8ppa\u1e0du .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -12811,7 +12811,7 @@
                 "sent_id": "190",
                 "text": "\u0c24\u0c40\u0c30\u0c3f\u0c15 \u0c09\u0c28\u0c4d\u0c28\u0c3e , \u0c15\u0c4b\u0c30\u0c3f\u0c15 \u0c32\u0c47\u0c26\u0c41 .",
                 "translit": "t\u012brika unn\u0101 , korika ledu .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -12911,7 +12911,7 @@
                 "sent_id": "191",
                 "text": "\u0c26\u0c47\u0c35\u0c41\u0c21\u0c41 \u0c35\u0c30\u0c2e\u0c41 \u0c07\u0c1a\u0c4d\u0c1a\u0c3f\u0c28\u0c3e , \u0c2a\u0c42\u0c1c\u0c3e\u0c30\u0c3f \u0c35\u0c30\u0c02 \u0c07\u0c35\u0c4d\u0c35\u0c21\u0c41 .",
                 "translit": "devu\u1e0du varamu iccin\u0101 , p\u016bj\u0101ri vara\u1e41 ivva\u1e0du .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -13041,7 +13041,7 @@
                 "sent_id": "192",
                 "text": "\u0c21\u0c3e\u0c15\u0c4d\u0c1f\u0c30\u0c41 \u0c2e\u0c02\u0c26\u0c41 \u0c07\u0c1a\u0c4d\u0c1a\u0c3f\u0c28\u0c3e , \u0c30\u0c4b\u0c17\u0c3f \u0c1a\u0c1a\u0c4d\u0c1a\u0c3e\u0c21\u0c41 .",
                 "translit": "\u1e0d\u0101k\u1e6daru ma\u1e41du iccin\u0101 , rogi cacc\u0101\u1e0du .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -13156,7 +13156,7 @@
                 "sent_id": "193",
                 "text": "\u0c15\u0c2e\u0c32 \u0c2e\u0c4a\u0c17\u0c41\u0c21\u0c3f\u0c24\u0c4b \u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e\u0c15\u0c41 \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c3f\u0c02\u0c26\u0c3f .",
                 "translit": "kamala m\u00f2gu\u1e0dito sinim\u0101ku v\u00e8\u1e37\u1e37i\u1e41di .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -13241,7 +13241,7 @@
                 "sent_id": "195",
                 "text": "\u0c15\u0c2e\u0c32\u0c3e \u0c2e\u0c4a\u0c17\u0c41\u0c21\u0c3f\u0c24\u0c4b \u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e\u0c15\u0c41 \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c3f\u0c02\u0c26\u0c3f ?",
                 "translit": "kamal\u0101 m\u00f2gu\u1e0dito sinim\u0101ku v\u00e8\u1e37\u1e37i\u1e41di ?",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -13326,7 +13326,7 @@
                 "sent_id": "197",
                 "text": "\u0c15\u0c2e\u0c32 \u0c2e\u0c4a\u0c17\u0c41\u0c21\u0c3f\u0c24\u0c4b \u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e\u0c15\u0c3e \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c3f\u0c02\u0c26\u0c3f ?",
                 "translit": "kamala m\u00f2gu\u1e0dito sinim\u0101k\u0101 v\u00e8\u1e37\u1e37i\u1e41di ?",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -13411,7 +13411,7 @@
                 "sent_id": "199",
                 "text": "\u0c07\u0c24\u0c28\u0c47 \u0c30\u0c3e\u0c2e\u0c2f\u0c4d\u0c2f .",
                 "translit": "itane r\u0101mayya .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -13521,7 +13521,7 @@
                 "sent_id": "201",
                 "text": "\u0c15\u0c42\u0c30 \u0c2c\u0c3e\u0c17\u0c3e\u0c28\u0c47 \u0c09\u0c02\u0c26\u0c3f .",
                 "translit": "k\u016bra b\u0101g\u0101ne u\u1e41di .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -13591,7 +13591,7 @@
                 "sent_id": "203",
                 "text": "\u0c06 \u0c1a\u0c4a\u0c15\u0c4d\u0c15\u0c3e \u0c24\u0c46\u0c32\u0c41\u0c2a\u0c41 .",
                 "translit": "\u0101 c\u00f2kk\u0101 t\u00e8lupu .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -13661,7 +13661,7 @@
                 "sent_id": "204",
                 "text": "\u0c2e\u0c3e\u0c2e\u0c3f\u0c21\u0c3f\u0c2a\u0c02\u0c21\u0c41 \u0c24\u0c40\u0c2a\u0c3f .",
                 "translit": "m\u0101mi\u1e0dipa\u1e41\u1e0du t\u012bpi .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -13716,7 +13716,7 @@
                 "sent_id": "206",
                 "text": "\u0c28\u0c3e\u0c15\u0c41 \u0c08 \u0c0a\u0c30\u0c41 \u0c15\u0c4a\u0c24\u0c4d\u0c24 .",
                 "translit": "n\u0101ku \u012b \u016bru k\u00f2tta .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -13871,7 +13871,7 @@
                 "sent_id": "208",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41 \u0c15\u0c2e\u0c32 \u0c2a\u0c3e\u0c21\u0c3f\u0c28 \u0c2a\u0c3e\u0c1f \u0c35\u0c3f\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c41 .",
                 "translit": "r\u0101mu kamala p\u0101\u1e0dina p\u0101\u1e6da vinn\u0101\u1e0du .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -14086,7 +14086,7 @@
                 "sent_id": "210",
                 "text": "\u0c07\u0c32\u0c4d\u0c32\u0c41 \u0c32\u0c47\u0c15 \u0c15\u0c37\u0c4d\u0c1f\u0c2a\u0c21\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c28\u0c41 .",
                 "translit": "illu leka ka\u1e63\u1e6dapa\u1e0dutunn\u0101nu .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -14156,7 +14156,7 @@
                 "sent_id": "211",
                 "text": "\u0c2e\u0c40 \u0c38\u0c39\u0c3e\u0c2f\u0c02 \u0c32\u0c47\u0c15\u0c41\u0c02\u0c21\u0c3e , \u0c08 \u0c2a\u0c28\u0c3f \u0c0e\u0c32\u0c3e \u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c41 ?",
                 "translit": "m\u012b sah\u0101ya\u1e41 leku\u1e41\u1e0d\u0101 , \u012b pani \u00e8l\u0101 cest\u0101nu ?",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -14386,7 +14386,7 @@
                 "sent_id": "213",
                 "text": "\u0c2e\u0c40\u0c30\u0c41 \u0c30\u0c3e\u0c15 \u0c24\u0c2a\u0c4d\u0c2a\u0c26\u0c41 .",
                 "translit": "m\u012bru r\u0101ka tappadu .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -14673,7 +14673,7 @@
                 "sent_id": "217",
                 "text": "\u0c2e\u0c40\u0c30\u0c41 \u0c2e\u0c3e \u0c07\u0c02\u0c1f\u0c3f\u0c15\u0c3f \u0c35\u0c1a\u0c4d\u0c1a\u0c3f \u0c30\u0c46\u0c02\u0c21\u0c41 \u0c2f\u0c47\u0c33\u0c4d\u0c33\u0c41 \u0c05\u0c2f\u0c3f\u0c02\u0c26\u0c3f .",
                 "translit": "m\u012bru m\u0101 i\u1e41\u1e6diki vacci r\u00e8\u1e41\u1e0du ye\u1e37\u1e37u ayi\u1e41di .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -14805,7 +14805,7 @@
                 "sent_id": "218",
                 "text": "\u0c35\u0c3e\u0c21\u0c41 \u0c05\u0c28\u0c4d\u0c28\u0c02 \u0c24\u0c3f\u0c28\u0c3f \u0c2e\u0c42\u0c21\u0c41 \u0c30\u0c4b\u0c1c\u0c41\u0c32\u0c41 \u0c05\u0c2f\u0c3f\u0c02\u0c26\u0c3f .",
                 "translit": "v\u0101\u1e0du anna\u1e41 tini m\u016b\u1e0du rojulu ayi\u1e41di .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -15107,7 +15107,7 @@
                 "sent_id": "223",
                 "text": "\u0c24\u0c32\u0c4d\u0c32\u0c40 !",
                 "translit": "tall\u012b !",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -15187,7 +15187,7 @@
                 "sent_id": "226",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41\u0c21\u0c3e !",
                 "translit": "r\u0101mu\u1e0d\u0101 !",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -15227,7 +15227,7 @@
                 "sent_id": "227",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41\u0c21\u0c42 !",
                 "translit": "r\u0101mu\u1e0d\u016b !",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -15307,7 +15307,7 @@
                 "sent_id": "229",
                 "text": "\u0c2e\u0c3f\u0c24\u0c43\u0c32\u0c3e\u0c30\u0c3e !",
                 "translit": "mitr\u0325l\u0101r\u0101 !",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -15387,7 +15387,7 @@
                 "sent_id": "231",
                 "text": "\u0c26\u0c47\u0c35\u0c41\u0c21\u0c3e ! \u0c0e\u0c15\u0c4d\u0c15\u0c21\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c35\u0c41 \u0c30\u0c3e ?",
                 "translit": "devu\u1e0d\u0101 ! \u00e8kka\u1e0dunn\u0101vu r\u0101 ?",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -15472,7 +15472,7 @@
                 "sent_id": "233",
                 "text": "\u0c06 \u0c2c\u0c4a\u0c2e\u0c4d\u0c2e\u0c32\u0c41 \u0c15\u0c4a\u0c02\u0c26\u0c3e\u0c02 .",
                 "translit": "\u0101 b\u00f2mmalu k\u00f2\u1e41d\u0101\u1e41 .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -15597,7 +15597,7 @@
                 "sent_id": "235",
                 "text": "\u0c2a\u0c41\u0c38\u0c4d\u0c24\u0c15\u0c02 \u0c1a\u0c26\u0c41\u0c35\u0c41\u0c26\u0c3e\u0c02 .",
                 "translit": "pustaka\u1e41 caduvud\u0101\u1e41 .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -15722,7 +15722,7 @@
                 "sent_id": "238",
                 "text": "\u0c07\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c15\u0c3e\u0c2b\u0c40 \u0c24\u0c3e\u0c17\u0c41\u0c26\u0c3e\u0c02 .",
                 "translit": "ippu\u1e0du k\u0101ph\u012b t\u0101gud\u0101\u1e41 .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -15902,7 +15902,7 @@
                 "sent_id": "241",
                 "text": "\u0c07\u0c32\u0c4d\u0c32\u0c41 \u0c15\u0c21\u0c26\u0c3e\u0c02 .",
                 "translit": "illu ka\u1e0dad\u0101\u1e41 .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -15957,7 +15957,7 @@
                 "sent_id": "244",
                 "text": "\u0c2e\u0c40 \u0c07\u0c02\u0c1f\u0c4d\u0c32\u0c4b \u0c0e\u0c28\u0c4d\u0c28\u0c3f \u0c17\u0c26\u0c41\u0c32\u0c41 \u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c2f\u0c3f ?",
                 "translit": "m\u012b i\u1e41\u1e6dlo \u00e8nni gadulu unn\u0101yi ?",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -16157,7 +16157,7 @@
                 "sent_id": "246",
                 "text": "\u0c05\u0c15\u0c4d\u0c15\u0c21 \u0c0e\u0c02\u0c26\u0c30\u0c41 \u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41 ?",
                 "translit": "akka\u1e0da \u00e8\u1e41daru unn\u0101ru ?",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -16227,7 +16227,7 @@
                 "sent_id": "247",
                 "text": "\u0c28\u0c3e\u0c15\u0c41 \u0c15\u0c4a\u0c28\u0c4d\u0c28\u0c3f \u0c07\u0c38\u0c4d\u0c24\u0c3e\u0c30\u0c3e ?",
                 "translit": "n\u0101ku k\u00f2nni ist\u0101r\u0101 ?",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -16297,7 +16297,7 @@
                 "sent_id": "249",
                 "text": "\u0c06\u0c2f\u0c28 \u0c1a\u0c46\u0c2a\u0c4d\u0c2a\u0c47\u0c26\u0c3f \u0c2c\u0c3e\u0c17\u0c3e \u0c32\u0c47\u0c26\u0c41 .",
                 "translit": "\u0101yana c\u00e8ppedi b\u0101g\u0101 ledu .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -16467,7 +16467,7 @@
                 "sent_id": "251",
                 "text": "\u0c35\u0c3e\u0c28 \u0c15\u0c41\u0c30\u0c35(\u0c28\u0c3f) \u0c05\u0c02\u0c26\u0c41\u0c15\u0c41 \u0c15\u0c3e\u0c30\u0c23\u0c02 \u0c0f\u0c2e\u0c3f\u0c1f\u0c3f ?",
                 "translit": "v\u0101na kurava(ni) a\u1e41duku k\u0101ra\u1e47a\u1e41 emi\u1e6di ?",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -16737,7 +16737,7 @@
                 "sent_id": "255",
                 "text": "\u0c36\u0c30\u0c4d\u0c2e\u0c17\u0c3e\u0c30\u0c41 \u0c35\u0c46\u0c33\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c26\u0c3f \u0c28\u0c3e\u0c15\u0c41 \u0c24\u0c46\u0c32\u0c3f\u0c2f\u0c26\u0c41 .",
                 "translit": "\u015barmag\u0101ru v\u00e8\u1e37tunnadi n\u0101ku t\u00e8liyadu .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -16822,7 +16822,7 @@
                 "sent_id": "256",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41 \u0c35\u0c1a\u0c4d\u0c1a\u0c47 \u0c30\u0c4b\u0c1c\u0c41 \u0c30\u0c47\u0c2a\u0c41 .",
                 "translit": "r\u0101mu vacce roju repu .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -16907,7 +16907,7 @@
                 "sent_id": "257",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41 \u0c07\u0c15\u0c4d\u0c15\u0c21 \u0c09\u0c28\u0c4d\u0c28 \u0c2a\u0c26\u0c3f \u0c30\u0c4b\u0c1c\u0c41\u0c32\u0c32\u0c4b .",
                 "translit": "r\u0101mu ikka\u1e0da unna padi rojulalo .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -17009,7 +17009,7 @@
                 "sent_id": "258",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41 \u0c07\u0c15\u0c4d\u0c15\u0c21 \u0c2a\u0c26\u0c3f \u0c30\u0c4b\u0c1c\u0c41\u0c32\u0c41 \u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c41 .",
                 "translit": "r\u0101mu ikka\u1e0da padi rojulu unn\u0101\u1e0du .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -17243,7 +17243,7 @@
                 "sent_id": "260",
                 "text": "\u0c05\u0c2c\u0c4d\u0c2c\u0c3e\u0c2f\u0c3f \u0c2c\u0c4a\u0c2e\u0c4d\u0c2e \u0c24\u0c46\u0c1a\u0c4d\u0c1a\u0c47\u0c21\u0c41 .",
                 "translit": "abb\u0101yi b\u00f2mma t\u00e8cce\u1e0du .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -17313,7 +17313,7 @@
                 "sent_id": "261",
                 "text": "\u0c2c\u0c4a\u0c2e\u0c4d\u0c2e \u0c24\u0c46\u0c1a\u0c4d\u0c1a\u0c3f\u0c28 \u0c05\u0c2c\u0c4d\u0c2c\u0c3e\u0c2f\u0c3f \u0c0f\u0c21\u0c41\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c41 .",
                 "translit": "b\u00f2mma t\u00e8ccina abb\u0101yi e\u1e0dustunn\u0101\u1e0du .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -17468,7 +17468,7 @@
                 "sent_id": "264",
                 "text": "\u0c09\u0c24\u0c4d\u0c24\u0c30\u0c02 \u0c30\u0c3e\u0c38\u0c3f\u0c28 \u0c2e\u0c47\u0c37\u0c4d\u0c1f\u0c3e\u0c30\u0c41\u0c17\u0c3e\u0c30\u0c41 \u0c07\u0c15\u0c4d\u0c15\u0c21 \u0c32\u0c47\u0c30\u0c41 .",
                 "translit": "uttara\u1e41 r\u0101sina me\u1e63\u1e6d\u0101rug\u0101ru ikka\u1e0da leru .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -17638,7 +17638,7 @@
                 "sent_id": "267",
                 "text": "\u0c07\u0c02\u0c1f\u0c3f\u0c15\u0c3f \u0c35\u0c1a\u0c4d\u0c1a\u0c47 \u0c05\u0c2c\u0c4d\u0c2c\u0c3e\u0c2f\u0c3f .",
                 "translit": "i\u1e41\u1e6diki vacce abb\u0101yi .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -17708,7 +17708,7 @@
                 "sent_id": "268",
                 "text": "\u0c07\u0c02\u0c1f\u0c3f\u0c15\u0c3f \u0c35\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28 \u0c05\u0c2c\u0c4d\u0c2c\u0c3e\u0c2f\u0c3f .",
                 "translit": "i\u1e41\u1e6diki vastunna abb\u0101yi .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -17778,7 +17778,7 @@
                 "sent_id": "270",
                 "text": "\u0c28\u0c47\u0c28\u0c41 \u0c1a\u0c46\u0c2a\u0c4d\u0c2a\u0c3f\u0c28 \u0c2e\u0c3e\u0c1f .",
                 "translit": "nenu c\u00e8ppina m\u0101\u1e6da .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -17918,7 +17918,7 @@
                 "sent_id": "273",
                 "text": "\u0c28\u0c47\u0c28\u0c41 \u0c1a\u0c46\u0c2a\u0c4d\u0c2a\u0c28\u0c3f \u0c2e\u0c3e\u0c1f .",
                 "translit": "nenu c\u00e8ppani m\u0101\u1e6da .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -17988,7 +17988,7 @@
                 "sent_id": "274",
                 "text": "\u0c2e\u0c40\u0c30\u0c41 \u0c05\u0c15\u0c4d\u0c15\u0c21\u0c3f\u0c15\u0c3f \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c35\u0c26\u0c4d\u0c26\u0c41 .",
                 "translit": "m\u012bru akka\u1e0diki v\u00e8\u1e37\u1e37avaddu .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -18058,7 +18058,7 @@
                 "sent_id": "275",
                 "text": "\u0c2e\u0c40\u0c30\u0c41 \u0c07\u0c15\u0c4d\u0c15\u0c21\u0c3f\u0c15\u0c3f \u0c30\u0c3e\u0c35\u0c26\u0c4d\u0c26\u0c41 .",
                 "translit": "m\u012bru ikka\u1e0diki r\u0101vaddu .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -18128,7 +18128,7 @@
                 "sent_id": "276",
                 "text": "\u0c2e\u0c40 \u0c05\u0c28\u0c4d\u0c28\u0c17\u0c3e\u0c30\u0c3f\u0c15\u0c3f \u0c0e\u0c28\u0c4d\u0c28\u0c3f \u0c07\u0c33\u0c4d\u0c33\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c2f\u0c3f ?",
                 "translit": "m\u012b annag\u0101riki \u00e8nni i\u1e37\u1e37unn\u0101yi ?",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -18213,7 +18213,7 @@
                 "sent_id": "277",
                 "text": "\u0c06\u0c2f\u0c28\u0c15\u0c3f \u0c30\u0c46\u0c02\u0c21\u0c41 \u0c07\u0c33\u0c4d\u0c33\u0c41 \u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c2f\u0c02\u0c21\u0c3f .",
                 "translit": "\u0101yanaki r\u00e8\u1e41\u1e0du i\u1e37\u1e37u unn\u0101ya\u1e41\u1e0di .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -18300,7 +18300,7 @@
                 "sent_id": "278",
                 "text": "\u0c2e\u0c40\u0c15\u0c41 \u0c0e\u0c28\u0c4d\u0c28\u0c3f \u0c07\u0c33\u0c4d\u0c33\u0c41 \u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c2f\u0c3f ?",
                 "translit": "m\u012bku \u00e8nni i\u1e37\u1e37u unn\u0101yi ?",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -18527,7 +18527,7 @@
                 "sent_id": "282",
                 "text": "\u0c35\u0c02\u0c26 \u0c30\u0c42\u0c2a\u0c3e\u0c2f\u0c3f\u0c32\u0c41 .",
                 "translit": "va\u1e41da r\u016bp\u0101yilu .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -18584,7 +18584,7 @@
                 "sent_id": "283",
                 "text": "\u0c2e\u0c40\u0c15\u0c41 \u0c0e\u0c02\u0c24\u0c2e\u0c02\u0c26\u0c3f \u0c2a\u0c3f\u0c32\u0c4d\u0c32\u0c32\u0c41 ?",
                 "translit": "m\u012bku \u00e8\u1e41tama\u1e41di pillalu ?",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -18654,7 +18654,7 @@
                 "sent_id": "284",
                 "text": "\u0c28\u0c3f\u0c28\u0c4d\u0c28 \u0c12\u0c15\u0c21\u0c41 \u0c2e\u0c3e \u0c07\u0c02\u0c1f\u0c3f\u0c15\u0c3f \u0c35\u0c1a\u0c4d\u0c1a\u0c47\u0c21\u0c41 .",
                 "translit": "ninna \u00f2ka\u1e0du m\u0101 i\u1e41\u1e6diki vacce\u1e0du .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -18754,7 +18754,7 @@
                 "sent_id": "286",
                 "text": "\u0c30\u0c46\u0c02\u0c21\u0c41\u0c30\u0c46\u0c02\u0c21\u0c4d\u0c32\u0c41 \u0c28\u0c3e\u0c32\u0c41\u0c17\u0c41 .",
                 "translit": "r\u00e8\u1e41\u1e0dur\u00e8\u1e41\u1e0dlu n\u0101lugu .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -18868,7 +18868,7 @@
                 "sent_id": "288",
                 "text": "\u0c2e\u0c42\u0c21\u0c41 \u0c35\u0c02\u0c26\u0c32 \u0c30\u0c42\u0c2a\u0c3e\u0c2f\u0c3f\u0c32\u0c41 \u0c16\u0c30\u0c4d\u0c1a\u0c41 \u0c2a\u0c46\u0c1f\u0c4d\u0c1f\u0c47\u0c02 .",
                 "translit": "m\u016b\u1e0du va\u1e41dala r\u016bp\u0101yilu kharcu p\u00e8\u1e6d\u1e6de\u1e41 .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -18972,7 +18972,7 @@
                 "sent_id": "289",
                 "text": "\u0c35\u0c3e\u0c33\u0c4d\u0c33\u0c41 \u0c05\u0c02\u0c24\u0c3e \u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e\u0c15\u0c3f \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c47\u0c30\u0c41 .",
                 "translit": "v\u0101\u1e37\u1e37u a\u1e41t\u0101 sinim\u0101ki v\u00e8\u1e37\u1e37eru .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -19057,7 +19057,7 @@
                 "sent_id": "290",
                 "text": "\u0c28\u0c28\u0c4d\u0c28\u0c41 \u0c0e\u0c35\u0c30\u0c42 \u0c1a\u0c42\u0c21\u0c32\u0c47\u0c26\u0c41 .",
                 "translit": "nannu \u00e8var\u016b c\u016b\u1e0daledu .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -19127,7 +19127,7 @@
                 "sent_id": "291",
                 "text": "\u0c35\u0c3e\u0c33\u0c4d\u0c33\u0c26\u0c3f \u0c17\u0c02\u0c2a\u0c46\u0c21\u0c41 \u0c38\u0c02\u0c38\u0c3e\u0c30\u0c02 .",
                 "translit": "v\u0101\u1e37\u1e37adi ga\u1e41p\u00e8\u1e0du sa\u1e41s\u0101ra\u1e41 .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -19197,7 +19197,7 @@
                 "sent_id": "293",
                 "text": "\u0c0f\u0c35\u0c3f\u0c27\u0c2e\u0c48\u0c28 \u0c15\u0c32\u0c4d\u0c32\u0c4b\u0c32\u0c02 \u0c1a\u0c46\u0c32\u0c30\u0c47\u0c17\u0c47\u0c26\u0c40 \u0c0e\u0c35\u0c30\u0c42 \u0c1a\u0c46\u0c2a\u0c4d\u0c2a\u0c32\u0c47\u0c30\u0c41 .",
                 "translit": "evidhamaina kallola\u1e41 c\u00e8lareged\u012b \u00e8var\u016b c\u00e8ppaleru .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -19297,7 +19297,7 @@
                 "sent_id": "294",
                 "text": "\u0c24\u0c02\u0c21\u0c4d\u0c30\u0c3f \u0c0f\u0c02 \u0c1a\u0c46\u0c2c\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c26\u0c40 \u0c38\u0c41\u0c02\u0c26\u0c30\u0c3e\u0c28\u0c3f\u0c15\u0c3f \u0c05\u0c30\u0c4d\u0c25\u0c02 \u0c15\u0c3e\u0c32\u0c47\u0c26\u0c41 .",
                 "translit": "ta\u1e41\u1e0dri e\u1e41 c\u00e8butunnad\u012b su\u1e41dar\u0101niki artha\u1e41 k\u0101ledu .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -19412,7 +19412,7 @@
                 "sent_id": "295",
                 "text": "\u0c1a\u0c32\u0c02 \u0c35\u0c1a\u0c4d\u0c1a\u0c47\u0c26\u0c40 \u0c32\u0c47\u0c28\u0c3f\u0c26\u0c40 \u0c24\u0c30\u0c4d\u0c35\u0c3e\u0c24 \u0c1a\u0c42\u0c38\u0c41\u0c15\u0c4b\u0c35\u0c1a\u0c4d\u0c1a\u0c41 .",
                 "translit": "cala\u1e41 vacced\u012b lenid\u012b tarv\u0101ta c\u016bsukovaccu .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -19512,7 +19512,7 @@
                 "sent_id": "296",
                 "text": "\u0c35\u0c3e\u0c21\u0c41 \u0c0e\u0c15\u0c4d\u0c15\u0c21\u0c46\u0c15\u0c4d\u0c15\u0c21 \u0c24\u0c3f\u0c30\u0c3f\u0c17\u0c47\u0c26\u0c40 \u0c06\u0c35\u0c3f\u0c21\u0c15\u0c41 \u0c24\u0c46\u0c32\u0c3f\u0c2f\u0c26\u0c41 .",
                 "translit": "v\u0101\u1e0du \u00e8kka\u1e0d\u00e8kka\u1e0da tiriged\u012b \u0101vi\u1e0daku t\u00e8liyadu .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -19727,7 +19727,7 @@
                 "sent_id": "299",
                 "text": "\u0c06\u0c2f\u0c28 \u0c35\u0c1a\u0c4d\u0c1a\u0c3f\u0c28\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c2a\u0c3f\u0c32\u0c3f\u0c1a\u0c47\u0c28\u0c41 .",
                 "translit": "\u0101yana vaccinappu\u1e0du pilicenu .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -19797,7 +19797,7 @@
                 "sent_id": "301",
                 "text": "\u0c28\u0c47\u0c28\u0c41 \u0c1a\u0c26\u0c41\u0c35\u0c41\u0c15\u0c4a\u0c02\u0c1f\u0c41\u0c28\u0c4d\u0c28\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c28\u0c28\u0c4d\u0c28\u0c41 \u0c36\u0c4d\u0c30\u0c2e \u0c2a\u0c46\u0c1f\u0c4d\u0c1f\u0c15\u0c02\u0c21\u0c3f .",
                 "translit": "nenu caduvuk\u00f2\u1e41\u1e6dunnappu\u1e0du nannu \u015brama p\u00e8\u1e6d\u1e6daka\u1e41\u1e0di .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -19897,7 +19897,7 @@
                 "sent_id": "302",
                 "text": "\u0c06\u0c2f\u0c28 \u0c30\u0c3e\u0c28\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c2a\u0c3f\u0c32\u0c35\u0c1f\u0c02 \u0c0e\u0c02\u0c26\u0c41\u0c15\u0c41 ?",
                 "translit": "\u0101yana r\u0101nappu\u1e0du pilava\u1e6da\u1e41 \u00e8\u1e41duku ?",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -19982,7 +19982,7 @@
                 "sent_id": "303",
                 "text": "\u0c06\u0c2f\u0c28\u0c4d\u0c28\u0c3f \u0c2a\u0c3f\u0c32\u0c3f\u0c1a\u0c3f\u0c28\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c32\u0c4d\u0c32\u0c3e \u0c35\u0c38\u0c4d\u0c24\u0c3e\u0c21\u0c41 .",
                 "translit": "\u0101yanni pilicinappu\u1e0dall\u0101 vast\u0101\u1e0du .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -20052,7 +20052,7 @@
                 "sent_id": "304",
                 "text": "\u0c05\u0c24\u0c28\u0c4d\u0c28\u0c3f \u0c1a\u0c42\u0c38\u0c3f\u0c28\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c32\u0c4d\u0c32\u0c3e \u0c2d\u0c2f\u0c2a\u0c21\u0c47\u0c35\u0c3e\u0c33\u0c4d\u0c33\u0c02 .",
                 "translit": "atanni c\u016bsinappu\u1e0dall\u0101 bhayapa\u1e0dev\u0101\u1e37\u1e37a\u1e41 .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -20222,7 +20222,7 @@
                 "sent_id": "306",
                 "text": "\u0c2f\u0c3e\u0c2d\u0c48 \u0c05\u0c21\u0c41\u0c17\u0c41\u0c32\u0c41 \u0c24\u0c35\u0c4d\u0c35\u0c47\u0c1f\u0c2a\u0c4d\u0c2a\u0c1f\u0c3f\u0c15\u0c3f \u0c12\u0c15 \u0c2e\u0c3e\u0c38\u0c02 \u0c05\u0c2f\u0c3f\u0c2a\u0c4b\u0c2f\u0c3f\u0c02\u0c26\u0c3f .",
                 "translit": "y\u0101bhai a\u1e0dugulu tavve\u1e6dappa\u1e6diki \u00f2ka m\u0101sa\u1e41 ayipoyi\u1e41di .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -20341,7 +20341,7 @@
                 "sent_id": "307",
                 "text": "\u0c05\u0c35\u0c3f \u0c15\u0c02\u0c1a\u0c46 \u0c26\u0c3e\u0c1f\u0c47\u0c1f\u0c2a\u0c4d\u0c2a\u0c1f\u0c3f\u0c15\u0c3f \u0c24\u0c46\u0c32\u0c4d\u0c32\u0c35\u0c3e\u0c30\u0c3f\u0c2a\u0c4b\u0c2f\u0c3f\u0c02\u0c26\u0c3f .",
                 "translit": "avi ka\u1e41c\u00e8 d\u0101\u1e6de\u1e6dappa\u1e6diki t\u00e8llav\u0101ripoyi\u1e41di .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -20426,7 +20426,7 @@
                 "sent_id": "308",
                 "text": "\u0c38\u0c02\u0c35\u0c24\u0c4d\u0c38\u0c30\u0c02 \u0c17\u0c21\u0c3f\u0c1a\u0c47\u0c1f\u0c2a\u0c4d\u0c2a\u0c1f\u0c3f\u0c15\u0c3f . . .",
                 "translit": "sa\u1e41vatsara\u1e41 ga\u1e0dice\u1e6dappa\u1e6diki . . .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -20511,7 +20511,7 @@
                 "sent_id": "310",
                 "text": "\u0c2e\u0c40\u0c30\u0c41 \u0c24\u0c3f\u0c30\u0c3f\u0c17\u0c3f \u0c35\u0c1a\u0c4d\u0c1a\u0c47\u0c32\u0c4b\u0c2a\u0c32 \u0c08 \u0c2a\u0c28\u0c3f \u0c14\u0c24\u0c41\u0c02\u0c26\u0c3f .",
                 "translit": "m\u012bru tirigi vaccelopala \u012b pani autu\u1e41di .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -20626,7 +20626,7 @@
                 "sent_id": "311",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41 \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c3f\u0c28\u0c2a\u0c4d\u0c2a\u0c1f\u0c3f \u0c28\u0c41\u0c02\u0c1a\u0c3f \u0c15\u0c2e\u0c32\u0c15\u0c41 \u0c12\u0c02\u0c1f\u0c3f\u0c32\u0c4b \u0c2c\u0c3e\u0c17\u0c3e \u0c32\u0c47\u0c26\u0c41 .",
                 "translit": "r\u0101mu v\u00e8\u1e37\u1e37inappa\u1e6di nu\u1e41ci kamalaku \u00f2\u1e41\u1e6dilo b\u0101g\u0101 ledu .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -20871,7 +20871,7 @@
                 "sent_id": "314",
                 "text": "\u0c05\u0c28\u0c4d\u0c28\u0c02 \u0c24\u0c3f\u0c28\u0c47 \u0c15\u0c02\u0c1a\u0c02 .",
                 "translit": "anna\u1e41 tine ka\u1e41ca\u1e41 .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -20941,7 +20941,7 @@
                 "sent_id": "315",
                 "text": "\u0c05\u0c28\u0c4d\u0c28\u0c02 \u0c24\u0c3f\u0c28\u0c47 \u0c1a\u0c46\u0c2f\u0c4d\u0c2f\u0c3f .",
                 "translit": "anna\u1e41 tine c\u00e8yyi .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -21081,7 +21081,7 @@
                 "sent_id": "317",
                 "text": "\u0c05\u0c28\u0c4d\u0c28\u0c02 \u0c24\u0c3f\u0c28\u0c47 \u0c2e\u0c28\u0c3f\u0c37\u0c3f .",
                 "translit": "anna\u1e41 tine mani\u1e63i .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -21221,7 +21221,7 @@
                 "sent_id": "320",
                 "text": "\u0c28\u0c47\u0c28\u0c41 \u0c35\u0c1a\u0c4d\u0c1a\u0c3f\u0c28 \u0c26\u0c3e\u0c30\u0c3f \u0c1a\u0c3e\u0c32\u0c3e \u0c26\u0c42\u0c30\u0c02 .",
                 "translit": "nenu vaccina d\u0101ri c\u0101l\u0101 d\u016bra\u1e41 .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -21321,7 +21321,7 @@
                 "sent_id": "321",
                 "text": "\u0c2e\u0c40\u0c30\u0c41 \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c47 \u0c30\u0c4b\u0c1c\u0c41 \u0c1a\u0c46\u0c2a\u0c4d\u0c2a\u0c02\u0c21\u0c3f .",
                 "translit": "m\u012bru v\u00e8\u1e37\u1e37e roju c\u00e8ppa\u1e41\u1e0di .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -21606,7 +21606,7 @@
                 "sent_id": "327",
                 "text": "\u0c2e\u0c47\u0c2e\u0c41 \u0c26\u0c3f\u0c17\u0c3f\u0c28 \u0c2c\u0c38\u0c4d\u0c38\u0c41 \u0c35\u0c46\u0c33\u0c4d\u0c33\u0c3f\u0c2a\u0c4b\u0c2f\u0c3f\u0c02\u0c26\u0c3f .",
                 "translit": "memu digina bassu v\u00e8\u1e37\u1e37ipoyi\u1e41di .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -21761,7 +21761,7 @@
                 "sent_id": "330",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41 \u0c24\u0c3e\u0c28\u0c41 \u0c30\u0c47\u0c2a\u0c41 \u0c35\u0c46\u0c33\u0c4d\u0c24\u0c3e\u0c28\u0c41 \u0c05\u0c28\u0c3f \u0c15\u0c2e\u0c32\u0c24\u0c4b \u0c1a\u0c46\u0c2a\u0c4d\u0c2a\u0c47\u0c21\u0c41 .",
                 "translit": "r\u0101mu t\u0101nu repu v\u00e8\u1e37t\u0101nu ani kamalato c\u00e8ppe\u1e0du .",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -21891,7 +21891,7 @@
                 "sent_id": "332",
                 "text": "\u0c28\u0c41\u0c35\u0c4d\u0c35\u0c41 \u0c28\u0c3e\u0c24\u0c4b \u0c28\u0c47\u0c28\u0c41 \u0c30\u0c47\u0c2a\u0c41 \u0c35\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c41 \u0c05\u0c28\u0c3f \u0c1a\u0c46\u0c2a\u0c4d\u0c2a\u0c47\u0c35\u0c41 .",
                 "translit": "nuvvu n\u0101to nenu repu vast\u0101nu ani c\u00e8ppevu .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -22021,7 +22021,7 @@
                 "sent_id": "334",
                 "text": "\u0c28\u0c47\u0c28\u0c41 \u0c30\u0c47\u0c2a\u0c41 \u0c35\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c41 .",
                 "translit": "nenu repu vast\u0101nu .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -22091,7 +22091,7 @@
                 "sent_id": "335",
                 "text": "\u0c28\u0c47\u0c28\u0c41 \u0c28\u0c40\u0c24\u0c4b \u0c28\u0c47\u0c28\u0c41 \u0c30\u0c47\u0c2a\u0c41 \u0c35\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c41 \u0c05\u0c28\u0c3f \u0c1a\u0c46\u0c2a\u0c4d\u0c2a\u0c47\u0c28\u0c41 .",
                 "translit": "nenu n\u012bto nenu repu vast\u0101nu ani c\u00e8ppenu .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -22221,7 +22221,7 @@
                 "sent_id": "336",
                 "text": "\u0c28\u0c41\u0c35\u0c4d\u0c35\u0c41 \u0c30\u0c47\u0c2a\u0c41 \u0c35\u0c38\u0c4d\u0c24\u0c3e\u0c35\u0c3e ?",
                 "translit": "nuvvu repu vast\u0101v\u0101 ?",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -22406,7 +22406,7 @@
                 "sent_id": "339",
                 "text": "\u0c28\u0c41\u0c35\u0c4d\u0c35\u0c41 \u0c30\u0c47\u0c2a\u0c41 \u0c30\u0c3e !",
                 "translit": "nuvvu repu r\u0101 !",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -22476,7 +22476,7 @@
                 "sent_id": "341",
                 "text": "\u0c28\u0c41\u0c35\u0c4d\u0c35\u0c41 \u0c28\u0c28\u0c4d\u0c28\u0c41 \u0c30\u0c47\u0c2a\u0c41 \u0c30\u0c2e\u0c4d\u0c2e\u0c28\u0c3f \u0c05\u0c28\u0c4d\u0c28\u0c3e\u0c35\u0c41 .",
                 "translit": "nuvvu nannu repu rammani ann\u0101vu .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -22576,7 +22576,7 @@
                 "sent_id": "342",
                 "text": "\u0c06\u0c2f\u0c28 \u0c28\u0c28\u0c4d\u0c28\u0c41 \u0c28\u0c40\u0c33\u0c4d\u0c33\u0c41 \u0c24\u0c3e\u0c17\u0c2e\u0c02\u0c1f\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41 .",
                 "translit": "\u0101yana nannu n\u012b\u1e37\u1e37u t\u0101gama\u1e41\u1e6dunn\u0101ru .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -23076,7 +23076,7 @@
                 "sent_id": "349",
                 "text": "\u0c28\u0c47\u0c28\u0c41 \u0c05\u0c24\u0c28\u0c4d\u0c28\u0c3f \u0c06 \u0c2a\u0c4d\u0c30\u0c36\u0c4d\u0c28\u0c15\u0c3f \u0c1c\u0c35\u0c3e\u0c2c\u0c41 \u0c07\u0c2f\u0c4d\u0c2f\u0c35\u0c26\u0c4d\u0c26\u0c28\u0c4d\u0c28\u0c3e\u0c28\u0c41 .",
                 "translit": "nenu atanni \u0101 pra\u015bnaki jav\u0101bu iyyavaddann\u0101nu .",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -23191,7 +23191,7 @@
                 "sent_id": "350",
                 "text": "\u0c35\u0c3e\u0c30\u0c41 \u0c0e\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c35\u0c38\u0c4d\u0c24\u0c3e\u0c30\u0c41 ?",
                 "translit": "v\u0101ru \u00e8ppu\u1e0du vast\u0101ru ?",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -23261,7 +23261,7 @@
                 "sent_id": "351",
                 "text": "\u0c35\u0c3e\u0c30\u0c41 \u0c0e\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41 \u0c35\u0c1a\u0c4d\u0c1a\u0c47\u0c30\u0c41 ?",
                 "translit": "v\u0101ru \u00e8ppu\u1e0du vacceru ?",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -23471,7 +23471,7 @@
                 "sent_id": "354",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41 \u0c28\u0c3f\u0c28\u0c4d\u0c28 \u0c15\u0c2e\u0c32\u0c15\u0c41 \u0c2a\u0c41\u0c38\u0c4d\u0c24\u0c15\u0c02 \u0c07\u0c1a\u0c4d\u0c1a\u0c47\u0c21\u0c41 .",
                 "translit": "r\u0101mu ninna kamalaku pustaka\u1e41 icce\u1e0du .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -23571,7 +23571,7 @@
                 "sent_id": "356",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41 \u0c28\u0c3f\u0c28\u0c4d\u0c28 \u0c2a\u0c41\u0c38\u0c4d\u0c24\u0c15\u0c02 \u0c07\u0c1a\u0c4d\u0c1a\u0c3f\u0c02\u0c26\u0c3f \u0c15\u0c2e\u0c32\u0c15\u0c41 .",
                 "translit": "r\u0101mu ninna pustaka\u1e41 icci\u1e41di kamalaku .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -23671,7 +23671,7 @@
                 "sent_id": "357",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41 \u0c28\u0c3f\u0c28\u0c4d\u0c28 \u0c15\u0c2e\u0c32\u0c15\u0c41 \u0c07\u0c1a\u0c4d\u0c1a\u0c3f\u0c02\u0c26\u0c3f \u0c2a\u0c41\u0c38\u0c4d\u0c24\u0c15\u0c02 .",
                 "translit": "r\u0101mu ninna kamalaku icci\u1e41di pustaka\u1e41 .",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -23971,7 +23971,7 @@
                 "sent_id": "360",
                 "text": "\u0c30\u0c3e\u0c2e\u0c41 \u0c28\u0c3f\u0c28\u0c4d\u0c28 \u0c15\u0c2e\u0c32\u0c15\u0c41\u0c1f\u0c17\u0c26\u0c3e \u0c2a\u0c41\u0c38\u0c4d\u0c24\u0c15\u0c02 \u0c07\u0c1a\u0c4d\u0c1a\u0c3f\u0c02\u0c26\u0c3f ?",
                 "translit": "r\u0101mu ninna kamalaku\u1e6dagad\u0101 pustaka\u1e41 icci\u1e41di ?",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -24071,7 +24071,7 @@
                 "sent_id": "363",
                 "text": "\u0c21\u0c3e\u0c15\u0c4d\u0c1f\u0c30\u0c41\u0c17\u0c3e\u0c30\u0c41 \u0c2e\u0c02\u0c26\u0c41 \u0c07\u0c38\u0c4d\u0c24\u0c47\u0c28\u0c47 \u0c17\u0c3e\u0c28\u0c3f , \u0c05\u0c24\u0c28\u0c41 \u0c24\u0c3e\u0c17\u0c21\u0c41 .",
                 "translit": "\u1e0d\u0101k\u1e6darug\u0101ru ma\u1e41du istene g\u0101ni , atanu t\u0101ga\u1e0du .",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -24386,7 +24386,7 @@
                 "sent_id": "366",
                 "text": "\u0c08 \u0c38\u0c02\u0c17\u0c24\u0c3f \u0c05\u0c15\u0c4d\u0c37\u0c30\u0c3e\u0c32\u0c3e \u0c28\u0c3f\u0c1c\u0c02 .",
                 "translit": "\u012b sa\u1e41gati ak\u1e63ar\u0101l\u0101 nija\u1e41 .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -24471,7 +24471,7 @@
                 "sent_id": "368",
                 "text": "\u0c06\u0c2e\u0c46 \u0c15\u0c3f\u0c32\u0c15\u0c3f\u0c32\u0c3e \u0c28\u0c35\u0c4d\u0c35\u0c3f\u0c02\u0c26\u0c3f .",
                 "translit": "\u0101m\u00e8 kilakil\u0101 navvi\u1e41di .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -24596,7 +24596,7 @@
                 "sent_id": "370",
                 "text": "\u0c17\u0c41\u0c02\u0c21\u0c46 \u0c1d\u0c32\u0c4d\u0c32\u0c41\u0c2e\u0c28\u0c4d\u0c28\u0c26\u0c3f .",
                 "translit": "gu\u1e41\u1e0d\u00e8 jhallumannadi .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -24651,7 +24651,7 @@
                 "sent_id": "371",
                 "text": "\u0c2a\u0c4a\u0c32\u0c02 \u0c05\u0c02\u0c24\u0c3e \u0c24\u0c46\u0c17 \u0c24\u0c35\u0c4d\u0c35\u0c47\u0c36\u0c3e\u0c30\u0c41 .",
                 "translit": "p\u00f2la\u1e41 a\u1e41t\u0101 t\u00e8ga tavve\u015b\u0101ru .",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -24806,7 +24806,7 @@
                 "sent_id": "373",
                 "text": "\u0c05\u0c24\u0c28\u0c3f\u0c15\u0c3f \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41 \u0c05\u0c1f\u0c4d\u0c1f\u0c47 \u0c30\u0c3e\u0c26\u0c41 .",
                 "translit": "ataniki t\u00e8lugu a\u1e6d\u1e6de r\u0101du .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -24976,7 +24976,7 @@
                 "sent_id": "375",
                 "text": "\u0c06\u0c2e\u0c46 \u0c06\u0c2a\u0c15\u0c41\u0c02\u0c21\u0c3e \u0c2e\u0c3e\u0c1f\u0c4d\u0c32\u0c3e\u0c21\u0c41\u0c24\u0c41\u0c02\u0c26\u0c3f .",
                 "translit": "\u0101m\u00e8 \u0101paku\u1e41\u1e0d\u0101 m\u0101\u1e6dl\u0101\u1e0dutu\u1e41di .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -25046,7 +25046,7 @@
                 "sent_id": "377",
                 "text": "\u0c12\u0c15 \u0c35\u0c3f\u0c37\u0c2f\u0c02 \u0c05\u0c21\u0c17\u0c3e\u0c32\u0c28\u0c3f \u0c09\u0c02\u0c26\u0c3f .",
                 "translit": "\u00f2ka vi\u1e63aya\u1e41 a\u1e0dag\u0101lani u\u1e41di .",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {

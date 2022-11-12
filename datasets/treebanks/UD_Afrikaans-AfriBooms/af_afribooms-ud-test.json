@@ -200,7 +200,7 @@
                 "sent_id": "test-s2",
                 "text": "Die krisis het ons ekonomie ongeveer 900 000 werksgeleenthede gekos.",
                 "org_sent_id": "1742",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -368,7 +368,7 @@
                 "sent_id": "test-s3",
                 "text": "Baie mense wat hul werk verloor het, was die broodwinners van arm families.",
                 "org_sent_id": "1743",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -600,7 +600,7 @@
                 "sent_id": "test-s4",
                 "text": "In Februarie verlede jaar het die regering, sakelui, arbeidsektor en gemeenskapsverteenwoordigers ooreengekom op 'n pakket van maatre\u00ebls om die skaal en impak van die krisis te bekamp.",
                 "org_sent_id": "1744",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -1038,7 +1038,7 @@
                 "sent_id": "test-s5",
                 "text": "Ons het talle van hierdie maatre\u00ebls reeds in werking gestel.",
                 "org_sent_id": "1745",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -1209,7 +1209,7 @@
                 "sent_id": "test-s6",
                 "text": "Ons het besliste teen-resessiebesteding deur die regering ge\u00efmplementeer, veral op infrastruktuur.",
                 "org_sent_id": "1746",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -1839,7 +1839,7 @@
                 "sent_id": "test-s8",
                 "text": "Gedurende die volgende drie jaar sal 'n addisionele twee miljoen kinders uit arm gesinne en huishoudings tussen die ouderdom van 15 en 18 jaar, by die Kindersorgtoelaag baat vind.",
                 "org_sent_id": "1748",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -2283,7 +2283,7 @@
                 "sent_id": "test-s9",
                 "text": "Die Nywerheidsontwikkelingskorporasie het R6 biljoen bewillig om maatskappye in nood by te staan.",
                 "org_sent_id": "1749",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -3379,7 +3379,7 @@
                 "sent_id": "test-s13",
                 "text": "Ek wil beklemtoon dat dit nie poste in die hoofstroom-ekonomie is nie.",
                 "org_sent_id": "1753",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -4368,7 +4368,7 @@
                 "sent_id": "test-s16",
                 "text": "Hierdie poste is in areas soos konstruksie, tuis- en gemeenskapsgebaseerde sorg en omgewingsprojekte.",
                 "org_sent_id": "1756",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -4584,7 +4584,7 @@
                 "sent_id": "test-s17",
                 "text": "Ons het 'n aantal terreine ge\u00efdentifiseer waar ons in die toekoms verder gaan verbeter, soos om meer arbeidsintensiewe projekte te verseker.",
                 "org_sent_id": "1757",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -4934,7 +4934,7 @@
                 "sent_id": "test-s18",
                 "text": "Ons weet egter dat hierdie en ander maatre\u00ebls nie die uitwerkings van die resessie heeltemal kan temper nie.",
                 "org_sent_id": "1758",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -5219,7 +5219,7 @@
                 "sent_id": "test-s19",
                 "text": "Ons is dankbaar vir die gees van familie, gemeenskap en vrywillige werk wat soveel mense inspireer om diegene wat die swaarste deur die krisis getref word, deur hierdie moeilike tye te help.",
                 "org_sent_id": "1759",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -6243,7 +6243,7 @@
                 "sent_id": "test-s22",
                 "text": "Die arbeidstatistiek wat Dinsdag vrygestel is, dui daarop dat die ekonomie tans werksgeleenthede skep eerder as om dit in te boet.",
                 "org_sent_id": "1762",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -7004,7 +7004,7 @@
                 "sent_id": "test-s25",
                 "text": "Dit is nou die tyd om die basis te l\u00ea vir sterker groei in die toekoms en vir groei wat tot meer werksgeleenthede lei.",
                 "org_sent_id": "1765",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -7538,7 +7538,7 @@
                 "sent_id": "test-s27",
                 "text": "Ons onderwys- en vaardigheidsprogramme sal ons produktiwiteit en mededingendheid verhoog.",
                 "org_sent_id": "1767",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -7966,7 +7966,7 @@
                 "sent_id": "test-s29",
                 "text": "Ons landelike ontwikkelingsprogram sal landelike produktiwiteit verhoog en die lewens van die mense in landelike gebiede verbeter.",
                 "org_sent_id": "1769",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -8243,7 +8243,7 @@
                 "sent_id": "test-s30",
                 "text": "Ons kapitaalinvesteringsprogram l\u00ea ten grondslag aan ons strategie vir ekonomiese herstel en groei.",
                 "org_sent_id": "1770",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -8457,7 +8457,7 @@
                 "sent_id": "test-s31",
                 "text": "Oor die volgende drie jaar sal die regering R846 biljoen aan openbare infrastruktuur spandeer.",
                 "org_sent_id": "1771",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -8681,7 +8681,7 @@
                 "sent_id": "test-s32",
                 "text": "Op die terrein van vervoer, sal ons ons padnetwerk in stand hou en uitbrei.",
                 "org_sent_id": "1772",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -8926,7 +8926,7 @@
                 "sent_id": "test-s33",
                 "text": "Ons sal verseker dat ons spoornetwerk betroubaar en mededingend is en beter met ons seehawens ge\u00efntegreer is.",
                 "org_sent_id": "1773",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -9554,7 +9554,7 @@
                 "sent_id": "test-s35",
                 "text": "Hierdie komitee sal, onder andere, kyk na die deelname van onafhanklike kragprodusente, en arm mense teen stygende elektrisiteitspryse beskerm.",
                 "org_sent_id": "1775",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -9897,7 +9897,7 @@
                 "sent_id": "test-s36",
                 "text": "Ons sal 'n onafhanklike stelseloperateur instel, wat afsonderlik van Eskom Beherend sal funksioneer.",
                 "org_sent_id": "1776",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -10129,7 +10129,7 @@
                 "sent_id": "test-s37",
                 "text": "Eskom sal voortgaan om addisionele opwekkingskapasiteit te bou en die instandhouding van sy kragstasies te verbeter.",
                 "org_sent_id": "1777",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -10387,7 +10387,7 @@
                 "sent_id": "test-s38",
                 "text": "Ten einde 'n inklusiewe ekonomie te verseker wat groei en ontwikkeling bevorder, het ons die Adviesraad oor Bre\u00eb Swart Ekonomiese Bemagtiging in die lewe geroep, onder voorsitterskap van die President.",
                 "org_sent_id": "1778",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -11651,7 +11651,7 @@
                 "sent_id": "test-s42",
                 "text": "'n Verdere uitbreiding van openbare-werkskeppingsprogramme is ook reeds aan die gang.",
                 "org_sent_id": "1782",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -11835,7 +11835,7 @@
                 "sent_id": "test-s43",
                 "text": "Dit sluit in plaaslike-infrastruktuur- en tersi\u00eare projekte en geletterdheidsprojekte, tuisgebaseerde versorging, skoolinstandhouding en vroe\u00ebkindontwikkelings-inisiatiewe.",
                 "org_sent_id": "1783",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -12084,7 +12084,7 @@
                 "sent_id": "test-s44",
                 "text": "Verlede jaar het ons die Nasionale Jeugontwikkelingsagentskap in die lewe geroep.",
                 "org_sent_id": "1784",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -12275,7 +12275,7 @@
                 "sent_id": "test-s45",
                 "text": "Ons het die Agentskap aanges\u00ea om vinniger te werk om sy strukture regdeur die land te vestig sodat dit ons kan help om jeugontwikkelingsprogramme in die regering as hoofstroomprojekte te loods.",
                 "org_sent_id": "1785",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -12758,7 +12758,7 @@
                 "sent_id": "test-s46",
                 "text": "Toe hierdie administrasie verlede jaar aan bewind gekom het, het ons onsself daartoe verbind om harder te werk om 'n sterk ontwikkelingstaat te bou.",
                 "org_sent_id": "1786",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -13722,7 +13722,7 @@
                 "sent_id": "test-s49",
                 "text": "Die onderskeidende kenmerk van hierdie administrasie sal wees dat dit weet waar mense bly, hulle behoeftes verstaan en vinniger daarop reageer.",
                 "org_sent_id": "1789",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -14071,7 +14071,7 @@
                 "sent_id": "test-s50",
                 "text": "Die Regering moet vinniger, harder en slimmer werk.",
                 "org_sent_id": "1790",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -14483,7 +14483,7 @@
                 "sent_id": "test-s52",
                 "text": "Ons bou 'n staat wat op effektiewe werkverrigting fokus.",
                 "org_sent_id": "1792",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -14643,7 +14643,7 @@
                 "sent_id": "test-s53",
                 "text": "Dit sal bereik word deur beplanning asook prestasie-monitering en -evaluering te verbeter.",
                 "org_sent_id": "1793",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -15262,7 +15262,7 @@
                 "sent_id": "test-s56",
                 "text": "Ons kondig graag aan dat ons in die Regering dinge op 'n nuwe manier gaan doen.",
                 "org_sent_id": "1796",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -15799,7 +15799,7 @@
                 "sent_id": "test-s58",
                 "text": "Die ministers wat vir 'n bepaalde uitkoms verantwoordelik is, sal 'n gedetailleerde leweringsooreenkoms met die president onderteken.",
                 "org_sent_id": "1798",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -16091,7 +16091,7 @@
                 "sent_id": "test-s59",
                 "text": "Hierdie ooreenkomste sal duidelik uiteensit wat gedoen moet word, hoe, deur wie, binne watter tydperk en met behulp van watter maatre\u00ebls en hulpbronne.",
                 "org_sent_id": "1799",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -16485,7 +16485,7 @@
                 "sent_id": "test-s60",
                 "text": "Daarbenewens sal ons werk om die effektiwiteit van plaaslike regering, infrastruktuurontwikkeling en menslike nedersettings te verbeter.",
                 "org_sent_id": "1800",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -16759,7 +16759,7 @@
                 "sent_id": "test-s61",
                 "text": "Ons sal 'n aantal sleutelaktiwiteite onderneem ter bereiking van hierdie uitkomste.",
                 "org_sent_id": "1801",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -17169,7 +17169,7 @@
                 "sent_id": "test-s63",
                 "text": "In ons 2010-program wil ons die vermo\u00eb van kinders om in die grondslagjare te lees, skryf en tel, verbeter.",
                 "org_sent_id": "1803",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -17503,7 +17503,7 @@
                 "sent_id": "test-s64",
                 "text": "As ons dit ni\u00e9 doen nie, sal ons nie die gehalte van die onderwys kan verbeter nie.",
                 "org_sent_id": "1804",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -17796,7 +17796,7 @@
                 "sent_id": "test-s65",
                 "text": "Ons onderwysteikens is eenvoudig, maar van kritiese belang.",
                 "org_sent_id": "1805",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -19158,7 +19158,7 @@
                 "sent_id": "test-s70",
                 "text": "Ons mikpunt is om die slaagsyfer vir hierdie toetse van die huidige gemiddeld van tussen 35 en 40% tot minstens 60% teen 2014 te verhoog.",
                 "org_sent_id": "1810",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -19533,7 +19533,7 @@
                 "sent_id": "test-s71",
                 "text": "Die uitslae sal aan die ouers gestuur word om vordering te monitor.",
                 "org_sent_id": "1811",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -20019,7 +20019,7 @@
                 "sent_id": "test-s73",
                 "text": "Dit sal in 'n ouditeerbare skriftelike verslag opgeteken word.",
                 "org_sent_id": "1813",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -20183,7 +20183,7 @@
                 "sent_id": "test-s74",
                 "text": "Ons beoog om die aantal matriekstudente met universiteitstoelating teen 2014 tot 175 000 per jaar te verhoog.",
                 "org_sent_id": "1814",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -20447,7 +20447,7 @@
                 "sent_id": "test-s75",
                 "text": "Ons spoor ouers aan om met ons saam te werk om 'n sukses hiervan te maak.",
                 "org_sent_id": "1815",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -21775,7 +21775,7 @@
                 "sent_id": "test-s79",
                 "text": "Dit sal ons in staat stel om aan diegene wat nie vir universiteit kwalifiseer nie, nog 'n kans op geleerdheid te bied.",
                 "org_sent_id": "1819",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -22512,7 +22512,7 @@
                 "sent_id": "test-s81",
                 "text": "Ons het ook ambisieuse doelwitte gestel vir vaardigheidsontwikkeling om addisionele ingenieurs en tegnici te kweek en om die aantal gekwalifiseerde Wiskunde- en Wetenskaponderwysers te vermeerder.",
                 "org_sent_id": "1821",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -22896,7 +22896,7 @@
                 "sent_id": "test-s82",
                 "text": "Ons moet verseker dat meer jongmense leerderskappe in die privaat- en openbare sektor betree.",
                 "org_sent_id": "1822",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -23364,7 +23364,7 @@
                 "sent_id": "test-s84",
                 "text": "Ons sal voortgaan om ons gesondheidsorgstelsel te verbeter.",
                 "org_sent_id": "1824",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -24193,7 +24193,7 @@
                 "sent_id": "test-s87",
                 "text": "Ons werk ook saam met die DBSA en die Nywerheidsontwikkelingskorporasie in 'n publiek-private vennootskapsprogramme om hospitale te verbeter en finansiering vir projekte te verskaf.",
                 "org_sent_id": "1827",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -24561,7 +24561,7 @@
                 "sent_id": "test-s88",
                 "text": "Ons moet die feit in die gesig staar dat lewensverwagting by geboorte van 60 jaar in 1994, tot net onder 50 jaar vandag, gedaal het.",
                 "org_sent_id": "1828",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -24968,7 +24968,7 @@
                 "sent_id": "test-s89",
                 "text": "Ons doen dus stappe om sterftesyfers onder moeders te verlaag, om nuwe MIV-infeksies te verminder en om MIV en tuberkulose effektief te behandel.",
                 "org_sent_id": "1829",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -25335,7 +25335,7 @@
                 "sent_id": "test-s90",
                 "text": "Ons sal ook babasterftesyfers deur 'n massiewe immuniseringsprogram verlaag.",
                 "org_sent_id": "1830",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -25495,7 +25495,7 @@
                 "sent_id": "test-s91",
                 "text": "Ons sal gesondheidsprogramme in skole herinstel.",
                 "org_sent_id": "1831",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -26198,7 +26198,7 @@
                 "sent_id": "test-s94",
                 "text": "Ons sal ook voortgaan met ons voorbereidings vir die instelling van 'n nasionale gesondheidsorgversekeringstelsel.",
                 "org_sent_id": "1834",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -26677,7 +26677,7 @@
                 "sent_id": "test-s96",
                 "text": "Ons sal ons werk uitbrei om ernstige en geweldsmisdade te verminder en te verseker dat die regstelsel doeltreffend funksioneer.",
                 "org_sent_id": "1836",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -26980,7 +26980,7 @@
                 "sent_id": "test-s97",
                 "text": "Ons implementeer planne om die aantal polisiemanne en -vroue oor die volgende 10 jaar met 10% te vermeerder.",
                 "org_sent_id": "1837",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -27604,7 +27604,7 @@
                 "sent_id": "test-s99",
                 "text": "Ons het almal 'n rol om te speel.",
                 "org_sent_id": "1839",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -27748,7 +27748,7 @@
                 "sent_id": "test-s100",
                 "text": "Laat ons aan gemeenskapsveiligheidsforums deelneem.",
                 "org_sent_id": "1840",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -27849,7 +27849,7 @@
                 "sent_id": "test-s101",
                 "text": "Kom ons hou op om gesteelde goedere te koop.",
                 "org_sent_id": "1841",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -28010,7 +28010,7 @@
                 "sent_id": "test-s102",
                 "text": "Laat ons altyd gereed wees om die polisie van inligting oor misdaadaktiwiteite te voorsien.",
                 "org_sent_id": "1842",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -28387,7 +28387,7 @@
                 "sent_id": "test-s104",
                 "text": "Die plaaslike regering moet werk.",
                 "org_sent_id": "1844",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -28488,7 +28488,7 @@
                 "sent_id": "test-s105",
                 "text": "Munisipaliteite moet die voorsiening van behuising, water, sanitasie, elektrisiteit, afvalbestuur en paaie verbeter.",
                 "org_sent_id": "1845",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -28753,7 +28753,7 @@
                 "sent_id": "test-s106",
                 "text": "Ons het verlede jaar met burgemeesters en munisipale bestuurders vergader.",
                 "org_sent_id": "1846",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -28926,7 +28926,7 @@
                 "sent_id": "test-s107",
                 "text": "Dit het waardevolle insig in die uitdagings op die terrein van plaaslike regering gebied.",
                 "org_sent_id": "1847",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -29159,7 +29159,7 @@
                 "sent_id": "test-s108",
                 "text": "Ons het ook verskeie gemeenskappe en munisipaliteite besoek, insluitende Balfour in Mpumalanga en Thembisa in Gauteng.",
                 "org_sent_id": "1848",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -29426,7 +29426,7 @@
                 "sent_id": "test-s109",
                 "text": "Na afloop van die Balfour-besoek het ons 'n ministeri\u00eble span, bestaande uit nege lede, gestuur om die gebied te besoek en aandag te skenk aan die kwessies wat deur die gemeenskap geopper is.",
                 "org_sent_id": "1849",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -30322,7 +30322,7 @@
                 "sent_id": "test-s112",
                 "text": "Ons wil herbeklemtoon dat geen griewe ooit geweld en die vernietiging van eiendom kan regverdig nie.",
                 "org_sent_id": "1852",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -30833,7 +30833,7 @@
                 "sent_id": "test-s114",
                 "text": "In Desember 2009 het die Kabinet 'n omkeerstrategie vir die plaaslike regering goedgekeur.",
                 "org_sent_id": "1854",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -31046,7 +31046,7 @@
                 "sent_id": "test-s115",
                 "text": "Dit sal verseker dat die plaaslike regering oor die korrekte bestuurs-, administratiewe en tegniese vaardighede beskik.",
                 "org_sent_id": "1855",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -31580,7 +31580,7 @@
                 "sent_id": "test-s117",
                 "text": "Ons werk daaraan om goed gele\u00eb informele nedersettings op te gradeer en om teen 2014 aan minstens 500 000 huishoudings behoorlike dienste en grondbesit te verskaf.",
                 "org_sent_id": "1857",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -31971,7 +31971,7 @@
                 "sent_id": "test-s118",
                 "text": "Ons beplan om meer as 6 000 hektaar goed gele\u00eb openbare grond vir lae-inkomste en bekostigbare behuising opsy te sit.",
                 "org_sent_id": "1858",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -32282,7 +32282,7 @@
                 "sent_id": "test-s119",
                 "text": "'n Nuwe sleutelinisiatief sal wees om mense te akkommodeer wie se salarisse te hoog is om regeringsubsisies te ontvang, maar wat te min verdien om vir 'n normale bankverbandlening te kwalifiseer.",
                 "org_sent_id": "1859",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -32774,7 +32774,7 @@
                 "sent_id": "test-s120",
                 "text": "Ons sal 'n waarborgfonds van R1 biljoen opsy sit as aansporingsmaatre\u00ebl om die private bank en behuisingsektor aan te moedig om nuwe produkte te ontwikkel om in hierdie vraag na behuising te voorsien.",
                 "org_sent_id": "1860",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -33642,7 +33642,7 @@
                 "sent_id": "test-s122",
                 "text": "Ons het ges\u00ea hulle moet sportsentrums en beter inkopiesentrums h\u00ea soos di\u00e9 in die stede.",
                 "org_sent_id": "1862",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -33889,7 +33889,7 @@
                 "sent_id": "test-s123",
                 "text": "In hierdie verband het ons in Augustus verlede jaar die eerste loodsterrein van die Omvattende Landelike-ontwikkelingsprogram in Giyani, Limpopo, geloods.",
                 "org_sent_id": "1863",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -34236,7 +34236,7 @@
                 "sent_id": "test-s124",
                 "text": "Sedertdien is 231 huise gebou.",
                 "org_sent_id": "1864",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -34336,7 +34336,7 @@
                 "sent_id": "test-s125",
                 "text": "Vordering is ook gemaak met die voorsiening van infrastruktuur om landbou-ontwikkeling en opleiding vir gemeenskapsleiers te ondersteun.",
                 "org_sent_id": "1865",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -34603,7 +34603,7 @@
                 "sent_id": "test-s126",
                 "text": "Toegang tot gesondheids- en onderwysgeriewe het verbeter.",
                 "org_sent_id": "1866",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -35172,7 +35172,7 @@
                 "sent_id": "test-s129",
                 "text": "Ons mikpunt is dat 60% van huishoudings in hierdie terreine teen 2014 uit eie produksie in hul voedselbehoeftes sal voorsien.",
                 "org_sent_id": "1869",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -35822,7 +35822,7 @@
                 "sent_id": "test-s131",
                 "text": "Ons wil ook grondhervornming en landbou-ondersteuningsprogramme beter integreer.",
                 "org_sent_id": "1871",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -35963,7 +35963,7 @@
                 "sent_id": "test-s132",
                 "text": "Ons sukses op hierdie terrein sal gemeet word deur die toename in die aantal kleinskaalse boere wat ekonomies lewensvatbaar word.",
                 "org_sent_id": "1872",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -36414,7 +36414,7 @@
                 "sent_id": "test-s134",
                 "text": "Maar steeds verloor ons baie water deur lekkende pype en onvoldoende infrastruktuur.",
                 "org_sent_id": "1874",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -36611,7 +36611,7 @@
                 "sent_id": "test-s135",
                 "text": "Ons sal maatre\u00ebls instel om ons waterverlies teen 2014 met die helfte te verminder.",
                 "org_sent_id": "1875",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -37217,7 +37217,7 @@
                 "sent_id": "test-s137",
                 "text": "Die Suid-Afrikaanse publiek kan uitsien na 'n selfs verdere verlaging in bre\u00ebband-, selfoon-, landlyn- en openbaretelefoon-tariewe.",
                 "org_sent_id": "1877",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -37495,7 +37495,7 @@
                 "sent_id": "test-s138",
                 "text": "Ons sal stappe doen om bre\u00ebbandspoed te verhoog en 'n ho\u00eb standaard van internet-dienste te verseker wat in ooreenstemming met internasionale norme is.",
                 "org_sent_id": "1878",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -38114,7 +38114,7 @@
                 "sent_id": "test-s140",
                 "text": "Saam met Brasili\u00eb, Indi\u00eb en China, en in samewerking met die Verenigde State, wat die ontwikkelde w\u00eareld verteenwoordig, het ons 'n wesenlike bydrae gelewer tot die ooreenkoms wat in Desember verlede jaar by die Klimaatberaad in Kopenhagen aanvaar is.",
                 "org_sent_id": "1880",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -39225,7 +39225,7 @@
                 "sent_id": "test-s142",
                 "text": "Ons sal harder met ons internasionale eweknie\u00eb moet saamwerk om 'n wettig bindende verdrag te beding.",
                 "org_sent_id": "1882",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -40075,7 +40075,7 @@
                 "sent_id": "test-s145",
                 "text": "Ons sal pogings ondersteun om die politieke en ekonomiese integrasie van die Suider-Afrikaanse Ontwikkelingsgemeenskap- (SAOG) streek te bespoedig en intra-streekhandel en beleggings te bevorder.",
                 "org_sent_id": "1885",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -40472,7 +40472,7 @@
                 "sent_id": "test-s146",
                 "text": "Suid-Afrika gaan voort om 'n toonaangewende rol te speel in kontinentale pogings om die Afrika Unie en sy organe te versterk en na eenheid te streef.",
                 "org_sent_id": "1886",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -40873,7 +40873,7 @@
                 "sent_id": "test-s147",
                 "text": "Ons sal ons energie daarop toespits om die Nuwe Vennootskap vir Afrika se Ontwikkeling (Nepad) te laat herleef, as 'n strategie vir ekonomiese ontwikkeling op die vasteland.",
                 "org_sent_id": "1887",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -41334,7 +41334,7 @@
                 "sent_id": "test-s148",
                 "text": "Die Staatsdiens moet reageer op die beroep om hierdie termyn deur vinniger optrede en beter prestasie deur die staat te laat kenmerk.",
                 "org_sent_id": "1888",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -41679,7 +41679,7 @@
                 "sent_id": "test-s149",
                 "text": "Ons vereis uitnemendheid en harde werk.",
                 "org_sent_id": "1889",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -42035,7 +42035,7 @@
                 "sent_id": "test-s151",
                 "text": "Die Regering werk reeds aan die ontwikkeling en implementering van 'n staatsdiens-ontwikkelingsprogram, wat die norme en standaarde vir staatsamptenare in alle sfere sal bepaal.",
                 "org_sent_id": "1891",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -42415,7 +42415,7 @@
                 "sent_id": "test-s152",
                 "text": "Ons sit ons pogings voort om korrupsie en bedrog in verkrygings- en tenderprosesse uit te wis, asook in aansoeke om bestuurderslisensies, maatskaplike toelaes en identiteitsdokumente, om net 'n paar te noem.",
                 "org_sent_id": "1892",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -42918,7 +42918,7 @@
                 "sent_id": "test-s153",
                 "text": "Ons is tevrede met die vordering van die regering op sommige terreine.",
                 "org_sent_id": "1893",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -43354,7 +43354,7 @@
                 "sent_id": "test-s155",
                 "text": "Ons Inter-Ministeri\u00eble Komitee op Korrupsie ondersoek maniere om korrupsie doelgerig die nek in te slaan.",
                 "org_sent_id": "1895",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -43598,7 +43598,7 @@
                 "sent_id": "test-s156",
                 "text": "Deur saam te werk kan ons meer doen.",
                 "org_sent_id": "1896",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -43743,7 +43743,7 @@
                 "sent_id": "test-s157",
                 "text": "Soos u weet, het ons die Presidensi\u00eble Klagtelyn ingestel om die regering en die Presidensie meer toeganklik vir die publiek te maak en om te help om blokkasies in dienslewering uit die weg te ruim.",
                 "org_sent_id": "1897",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -44290,7 +44290,7 @@
                 "sent_id": "test-s158",
                 "text": "Die klagtelyn verteenwoordig ons vasberadenheid om dinge anders in die regering te doen.",
                 "org_sent_id": "1898",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -44677,7 +44677,7 @@
                 "sent_id": "test-s160",
                 "text": "Ons kan mev Buziwe Ngaleka van Mount Frere hier noem, wie se oproep oor haar oorlede man se pensioen die eerste oproep was wat ons op die eerste dag van die klagtelyn geneem het.",
                 "org_sent_id": "1900",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -45217,7 +45217,7 @@
                 "sent_id": "test-s161",
                 "text": "Sy is vanaand hier saam met ons.",
                 "org_sent_id": "1901",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -45347,7 +45347,7 @@
                 "sent_id": "test-s162",
                 "text": "Ons het ook mnr Nkululeko Cele hier by ons, wat bygestaan is om sy identieitsdokument te kry sodat hy by die Tshwane Universiteit van Tegnologie kon inskryf.",
                 "org_sent_id": "1902",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -45784,7 +45784,7 @@
                 "sent_id": "test-s163",
                 "text": "Dit is net twee van die talle suksesstories.",
                 "org_sent_id": "1903",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -45924,7 +45924,7 @@
                 "sent_id": "test-s164",
                 "text": "Uit hierdie en ander voorbeelde het ons swakhede ge\u00efdentifiseer wat deur die onderskeie regeringsfere reggestel moet word.",
                 "org_sent_id": "1904",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -47601,7 +47601,7 @@
                 "sent_id": "test-s170",
                 "text": "Dit bied 'n geleentheid om erkenning te gee aan die belangrike bydrae van die Indiese gemeenskap op die gebied van arbeid, die sakesektor, wetenskap, sport, godsdiens, kuns en die bereiking en konsolidasie van ons demokrasie.",
                 "org_sent_id": "1910",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -48697,7 +48697,7 @@
                 "sent_id": "test-s172",
                 "text": "Ons is bly dat ons reddingspanne hulle kon gaan bystaan.",
                 "org_sent_id": "1912",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -48878,7 +48878,7 @@
                 "sent_id": "test-s173",
                 "text": "Ek wil graag besondere erkenning verleen aan een Suid-Afrikaner wat nooit huiwer om in tye van nood en rampe te help nie, en ons help om die visie van 'n sorgsame gemeenskap te bevorder.",
                 "org_sent_id": "1913",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -49410,7 +49410,7 @@
                 "sent_id": "test-s174",
                 "text": "Ons verwelkom vandag dr Imtiaz Sooliman van Gift of the Givers in hierdie huis.",
                 "org_sent_id": "1914",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -49633,7 +49633,7 @@
                 "sent_id": "test-s175",
                 "text": "Om as gasheerland vir die FIFA W\u00eareldbeker op te tree, maak van 2010 voorwaar 'n jaar van aksie.",
                 "org_sent_id": "1915",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -49923,7 +49923,7 @@
                 "sent_id": "test-s176",
                 "text": "Ons beplan reeds jare lank aan hierdie W\u00eareldbeker.",
                 "org_sent_id": "1916",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -50064,7 +50064,7 @@
                 "sent_id": "test-s177",
                 "text": "Daar is nog net drie maande oor voor hierdie geskiedkundige gebeurtenis plaasvind.",
                 "org_sent_id": "1917",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -50260,7 +50260,7 @@
                 "sent_id": "test-s178",
                 "text": "En ons is vasberade om 'n sukses daarvan te maak.",
                 "org_sent_id": "1918",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -50432,7 +50432,7 @@
                 "sent_id": "test-s179",
                 "text": "Die nodige infrastruktuur, sekuriteit en logistieke re\u00eblings is alles gereed om 'n suksesvolle toernooi te verseker.",
                 "org_sent_id": "1919",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -50706,7 +50706,7 @@
                 "sent_id": "test-s180",
                 "text": "As 'n nasie is ons groot dankbaarheid verskuldig teenoor die 2010 Plaaslike Re\u00eblingskomitee vir hul uitstekende poging.",
                 "org_sent_id": "1920",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -50982,7 +50982,7 @@
                 "sent_id": "test-s181",
                 "text": "Ons wens die voorsitter van die komitee, Irvin Khoza, die Hoof Uitvoerende Beampte, Danny Jordaan, en die afrigter van Bafana Bafana, Carlos Alberto Parreira, alles van die beste toe vir die volgende paar maande.",
                 "org_sent_id": "1921",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -51579,7 +51579,7 @@
                 "sent_id": "test-s182",
                 "text": "President Mandela het 'n sentrale rol gespeel om die land te help om die gasheerregte vir hierdie groot geleentheid te wen.",
                 "org_sent_id": "1922",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -51912,7 +51912,7 @@
                 "sent_id": "test-s183",
                 "text": "Ons moet dus tot sy eer 'n sukses van die W\u00eareldbeker maak.",
                 "org_sent_id": "1923",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -52366,7 +52366,7 @@
                 "sent_id": "test-s185",
                 "text": "Die belangrikste is, wees in besit van julle kaartjies, landsgenote!",
                 "org_sent_id": "1925",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -52566,7 +52566,7 @@
                 "sent_id": "test-s186",
                 "text": "Kom ons koop almal betyds kaartjies sodat ons die wedstryde kan bywoon.",
                 "org_sent_id": "1926",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -52771,7 +52771,7 @@
                 "sent_id": "test-s187",
                 "text": "Wanneer ons vandag Madiba se vrylating gedenk, herverbind ons onsself tot versoening, nasionale eenheid, nie-rassigheid en om 'n beter toekoms vir ons as Suid-Afrikaners, swart en wit, te bou.",
                 "org_sent_id": "1927",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -53292,7 +53292,7 @@
                 "sent_id": "test-s188",
                 "text": "Gedurende my lewe het ek myself toegewy aan hierdie vryheidstryd van die mense van Afrika.",
                 "org_sent_id": "1928",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -54081,7 +54081,7 @@
                 "sent_id": "test-s191",
                 "text": "Dit is 'n ideaal waarvoor ek hoop om te lewe en te bereik.",
                 "org_sent_id": "1931",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -54610,7 +54610,7 @@
                 "sent_id": "test-s193",
                 "text": "Besiel deur ons ikoon Madiba, is dit nou vir my 'n eer om hierdie 2010-Staatsrede aan al ons helde en heldinne, besonge en onbesonge, bekend en onbekend, op te dra.",
                 "org_sent_id": "1933",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -55131,7 +55131,7 @@
                 "sent_id": "test-s194",
                 "text": "Kom ons werk saam om hierdie jaar van aksie 'n suksesvolle jaar vir ons land te maak.",
                 "org_sent_id": "1934",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -55408,7 +55408,7 @@
                 "sent_id": "test-s195",
                 "text": "Ons is ons status as demokrasie te danke aan die mense van Suid-Afrika wat op 27 April 1994 vir die eerste keer gesamentlik hul toekoms in hul eie hande geneem het.",
                 "org_sent_id": "1323",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -55886,7 +55886,7 @@
                 "sent_id": "test-s196",
                 "text": "Met daardie eenvoudige dog verreikende aksie om 'n kruisie te trek vir 'n regering vir al die mense van ons land, het ons die rug gekeer op 'n verlede wat almal ontmens het.",
                 "org_sent_id": "1324",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -56409,7 +56409,7 @@
                 "sent_id": "test-s197",
                 "text": "Daarom is dit gepas om by hierdie geleentheid die 20ste herdenking te vier van die Verklaring van die OAE se ad hoc-komitee vir Suidelike Afrika ten opsigte van die vraag oor Suid-Afrika- algemeen bekend as die Harare Deklarasie.",
                 "org_sent_id": "1325",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -56989,7 +56989,7 @@
                 "sent_id": "test-s198",
                 "text": "Daardie inisiatief het die grondslag gel\u00c3\u00aa vir w\u00c3\u00aareldwye konsensus deur die Verenigde Nasies oor die benadering tot onderhandelinge in Suid-Afrika.",
                 "org_sent_id": "1326",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -57304,7 +57304,7 @@
                 "sent_id": "test-s199",
                 "text": "In Suid-Afrika het dit ook die inhoud van die 1989 Konferensie vir 'n Demokratiese Toekoms bepaal- wat patriotte vanuit byna alle vlakke van die samelewing verenig het.",
                 "org_sent_id": "1327",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -57735,7 +57735,7 @@
                 "sent_id": "test-s200",
                 "text": "Al hierdie dinge het gelei tot die onderhandelingsproses wat uitgeloop het op ons eerste demokratiese verkiesing in 1994.",
                 "org_sent_id": "1328",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -58025,7 +58025,7 @@
                 "sent_id": "test-s201",
                 "text": "In hierdie opsig moet ons die oorlede president van die African National Congress, Oliver Reginald Tambo, salueer vir dit wat hy deur vastelands- en w\u00c3\u00aareldliggame ge\u00c3\u00afnisieer en bekendgestel het en wat later 'n kompas vir die vreedsame oplossing van die konflik in ons land sou word.",
                 "org_sent_id": "1329",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -59572,7 +59572,7 @@
                 "sent_id": "test-s203",
                 "text": "Alhoewel daardie konvensie die territoriale integriteit van Suid-Afrika soos ons dit vandag ken gedefinieer het, was dit gebaseer op rasse-onderdrukking en -uitsluiting.",
                 "org_sent_id": "1331",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -59932,7 +59932,7 @@
                 "sent_id": "test-s204",
                 "text": "En nou, 15 jaar na die aanvang van ons demokrasie, kan ons bevestig dat die vrees, onsekerheid en weersin wat 100 jaar gelede 'n eksklusiewe en bedrieglike vrede onder koloniale meesters geskep het, nie net ongegrond was nie, maar ook waarlik misplaas was.",
                 "org_sent_id": "1332",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -60811,7 +60811,7 @@
                 "sent_id": "test-s206",
                 "text": "In hierdie opsig salueer ons daardie dapper seun van ons mense, Solomon Kalushi Mahlangu, wat 30 jaar gelede ter dood veroordeel is met sy kop omhoog, in die trotse wete dat sy bloed die boom van vryheid sou voed.",
                 "org_sent_id": "1334",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -61447,7 +61447,7 @@
                 "sent_id": "test-s207",
                 "text": "Vergun my om aan Lucas Mahlangu, broer van Kalushi, wat die Mahlangu-familie verteenwoordig, erkenning te gee.",
                 "org_sent_id": "1335",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -61747,7 +61747,7 @@
                 "sent_id": "test-s208",
                 "text": "Solomon Mahlangu het die tradisie van vergange krygsmanne voortgesit, onder meer diegene wat onder Koning Cetshwayo geveg het en wat in 1879 die Britse weermag in Isandlwana oorwin het ter verdediging van die vryheid van die inheemse mense van ons land en die soewereiniteit van hul grond.",
                 "org_sent_id": "1336",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -62466,7 +62466,7 @@
                 "sent_id": "test-s209",
                 "text": "In opleidingsentrums het daardie selfde deursettingsvermo\u00c3\u00ab massaverset aangevuur gedurende daardie koue winter n\u00c3\u00a1 die verbanning van die vryheidstryd en die inhegtenisneming van meeste van die senior leiers daarvan.",
                 "org_sent_id": "1337",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -63922,7 +63922,7 @@
                 "sent_id": "test-s212",
                 "text": "Ons salueer hulle vir die hoop wat hulle gebring het in 'n tyd van wanhoop.",
                 "org_sent_id": "1340",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -64852,7 +64852,7 @@
                 "sent_id": "test-s215",
                 "text": "In herinnering aan hierdie studente van vervlo\u00c3\u00ab dae is daar 'n blywende boodskap, en die dors na vryheid en kennis is nou selfs sterker ingeboesem by ons jeug.",
                 "org_sent_id": "1343",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -65293,7 +65293,7 @@
                 "sent_id": "test-s216",
                 "text": "Die boodskap van hul heldedade geld vandag nog net so duidelik as soveel jaar gelede, naamlik dat ons saam die grense van geleenthede moet verken; dat ons inderdaad, soos die Vryheidsmanifes dit stel, die \"deure van geleerdheid en van kultuur\" nog wyer moet oopmaak!",
                 "org_sent_id": "1344",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -66973,7 +66973,7 @@
                 "sent_id": "test-s218",
                 "text": "En dus, Mevrou die Speaker en Agbare Voorsitter, moet ons onsself afvra: hoe het ons dade die afgelope 15 jaar, sedert die geboorte van ons demokrasie, die weg gebaan vir die Suid-Afrikaanse samelewing se evolusie, en hoe het ons die saak van menslike ontwikkeling en menswaardigheid sedert die 2004 demokratiese mandaat bevorder!",
                 "org_sent_id": "1346",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -67841,7 +67841,7 @@
                 "sent_id": "test-s219",
                 "text": "Vandag het ons 'n doeltreffende demokratiese stelsel, gebaseer op die beginsels van deursigtigheid en openheid, met verskeie platforms vir openbare deelname en onafhanklike instansies wat deur die Grondwet gelas is om demokrasie te ondersteun.",
                 "org_sent_id": "1347",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -68391,7 +68391,7 @@
                 "sent_id": "test-s220",
                 "text": "Deur die jare het ons voortdurend die regeringstrukture verbeter.",
                 "org_sent_id": "1348",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -68851,7 +68851,7 @@
                 "sent_id": "test-s222",
                 "text": "Die Regering kan met reg trots wees daarop dat ons die demografiese samestelling van die Staatsdiens verander het, wat feitlik in alle opsigte die karakter van ons samelewing weerspie\u00c3\u00abl.",
                 "org_sent_id": "1350",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -69317,7 +69317,7 @@
                 "sent_id": "test-s223",
                 "text": "Maar hoewel vroue omtrent 34% van alle senior poste in die Staatsdiens beklee, is dit minder as die teiken vir gelykheid wat ons vir onsself gestel het.",
                 "org_sent_id": "1351",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -70347,7 +70347,7 @@
                 "sent_id": "test-s225",
                 "text": "Ons hoop dat al die politieke partye, terwyl hulle hul verkiesingslyste finaliseer, 'n bydrae sal maak tot hierdie edele strewe!",
                 "org_sent_id": "1353",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -71263,7 +71263,7 @@
                 "sent_id": "test-s227",
                 "text": "In albei gevalle is die privaatsektor ver agter.",
                 "org_sent_id": "1355",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -71400,7 +71400,7 @@
                 "sent_id": "test-s228",
                 "text": "Verskeie maatre\u00c3\u00abls is in plek gestel om die doeltreffendheid van die Staatsdiens te verbeter, insluitend finansi\u00c3\u00able bestuur, Thusong-dienssentrums en ander diensleweringsinisiatiewe, izimbizo en, soos tans in die Departement van Binnelandse Sake, ferm leierskap.",
                 "org_sent_id": "1356",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -71969,7 +71969,7 @@
                 "sent_id": "test-s229",
                 "text": "Daar moet egter nog baie meer gedoen word om die dienskultuur en diensgerigtheid van sommige staatsdiensamptenare te verbeter, veral diegene wat direk met die publiek werk.",
                 "org_sent_id": "1357",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -72381,7 +72381,7 @@
                 "sent_id": "test-s230",
                 "text": "Soos die agbare lede weet, het ons regering die geveg teen misdaad een van ons hoof-fokusareas gemaak.",
                 "org_sent_id": "1358",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -72669,7 +72669,7 @@
                 "sent_id": "test-s231",
                 "text": "Dit word onder meer weerspie\u00c3\u00abl deur wetgewing, re\u00c3\u00abls en regulasies vir sowel staatsamptenare as politieke ampsbekle\u00c3\u00abrs, vennootskappe met die burgerlike gemeenskap en teenkorrupsie-blitslyne.",
                 "org_sent_id": "1359",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -73047,7 +73047,7 @@
                 "sent_id": "test-s232",
                 "text": "Dit mag wees dat die stelsels vir die voorkoming en straf van korrupsie steeds onvoldoende is, maar uit 'n regeringstelsel-oogpunt kan ons troos vind in die feit dat meer as 70% van korrupsiesake waaroor in die media berig word, openbaar gemaak word omdat die Regering die oortreding opgetel het en inderwaarheid daarteen optree.",
                 "org_sent_id": "1360",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -73864,7 +73864,7 @@
                 "sent_id": "test-s233",
                 "text": "Die privaatsektor het met dieselfde uitdagings te kampe.",
                 "org_sent_id": "1361",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -74007,7 +74007,7 @@
                 "sent_id": "test-s234",
                 "text": "Op die ou einde het die uitdagings net soveel met regulering te doen as wat dit met konsekwente toepassing te doen het.",
                 "org_sent_id": "1362",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -74354,7 +74354,7 @@
                 "sent_id": "test-s235",
                 "text": "Ek is seker ons almal stem saam dat die welstand van ons samelewing grootliks afhang van die vordering wat ons maak om die nasie se welvaart uit te bou en te verseker dat die voordele van ekonomiese groei deur alle mense gedeel word.",
                 "org_sent_id": "1363",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -75575,7 +75575,7 @@
                 "sent_id": "test-s237",
                 "text": "In die Eerste Dekade van Vryheid het die ekonomie jaarliks gemiddeld met 3% gegroei, en dit het verhoog tot 5% gemiddeld per jaar tussen 2004 tot 2007.",
                 "org_sent_id": "1365",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -76795,7 +76795,7 @@
                 "sent_id": "test-s240",
                 "text": "Wat dit betref, omtrent vyf jaar gelede het ons gedraai by 16% van bruto vastekapitaalformasie as 'n persentasie van Bruto Binnelandse Produk (BBP).",
                 "org_sent_id": "1368",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -77194,7 +77194,7 @@
                 "sent_id": "test-s241",
                 "text": "Die groei in beleggings was so groot dat hierdie syfer vandag 22% is, nader aan die 25% wat ons beoog het om eers in 2014 te verkry.",
                 "org_sent_id": "1369",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -77621,7 +77621,7 @@
                 "sent_id": "test-s242",
                 "text": "Dit is deels die gevolg van doelbewuste programme deur die Regering om openbare infrastruktuur uit te brei.",
                 "org_sent_id": "1370",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -78521,7 +78521,7 @@
                 "sent_id": "test-s244",
                 "text": "Die fokus op mikro-ekonomiese hervorming gedurende die afgelope dekade, en veral die pogings sedert 2004 om stelselmatig die magdom versperrings in die pad van groei uit die weg te ruim, het 'n positiewe impak gehad.",
                 "org_sent_id": "1372",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -79830,7 +79830,7 @@
                 "sent_id": "test-s246",
                 "text": "Ons ekonomie het meer toeganklik geword, en sedert 1994 het dit gelyktydig meer ge\u00c3\u00afntegreerd geraak in die globale stelsel.",
                 "org_sent_id": "1374",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -80151,7 +80151,7 @@
                 "sent_id": "test-s247",
                 "text": "Ons finansi\u00c3\u00able instellings is 'n kragtige voorbeeld wat ons ietwat beskut het teen die w\u00c3\u00aareldwye ekonomiese storms.",
                 "org_sent_id": "1375",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -80435,7 +80435,7 @@
                 "sent_id": "test-s248",
                 "text": "Tog is hul reikwydte in ons samelewing ver onder verwagting.",
                 "org_sent_id": "1376",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -80607,7 +80607,7 @@
                 "sent_id": "test-s249",
                 "text": "Ons ekonomie bly grotendeels afhanklik van mynbou en landbou vir uitvoere.",
                 "org_sent_id": "1377",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -80790,7 +80790,7 @@
                 "sent_id": "test-s250",
                 "text": "Buiten die privaatsektor is daar nog nie genoeg uitbreiding van kritieke sektore nie, veral wat vervaardiging betref.",
                 "org_sent_id": "1378",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -81296,7 +81296,7 @@
                 "sent_id": "test-s252",
                 "text": "Dit is presies hierdie swakheid wat verantwoordelik is vir die groot negatiewe saldo van die Lopende Rekening, veral in die tye toe ons ho\u00c3\u00abr groei beleef het.",
                 "org_sent_id": "1380",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -81739,7 +81739,7 @@
                 "sent_id": "test-s253",
                 "text": "En omdat ons nie genoeg gespaar het nie, moes ons op korttermyn-kapitaalvloei staatmaak om die tekort sowel as ons beleggingsprogramme te finansier.",
                 "org_sent_id": "1381",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -82097,7 +82097,7 @@
                 "sent_id": "test-s254",
                 "text": "Dit is die uitdagings wat ons land vir seker sal moet aanspreek op die pad vorentoe.",
                 "org_sent_id": "1382",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -82361,7 +82361,7 @@
                 "sent_id": "test-s255",
                 "text": "Van deurslaggewende belang is die vraag: waaroor behoort ekonomiese groei eintlik te gaan?",
                 "org_sent_id": "1383",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -82748,7 +82748,7 @@
                 "sent_id": "test-s257",
                 "text": "Dus behoort die vraag of groei regverdig verdeel word 'n sentrale aspek van alle ekonomiese oorwegings te wees.",
                 "org_sent_id": "1385",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -83036,7 +83036,7 @@
                 "sent_id": "test-s258",
                 "text": "Wat belangrik is, is dat die voordele van groei werkskepping moet insluit en moet verseker dat daar behoorlike werk is.",
                 "org_sent_id": "1386",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -83367,7 +83367,7 @@
                 "sent_id": "test-s259",
                 "text": "Ons kan inderdaad met trots meld dat die ekonomie tussen 1995 en 2003 ongeveer 1,5 miljoen netto nuwe werksgeleenthede geskep het en selfs meer merkwaardig, omtrent 500 000 werksgeleenthede tussen 2004 en 2007.",
                 "org_sent_id": "1387",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -83861,7 +83861,7 @@
                 "sent_id": "test-s260",
                 "text": "In die laasgenoemde tydperk is daar vir die eerste keer sedert die aanbreek van demokrasie meer werk geskep as die aantal mense wat die arbeidsmark betree het, wat die werkloosheidskoers van 31% in 2003 tot 23% in 2007 laat daal het.",
                 "org_sent_id": "1388",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -84487,7 +84487,7 @@
                 "sent_id": "test-s261",
                 "text": "Natuurlik moet dit ons nie laat afsien van ons verpligting om die kwessie van die kwaliteit van hierdie werke te bevraagteken nie, insluitend die regte en voordele wat werkers geniet.",
                 "org_sent_id": "1389",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -85487,7 +85487,7 @@
                 "sent_id": "test-s264",
                 "text": "In werklikheid sal 'n land wat nie die betrokkenheid van sy hele bevolking op alle vlakke van ekonomiese aktiwiteit verseker nie, definitief ver onder sy ware potensiaal presteer.",
                 "org_sent_id": "1392",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -87197,7 +87197,7 @@
                 "sent_id": "test-s268",
                 "text": "Ek sal egter 'n paar voorbeelde opnoem om weereens die aard van die vooruitgang wat ons al gemaak het en die uitdagings wat ons nog in die gesig staar, uit te lig.",
                 "org_sent_id": "1396",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -87707,7 +87707,7 @@
                 "sent_id": "test-s269",
                 "text": "Die Regering is pynlik bewus daarvan dat volslae armoede nog steeds te wydverspreid in ons samelewing voorkom, en die vlak van ongelykheid is te hoog.",
                 "org_sent_id": "1397",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -88413,7 +88413,7 @@
                 "sent_id": "test-s271",
                 "text": "Eerstens het geld-metrieke armoede aansienlik afgeneem sedert die eeuwisseling.",
                 "org_sent_id": "1399",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -88570,7 +88570,7 @@
                 "sent_id": "test-s272",
                 "text": "Hierdie afname is grootliks te danke aan 'n dramatiese uitbreiding van besteding op maatskaplike toelae sedert 2002.",
                 "org_sent_id": "1400",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -88839,7 +88839,7 @@
                 "sent_id": "test-s273",
                 "text": "Hierdie verbetering word weerspie\u00c3\u00abl deur toegang tot basiese dienste- 'n vinnige afname in bate-armoede het die afname in geld-metrieke armoede voorafgegaan.",
                 "org_sent_id": "1401",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -89187,7 +89187,7 @@
                 "sent_id": "test-s274",
                 "text": "Tweedens, alhoewel die afname in armoede wesenlik was, het algehele ongelykheid gedurende die 1990s vermeerder.",
                 "org_sent_id": "1402",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -89695,7 +89695,7 @@
                 "sent_id": "test-s276",
                 "text": "Armoede het afgeneem sedert die oorgang, maar ongelykheid het nie verbeter nie.",
                 "org_sent_id": "1404",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -90506,7 +90506,7 @@
                 "sent_id": "test-s278",
                 "text": "Dit gee te kenne dat die armoede-situasie opmerklik verbeter het, veral onder mense wat die hoogste graad van welsynsontneming ervaar.",
                 "org_sent_id": "1406",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -90839,7 +90839,7 @@
                 "sent_id": "test-s279",
                 "text": "Die voorkoms van honger kinders het in vier jaar byna halveer.",
                 "org_sent_id": "1407",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -91022,7 +91022,7 @@
                 "sent_id": "test-s280",
                 "text": "Hierdie waarnemings word inderdaad bevestig deur ons eie navorsing, wat wys dat inkomste-armoede veral in swart- en kleurling-gemeenskappe afgeneem het, deels as gevolg van laer vlakke van werkloosheid en beter toegang tot maatskaplike toelaes.",
                 "org_sent_id": "1408",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -91561,7 +91561,7 @@
                 "sent_id": "test-s281",
                 "text": "Terwyl die aantal toelae-begunstigdes in 1999 2,5 miljoen was, het dit teen 2008 vermeerder tot 12,4 miljoen.",
                 "org_sent_id": "1409",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -91833,7 +91833,7 @@
                 "sent_id": "test-s282",
                 "text": "Dit is grootliks te danke aan grootskaalse verbetering in toegang tot die Kindersorg-toelae, wat vermeerder het van 34 000 begunstigdes in 1999 tot 8,1 miljoen in 2008.",
                 "org_sent_id": "1410",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -92759,7 +92759,7 @@
                 "sent_id": "test-s284",
                 "text": "Dit het die moontlikheid om die program uit te brei en die kwaliteit daarvan te verhoog, aansienlik verbeter.",
                 "org_sent_id": "1412",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -93262,7 +93262,7 @@
                 "sent_id": "test-s286",
                 "text": "Byvoorbeeld, toegang tot drinkwater het van 62% in 1996 tot 88% in 2008 verbeter; asook tot elektrisiteit (58% tot 72%); en sanitasie (52% tot 73%).",
                 "org_sent_id": "1414",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -93718,7 +93718,7 @@
                 "sent_id": "test-s287",
                 "text": "Bewyse van maatskaplike dienste kan ook gesien word in die reuse verbetering in toegang tot prim\u00c3\u00aaregesondheidsorggeriewe.",
                 "org_sent_id": "1415",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -93975,7 +93975,7 @@
                 "sent_id": "test-s288",
                 "text": "Altesaam 95% van Suid-Afrikaners leef nou nader as vyf kilometer aan 'n gesondheidsfasiliteit, en ons is ingelig dat alle klinieke nou toegang tot drinkwater het.",
                 "org_sent_id": "1416",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -94365,7 +94365,7 @@
                 "sent_id": "test-s289",
                 "text": "Immunisasiedekking vir kinders het gelykmatig verbeter tot omtrent 85%; en malaria-gevalle het dramaties afgeneem.",
                 "org_sent_id": "1417",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
@@ -94931,7 +94931,7 @@
                 "sent_id": "test-s291",
                 "text": "Ons antiretrovirale behandelingsprogramme is nie net die grootste ter w\u00c3\u00aareld nie, maar dit brei ook voortdurend uit, met meer as 690 000 pasi\u00c3\u00abnte wat al met antiretrovirale behandeling begin het sedert die aanvang van die program.",
                 "org_sent_id": "1419",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -96170,7 +96170,7 @@
                 "sent_id": "test-s294",
                 "text": "In onderwys was daar 'n daling in die onderwyser-leerder-verhouding; amper universele toegang met betrekking tot inskrywings op laerskoolvlak, en 'n verbetering in die aantal leerlinge wat Wiskunde slaag, om 'n paar voorbeelde te noem.",
                 "org_sent_id": "1422",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -96723,7 +96723,7 @@
                 "sent_id": "test-s295",
                 "text": "Terselfdertyd is baie moeite gedoen om infrastruktuur in arm gebiede te verbeter.",
                 "org_sent_id": "1423",
-                "flag": 2
+                "flag": 0
             },
             "token": [
                 {
@@ -96923,7 +96923,7 @@
                 "sent_id": "test-s296",
                 "text": "Natuurlik weet ons dat die uitsakkoers, veral op sekond\u00c3\u00aare en tersi\u00c3\u00aare vlak, onaanvaarbaar hoog is, en dat die onderwysstelsel nog die nodige vaardighede moet voorsien wat deur die samelewing vereis word.",
                 "org_sent_id": "1424",
-                "flag": 0
+                "flag": 1
             },
             "token": [
                 {
@@ -97442,7 +97442,7 @@
                 "sent_id": "test-s297",
                 "text": "Om aan te sluit hierby, dui neigings in prestasie, beide vir onderwys en leer, 'n kommerwekkende ooreenstemming met die sosiale verdeeldheid van die verlede.",
                 "org_sent_id": "1425",
-                "flag": 0
+                "flag": 2
             },
             "token": [
                 {
@@ -97851,7 +97851,7 @@
                 "sent_id": "test-s298",
                 "text": "Ironies genoeg is die infrastruktuur en administratiewe en onderwyservermo\u00c3\u00abns juis die minste indrukwekkend waar onderwys die nodigste is om die siklus van armoede te verlig.",
                 "org_sent_id": "1426",
-                "flag": 2
+                "flag": 1
             },
             "token": [
                 {
@@ -98237,7 +98237,7 @@
                 "sent_id": "test-s299",
                 "text": "Die Regering se maatskaplike programme het die batebasis van arm mense verbeter, in die vorm van behuising- met 2,6 miljoen gesubsidieerde huise wat voorsien is.",
                 "org_sent_id": "1427",
-                "flag": 1
+                "flag": 0
             },
             "token": [
                 {
@@ -98652,7 +98652,7 @@
                 "sent_id": "test-s300",
                 "text": "Natuurlik moet ons ook toegee dat die grondherverdelingsprogram en die na-vestiging-ondersteuning vinniger en beter hanteer kon word.",
                 "org_sent_id": "1428",
-                "flag": 1
+                "flag": 2
             },
             "token": [
                 {
