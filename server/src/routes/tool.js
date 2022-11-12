@@ -108,7 +108,7 @@ router.get('/experiment', async (req, res) => {
 router.get('/itemdifficulty', async (req, res) => {
   const results = [];
 
-  fs.createReadStream('sample.csv')
+  fs.createReadStream('postprocessing/itemdifficulty.csv')
     .pipe(csv())
     .on('data', (data) => results.push(data))
     .on('end', () => {
