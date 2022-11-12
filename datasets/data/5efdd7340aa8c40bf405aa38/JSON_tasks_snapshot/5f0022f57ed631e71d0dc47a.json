@@ -1,0 +1,48 @@
+{
+    "_id": {
+        "$oid": "5f0022f57ed631e71d0dc47a"
+    },
+    "sents": [
+        {
+            "file": "UD_Telugu-MTG\\te_mtg-ud-train",
+            "sentId": "7",
+            "text": "\u0c07\u0c02\u0c1f\u0c3f\u0c15\u0c3f \u0c2a\u0c4b\u0c30\u0c3e !",
+            "flag": 1,
+            "words": [
+                "\u0c07\u0c02\u0c1f\u0c3f\u0c15\u0c3f",
+                "\u0c2a\u0c4b\u0c30\u0c3e",
+                "!"
+            ]
+        },
+        {
+            "file": "UD_Telugu-MTG\\te_mtg-ud-train",
+            "sentId": "6",
+            "text": "\u0c0e\u0c02\u0c26\u0c41\u0c15\u0c2f\u0c4d\u0c2f\u0c3e \u0c08 \u0c2c\u0c3e\u0c27 ?",
+            "flag": 0,
+            "words": [
+                "\u0c0e\u0c02\u0c26\u0c41\u0c15\u0c2f\u0c4d\u0c2f\u0c3e",
+                "\u0c08",
+                "\u0c2c\u0c3e\u0c27",
+                "?"
+            ]
+        },
+        {
+            "file": "UD_Telugu-MTG\\te_mtg-ud-test",
+            "sentId": "33",
+            "text": "\u0c05\u0c02\u0c24 \u0c2a\u0c46\u0c26\u0c4d\u0c26 \u0c2a\u0c41\u0c38\u0c4d\u0c24\u0c15\u0c02 \u0c1a\u0c26\u0c3f\u0c35\u0c47\u0c30\u0c3e ?",
+            "flag": 0,
+            "words": [
+                "\u0c05\u0c02\u0c24",
+                "\u0c2a\u0c46\u0c26\u0c4d\u0c26",
+                "\u0c2a\u0c41\u0c38\u0c4d\u0c24\u0c15\u0c02",
+                "\u0c1a\u0c26\u0c3f\u0c35\u0c47\u0c30\u0c3e",
+                "?"
+            ]
+        }
+    ],
+    "subjects": [],
+    "treebank": "UD_Telugu-MTG",
+    "experiment": {
+        "$oid": "5efdd7340aa8c40bf405aa38"
+    }
+}

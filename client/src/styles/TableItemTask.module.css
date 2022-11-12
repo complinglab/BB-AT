@@ -1,0 +1,63 @@
+.progressBar {
+  height: 15px;
+  width: 6px;
+  
+  position: relative;
+  border-radius:2px;
+  
+  margin-left: 2px;
+  margin-right: 2px;
+  
+  top: 3px;
+  float: left;
+  clear: top;
+}
+
+.adjudicated {
+  background-color: #3b30d8;
+  box-shadow: 0px 0px 2px #3b30d8;
+}
+
+.adjudicating {
+  background-color: rgb(0, 198, 212);
+  box-shadow: 0px 0px 2px rgb(0, 198, 212);
+}
+
+.completed {
+  background-color: green;
+  box-shadow: 0px 0px 2px green;
+}
+
+.incomplete {
+  background-color: orange;
+  box-shadow: 0px 0px 2px orange;
+}
+
+.notStarted {
+  background-color: red;
+  box-shadow: 0px 0px 2px red;
+}
+
+.adjudicated:hover,
+.adjudicating:hover,
+.completed:hover,
+.incomplete:hover,
+.notStarted:hover {
+    box-shadow: 0px 0px 5px blue;
+    cursor: pointer;
+}
+
+.legendContainer {
+  margin: 20px;
+}
+
+.legend {
+  margin: 5px 0 5px 0;
+  display: flex;
+  align-items: center;
+}
+
+.legendtext {
+  margin: 0;
+}
+

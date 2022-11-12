@@ -1,0 +1,82 @@
+{
+    "_id": {
+        "$oid": "5f0022f47ed631e71d0dc46b"
+    },
+    "sents": [
+        {
+            "file": "UD_English-GUM\\en_gum-ud-dev",
+            "sentId": "GUM_academic_exposure-2",
+            "text": "Research on adult-learned second language (L2) has provided considerable insight into the neurocognitive mechanisms underlying the learning and processing of L2 grammar [1] \u2013 [11].",
+            "flag": 0,
+            "words": [
+                "Research",
+                "on",
+                "adult-learned",
+                "second",
+                "language",
+                "(",
+                "L2",
+                ")",
+                "has",
+                "provided",
+                "considerable",
+                "insight",
+                "into",
+                "the",
+                "neurocognitive",
+                "mechanisms",
+                "underlying",
+                "the",
+                "learning",
+                "and",
+                "processing",
+                "of",
+                "L2",
+                "grammar",
+                "[",
+                "1",
+                "]",
+                "\u2013",
+                "[",
+                "11",
+                "]",
+                "."
+            ]
+        },
+        {
+            "file": "UD_English-GUM\\en_gum-ud-train",
+            "sentId": "GUM_academic_art-1",
+            "text": "Aesthetic Appreciation and Spanish Art:",
+            "flag": 1,
+            "words": [
+                "Aesthetic",
+                "Appreciation",
+                "and",
+                "Spanish",
+                "Art",
+                ":"
+            ]
+        },
+        {
+            "file": "UD_English-GUM\\en_gum-ud-train",
+            "sentId": "GUM_academic_art-5",
+            "text": "Daniel Smith daniel.smith2@durham.ac.uk Durham University, United Kingdom",
+            "flag": 1,
+            "words": [
+                "Daniel",
+                "Smith",
+                "daniel.smith2@durham.ac.uk",
+                "Durham",
+                "University",
+                ",",
+                "United",
+                "Kingdom"
+            ]
+        }
+    ],
+    "subjects": [],
+    "treebank": "UD_English-GUM",
+    "experiment": {
+        "$oid": "5efdd7340aa8c40bf405aa38"
+    }
+}

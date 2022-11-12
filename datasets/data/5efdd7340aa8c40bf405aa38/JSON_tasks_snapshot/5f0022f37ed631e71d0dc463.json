@@ -1,0 +1,103 @@
+{
+    "_id": {
+        "$oid": "5f0022f37ed631e71d0dc463"
+    },
+    "sents": [
+        {
+            "file": "UD_Afrikaans-AfriBooms\\af_afribooms-ud-test",
+            "sentId": "test-s4",
+            "text": "In Februarie verlede jaar het die regering, sakelui, arbeidsektor en gemeenskapsverteenwoordigers ooreengekom op 'n pakket van maatre\u00ebls om die skaal en impak van die krisis te bekamp.",
+            "flag": 2,
+            "words": [
+                "In",
+                "Februarie",
+                "verlede",
+                "jaar",
+                "het",
+                "die",
+                "regering",
+                ",",
+                "sakelui",
+                ",",
+                "arbeidsektor",
+                "en",
+                "gemeenskapsverteenwoordigers",
+                "ooreengekom",
+                "op",
+                "'n",
+                "pakket",
+                "van",
+                "maatre\u00ebls",
+                "om",
+                "die",
+                "skaal",
+                "en",
+                "impak",
+                "van",
+                "die",
+                "krisis",
+                "te",
+                "bekamp",
+                "."
+            ]
+        },
+        {
+            "file": "UD_Afrikaans-AfriBooms\\af_afribooms-ud-train",
+            "sentId": "train-s2",
+            "text": "Die oogmerk is om die dispariteit te verminder wat tussen die bemagtigdes en die ontmagtigdes, oftewel die eerste en tweede ekonomie\u00eb, bestaan.",
+            "flag": 1,
+            "words": [
+                "Die",
+                "oogmerk",
+                "is",
+                "om",
+                "die",
+                "dispariteit",
+                "te",
+                "verminder",
+                "wat",
+                "tussen",
+                "die",
+                "bemagtigdes",
+                "en",
+                "die",
+                "ontmagtigdes",
+                ",",
+                "oftewel",
+                "die",
+                "eerste",
+                "en",
+                "tweede",
+                "ekonomie\u00eb",
+                ",",
+                "bestaan",
+                "."
+            ]
+        },
+        {
+            "file": "UD_Afrikaans-AfriBooms\\af_afribooms-ud-test",
+            "sentId": "test-s1",
+            "text": "Verlede jaar het ons ons eerste resessie in 17 jaar ervaar.",
+            "flag": 1,
+            "words": [
+                "Verlede",
+                "jaar",
+                "het",
+                "ons",
+                "ons",
+                "eerste",
+                "resessie",
+                "in",
+                "17",
+                "jaar",
+                "ervaar",
+                "."
+            ]
+        }
+    ],
+    "subjects": [],
+    "treebank": "UD_Afrikaans-AfriBooms",
+    "experiment": {
+        "$oid": "5efdd7340aa8c40bf405aa38"
+    }
+}

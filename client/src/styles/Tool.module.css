@@ -1,0 +1,122 @@
+.container {
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.header {
+  width: 100%;
+}
+
+.mainContainer {
+  margin-top: 30px;
+  display: flex;
+}
+
+.tool {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.sentenceContainer {
+  margin: 25px 25px 50px 50px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.word {
+  margin-right: 5px;
+  padding: 0 10px 0 10px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  font-size: larger;
+}
+
+.shortWord {
+  padding: 0 12px 0 12px;
+}
+
+.currentWord {
+  background-color: coral !important;
+}
+
+.word:hover {
+  background-color: cornflowerblue;
+}
+
+.tippyTag {
+  padding: 2px 3px 4px 3px;
+  font-size: 0.70em;
+  border-radius: 0.25em;
+  border: .15em solid #ca2c2c;
+  font-weight: 600;
+  color: #ca2c2c;
+}
+.tippyTag::after {
+  content: " ";
+  position: absolute;
+  top: 100%; /* This will position the arrow at the bottom of the tooltip */
+  left: 50%;
+  margin-left: -7px;
+  border-width: 7px;
+  border-style: solid;
+  border-color: #ca2c2c transparent transparent transparent; /* This will make the top border black*/
+}
+
+.tagButtonsContainer {
+  margin-right: 50px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+  width: 500px;
+  height: 400px;
+}
+
+.tagButton {
+  width: 100%;
+  height: 70%;
+}
+
+.sentButtonContainer {
+  margin-bottom: 60px;
+  justify-content: center;
+  align-items: center;
+}
+
+.finishButton {
+  margin: 10px;
+  visibility: hidden; 
+}
+.finishButton.active {
+  visibility: visible;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.exitButton {
+  margin-bottom: 20px;
+}
+
+.finishContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.errorText {
+  align-self: center;
+  margin-top: 15px;
+  padding: 0;
+  color: red;
+  font-style: bold;
+  font-size: 0.8rem;
+}

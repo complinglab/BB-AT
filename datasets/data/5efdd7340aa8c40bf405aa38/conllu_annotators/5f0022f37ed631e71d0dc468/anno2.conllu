@@ -1,0 +1,32 @@
+# sent_id = GUM_academic_discrimination-2
+# text = Results from a nationally representative sample of adults
+1 Results CCONJ
+2 from NUM
+3 a PUNCT
+4 nationally CCONJ
+5 representative CCONJ
+6 sample CCONJ
+7 of ADJ
+8 adults DET
+
+# sent_id = GUM_academic_exposure-1
+# text = Introduction
+1 Introduction CCONJ
+
+# sent_id = GUM_academic_discrimination-5
+# text = Sociologists have explored the adverse consequences of discrimination [3 – 5];
+1 Sociologists ADP
+2 have ADV
+3 explored CCONJ
+4 the NUM
+5 adverse NUM
+6 consequences PART
+7 of ADJ
+8 discrimination PUNCT
+9 [ PUNCT
+10 3 PUNCT
+11 – PUNCT
+12 5 SCONJ
+13 ] SCONJ
+14 ; SYM
+

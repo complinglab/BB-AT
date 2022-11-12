@@ -1,0 +1,356 @@
+
+03-03-2021
+
+* trigger to send json files to python server will be the end of experiment
+* dashboard to include graded label ambiguity visualization per annotator
+* adjudicator panel to use word entropy as highlight
+
+17-02-2021
+
+* ~~Deploy the master at heroku and remove old heroku instances~~
+* Plugin new normalization techniques (removing outliers, calculating standardization)
+* Modelling the complexity for the adjudicator-
+  - calculations for label entropy,label ambiguity
+  - using dashboard to control parameters
+  - personalized summary of annotators on the dashboard
+
+
+
+
+25-11-2020
+
+* agree/disagree tags have been implemented, sentence lengths
+* every time a new experiment has to be made, a new user needs to sign up (can we have all experiments for one admin in one place?): need to ask Richard regarding feature requests
+* set tag min max at the extremes for the adjudication process in the experiment
+* test corpus has 1000 sentences, which can be used for the training setup (contains 50 sentences)
+* and dev or train for the actual experiment. We create tasks of 50 sentences each for 500 sentences.
+* need to tell annotators to not work more than 2 hrs per day
+* forms for adjudicator need to be changed, and Ashwini needs to check all training/adju documents.
+* Kanishka to send an email with updates by Monday and next meeting to be decided by then.
+
+18-11-2020
+
+* form for the adjudicator to fill out has to be completed
+* Ashwini has to look at the final guideline documents (in case of feedback)
+* Kanishka to write to richard regarding the testing of the autosave feature.
+* kanishka to generate the new table in the analysis plan
+* Kanishka and madhusmita to ask the candidates to write to ashwini
+* experiment data selection - kanishka to check the number of sentences in the test section
+
+11-11-2020
+
+
+* Scripts for the 3 types of analyses at word, sent and tag level are ready
+* AV and Kanishka to meet on Sunday for the agree/disagree label matrix
+* guidelines for adjudicators and annotators are ready, pending a few more modifications
+* Need to discuss with Richard regarding autosave and modification in the adjudication highlighting
+* need to begin recruiting a team of annotators and adjudicators
+
+28-10-2020
+
+* Madhusmitha to re-look at the adjudication by dividing up the responses into a grid of 
+  - Agree w/o highlight
+  - Disagree with highlight
+  - Disagree without highlight
+  - Agree with highlight
+* Madhusmitha to do this with Task 2 using Tag Minmax and Global Minmax
+* Madhusmitha to also write an improved training guidelines document for annotators
+* Kanishka has worked on Expt 1 and sent Expt2 scripts. She will now work on the word part of Expt 2 using Shabd for freq counts and word lengths. Word lengths to be calculated at the phonemic and graphemic level. Morph counts TBD after this
+* some changes to the analysis plan were needed based on discussion. These are reflected in the Analysis document
+
+
+20-10-2020
+
+* Richard works on the foll additional features; 
+   (1) Experiment functionality : Deadline 26th October (to be tested, on 27th onwards)
+   (2) autosave:  
+   (3) documentation page for the treebank:
+* Richard to use the staging functionality in Heroku (check whether this is needed)
+* how to use the adjudication RT highlighting effectively? need to discuss guidelines for adjudication: maybe we need a fresh adjudicator for the final experiment.
+* may need a final cross-check for the adjudicator's responses (against the gold data)
+* Kanishka to write a brief adjudication note/guideline
+
+16-10-2020  
+
+
+* 4 hrs to annotate 100 sentences
+* MS to report on adjudication time with checking (sentences/hour) ?
+* MS to look at the guidelines for Hindi Universal Dependencies,
+* MS to create training docs packet for new annotators
+* KJ and AV to discuss the experiment addition with Richard (AV writes to Richard)
+* Timelines: By end October KJ to complete analysis scripts, By Wed 28th, Madhusmitha update us on the tasks
+
+
+12-10-2020
+
+* check with richard regarding autosave in adjudication part of the tool (kanishka writes to richard about this)
+* have a guideline for adjudicator what the annotation part means
+* 3 hours for 100 sentences (Kanishka) Madhusmitha ? (). Need to estimate the training time, in particular: understand the guidelines, get used to the tool and actually annotating (adding tags-to words)
+* get the data out of the tool to begin working on generating csv tables based on analysis plan
+* ashwini adds the reading paper to the git repo
+* next meeting is on 21st Oct at 11:30 (joint meeting with Madhusmitha will happen on 16th afternoon)
+
+1-10-2020
+
+* Pilot data is in the tool- reconfigure to have 100 sentences in the tool (data is from main HDTB, not conversation)
+* Kanishka to meet intern and start process of double annotation
+* Plan to create helper scripts once the data is gotten out of the tool
+* Meet once 100 sentences are double annotated
+
+23-09-2020
+
+
+* Database URL: should remain the same as given in the code task_preparation
+* How to generate the experiment ID for a new experiment ? - write to Richard and find out
+* Proceed with the task generation script, giving a task size of 40 per task
+* Tag set: http://verbs.colorado.edu/hindiurdu/guidelines_docs/Chunk-POS-Annotaion-Guidelines.doc modify the default according to the guidelines.
+* not to overwrite the current git, but create a separate pilot-project folder with modifications
+* Once the new experiment is created, pilot starts (along with Intern)
+* Send email update by 28th about getting data into the tool.
+* Meet next on the 1st October for the next steps
+
+###############################################################################  
+
+25-07-2020
+
+* Testing plan to include more data and automatically annotated words to test for RTs- TBD by 31st July
+* Documentation
+  - parameters in the pre/post processing code
+  - connecting to database (online or on server)
+
+21-07-2020
+
+* Testing plan
+ - discuss the plan for testing on Saturday 25th July
+
+* Documentation
+   - ~~documentation of the experimenter profile, and adjudicator profile to be added to the google doc~~
+   - make a note of running ann-server and client code on an external (say IITD server) - TBD
+
+* Post-processing
+  - ~~be able to extract out the adjudicated data in raw and CONLL formats
+  - ~~be able to extraxt the metadata per user for further post processing
+  - ~~pre-processing documentation - getting files into the tool
+
+*  experimenter profile
+   - ~~users and tasks page will need to be updated  ~~
+
+* adjudictor mode
+   - ~~clicking on one of the 'unresolved tags leads to'~~
+
+* GUI issue
+   - ~~examine the overlapping tag issue~~
+
+  
+
+
+19-09-2020
+
+* in adjudicator mode, foll tweaks needed:-
+  - ~~the matched tags need to be automatically added onto the adjudicator's sentence~~
+  - ~~usernames need to be added next to the tags~~
+  - ~~tag-based normalized ~~
+
+* in experimenter mode, 
+  - ~~the adjudicated task becomes purple, ~~
+  - ~~add the key for the colours on the dashboard~~
+  - ~~fix parameters tab issue for number of users
+  - ~~password error needs to be given (password should be > 6 chrs)~~
+  - ~~highlight the tab you are in in the experimenter profile~~
+  
+  
+GUI issue
+   * ~~Right hand panel description speech bubble for each tag with hover. ~~
+   * examine the overlapping tag issue
+
+
+
+12-07-2020
+
+* For next meeting, Adjudicator profile: Should be able to toggle two modes match mode and RT mode for each sentence task based comparison of the two modes : 13th-18th July
+* Next meeting on 19th July at 3:00 PM
+
+09-07-2020
+
+
+* ~~Experimenter: add/delete an annotator or adjudicator (exists here), tasks and treebank (dashboard) and parameters (number of users, number of tags)~~ - 12th July : DONE
+
+ - ~~normalization of RTs- get average time per word, and deviation for each word, normalize these values and pass these on for the heatmap calculation~~ - 12th July
+ - ~~break button TBD~~
+
+04-07-2020 
+
+* Documentation of the frontend and database structure [link to google doc](https://docs.google.com/document/d/1nNPqn9laxXB44sUjNK4GEzuv0I_HyTJZwL7iu9-L7FA/edit) - in progress
+
+* Experimenter: add/delete an annotator or adjudicator (exists here), tasks and treebank (dashboard) and parameters (number of users, number of tags) - 12th July
+  
+* Annotator:     
+            - ~~GUI design, RT recording (normalization):  ~~
+            - ~~previous & next, save and exit, resuming task where it left off~~
+            - break button TBD
+            - ~~This entire section to be done by 8th July: DONE~~
+            - normalization of RTs- get average time per word, and deviation for each word, normalize these values and pass these on for the heatmap calculation   12th July 
+
+* Adjudicator: Should be able to toggle two modes match mode and RT mode for each sentence task based comparison of the two modes : 13th-18th July
+
+* Pre and Post-processing pipeline : 20th- 25th July (Data analysis) 
+
+* Testing/ spillover/ Documentation : 26th-31st July  
+
+
+01-07-2020
+
+* Write specification document from the point of view of the 3 users (administrator/experimenter, annotator, adjudicator) 
+* Work on the frontend, then tie up the existing/old parts of the code to the new infrastructure
+* Testing with all 3 user profiles to ensure the tool is behaving correctly
+* New things that were discussed: adjudicator has a match mode and a RT mode to view the item difficulty and tag difficulty 
+  - RT mode has normalized RTs per word, calculated after an annotator has done a set number of sentences (e.g. one task)
+  - RT mode shows the adjudicator cases where longer RTs recorder per word for each user indicating that the item is difficult
+  - Calculating the 'difficult' items in RT mode can be done using avg time taken per word for the user- or could take into consideration other aspects too like length of sentence. This may need more experimentation
+  - RT mode should also show cases that are *below* the avg normalized RT per word, as they would indicate spamming or hurried annotation
+  - GUI could include a 'take a break' button that stops timers when the annotator is tired or needs to do something else. also a prompt that says 'do you need to take a break' if too much time is being taken per sentence (or even too little) ?
+ 
+ * Plan is to do the annotator user profile first with GUI changes, then add back the dashboard, once this is done, then adjudicator profile
+* Next meeting 4th July at 11:30 for specification document discussion 
+
+24-06-2020
+
+* Survey of existing web-based annotation tools: UDAnnotatrix and WebAnno seem most relevant. We take into account some useful aspects of user management from WebAnno
+* GUI discussion, to begin implementation by beginning of July:  To include a next sentence, prev sentence option, mouse click to select words, grid of tags on the left panel (see image for a mockup)
+* By Jul 1st, we wrap up remaining server side changes, such as adjudication design and user management
+* Updates already done so far: tags included as part of parameters, save and exit button, dashboard view with progress bar
+
+
+12-06-2020
+
+* Documentation for the server side to be written in skeletal form at least, from the point of view of task management and task post-processing
+* Tags to be included as part of the parameters 
+* Adjudication design idea to be put down
+* need to include a save and exit button in case annotators leave halfway 
+* treebank choice behaviour per user has been suitably modified
+* Plan to freeze on server-side changes by next week, and begin on GUI development
+* Goal is to have a working prototype by mid July and an annotation plan by end July
+
+06-06-2020
+
+* After all tasks are complete, user should see the landing page again (tbd soon)
+* Dashboard discussion: 
+  - adding the progress bar in the treebanks tab. 
+  - adding the number of tasks completed in the Users tab
+  
+* to think about adjudication mode where a new type of user 'adjudicator' can choose to see the data in 'skip' (i.e. unmatched pairs) or no-skip (all pairs) for the process of adjudictation. 
+
+* documentation for the backend and GUI
+* brainstorm about GUI designs
+
+26-05-2020
+
+* now using the Python conll library to go from conll to json
+* backend data collections now consist of 3 main sub-types
+  - tasks: annotated data, user metadata
+  - users: info tasks claimed, tasks in progress, tasks completed
+  - parameters: number of annotators, ordering of tasks
+* Plan to implement and test out for a number of users the subject/task/parameters information
+* Multi-word display information regarding Tamil
+* Dashboard? should be easy to implement once the information is in place.
+
+20-05-2020
+
+
+* Dashboard to keep track of tasks remaining and ongoing
+* Task generation is done beforehand
+* Annotators see how many tasks are left to claim after treebank selection
+* While testing, include larger corpus collection, test with various scenarios: e.g. 4 annotator profiles, test double annotation, test in-progress/half complete,
+* Note for future GUI development: include progress bar, difficulty flag and fatigue check
+
+15-05-2020
+
+* Input file format- each treebank input file --> single JSON file
+* Serving up data: create tasks that annotators choose from in the client
+   -  tasks can be claimed by 2 ppl and consist of 100 sentences each
+   -  tasks can be arranged by means of certain flags present in the conll input file
+      (e.g. difficulty flag-0-1) and this allows tasks to contain difficult sentences in the beginning/middle/end
+   -  whatever the order in which we want to manipulate the presentation of sentences will be done at the task level
+
+* during the data post-processing step- we transform output files to regenerate the input JSON + labels
+
+
+
+08-05-2020
+
+* Incorporate directory structure into the input and output formats
+
+1-05-2020
+
+* We will think along the lines of a pipeline, and test pre-annotation stage with the following:-
+  - multiple corpus collections in different encodings
+  - easy tracking and conversion of input and output formats
+  - user registration and annotation allocation (double annotation by default?)
+
+* With respect to the post-annotation stage, we need to think of the following:-
+  - data stream 1: containing metadata, behavioural information
+  - data stream 2: double annotations to go to adjudication mode (different merges of double annotations)
+  - data stream 3: simple conversion back to CONLL
+
+* setting up server with the Tool
+  - we try with heroku (free service) for now. ashwini will try to get login/VPN working  
+
+24-04-20
+
+* Pre-annotation
+  - Annotator selection
+    Think of including a Pre-test module with simple text instructions and MCQ)
+    Provides instructions and reminders for annotators about using Tool
+    optionally, allows us to do some pre-annotation selection for an Mturk scenario
+
+  - Format of input file/schema   
+    XML/CONLL/CONLL-X ?
+    layers of information, pre-tagged data
+
+  - user management (to be taken care of server-side, incl logins, double annotation etc.)     
+
+* Interface
+  -Will have a right hand side pane with tag options  
+  -Right-click will have an edit option  
+  -Pane below will show annotations made by users  
+  -Difficulty flag also at sentence level (where to display?)  
+
+
+* Post-annotation
+
+  - Data storage at server in JSON (sample output below)  
+  Sentence difficulty flag (Y/N) added within sentence  
+  This may be updated based on the input requirements  
+`  {  
+  "subject id": "124124",  
+  "Corpus id": "jdflsj",  
+  "Sentences": [  
+    {  
+      "Sentence id": "1",  
+      "Sentence RT": 234343,  
+      "Difficulty": Y  
+      "Words": [  
+        {  
+          word id: ''  
+          entity: '',  
+          RT:
+        },  
+        {  
+          word id: ''  
+          entity: '',  
+          RT:  
+        },  
+        ]  
+    },`  
+
+
+
+17-04-20
+
+* Anafora may be difficult to adapt, One option being pursued is that we follow the microsoft paper's design
+* Richard will create a design document folder containing specifications about the following:-
+  - mode of deployment
+  - end users/goals (expert and non-expert subjects)
+  - software architecture
+  - task/tasks to be carried out (POS tagging, sentiment tagging)
+* timeline

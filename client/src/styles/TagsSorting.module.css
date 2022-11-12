@@ -1,0 +1,36 @@
+.container {
+  width: 500px;
+  margin: auto;
+  margin-top: 150px;
+}
+.gridStyles {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 16px;
+  width: 500px;
+}
+
+.gridItem {
+  margin: 5px;
+  /* display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem; */
+}
+
+.button {
+  width: 100px;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

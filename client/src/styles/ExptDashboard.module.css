@@ -1,0 +1,102 @@
+.container {
+  padding: 20px;
+}
+
+.loading {
+  padding-top: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* Tasks */
+.Table.Tasks .TaskId.Completed {
+  color: green;
+}
+
+.Table.Tasks .Subjects {
+  display: flex;
+  flex-direction: column;
+  color: red;
+}
+.Table.Tasks .Subject.Completed {
+  color: green;
+}
+.Table.Tasks .TaskId.Active {
+  color: rgb(202, 140, 25);
+}
+
+/* Users */
+.Table.Users .Tasks {
+  display: flex;
+  /* flex-direction: column; */
+}
+
+/* .Table.Users .Tasks .Completed {
+  color: green;
+} 
+
+.Table.Users .Tasks .Current {
+  color: rgb(202, 140, 25);
+}  */
+
+.ProgressBar.Completed, .ProgressBar.Incomplete, .ProgressBar.NotStarted{
+  height: 15px;
+  width: 6px;
+  
+  position: relative;
+  border-radius:2px;
+  
+  margin-left: 2px;
+  margin-right: 2px;
+  /* margin-bottom: 100px; */
+  top: 3px;
+  float: left;
+  clear: top;
+}
+.ProgressBar.Completed:hover,
+.ProgressBar.Incomplete:hover,
+.ProgressBar.NotStarted:hover {
+  box-shadow: 0px 0px 5px blue;
+}
+
+.ProgressBar.Completed {
+  background-color: green;
+  box-shadow: 0px 0px 2px green;
+}
+
+.ProgressBar.Incomplete {
+  background-color: orange;
+  box-shadow: 0px 0px 2px orange;
+}
+.ProgressBar.NotStarted {
+  background-color: red;
+  box-shadow: 0px 0px 2px red;
+}
+/* Treebanks */
+
+.Table.Treebanks .Users {
+  display: flex;
+  flex-direction: column;
+}
+
+.Table.Treebanks .Tasks {
+  display: flex;
+  flex-direction: row;
+}
+
+.Table.Treebanks .Tasks .Completed {
+  color: green;
+}
+
+.Table.Treebanks .Tasks .TaskId:hover {
+  color: rgb(47, 47, 248);
+  cursor:pointer;
+}
+
+/* Table Tags */
+.Tag.Delete.Icon:hover {
+  box-shadow: 0px 0px 5px orange;
+  cursor:pointer;
+}

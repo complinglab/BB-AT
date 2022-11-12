@@ -1,0 +1,93 @@
+{
+    "_id": {
+        "$oid": "5f0022f37ed631e71d0dc467"
+    },
+    "sents": [
+        {
+            "file": "UD_Afrikaans-AfriBooms\\af_afribooms-ud-test",
+            "sentId": "test-s2",
+            "text": "Die krisis het ons ekonomie ongeveer 900 000 werksgeleenthede gekos.",
+            "flag": 2,
+            "words": [
+                "Die",
+                "krisis",
+                "het",
+                "ons",
+                "ekonomie",
+                "ongeveer",
+                "900",
+                "000",
+                "werksgeleenthede",
+                "gekos",
+                "."
+            ]
+        },
+        {
+            "file": "UD_Afrikaans-AfriBooms\\af_afribooms-ud-train",
+            "sentId": "train-s1",
+            "text": "Die doel van die webtuiste vir Suid-Afrikaanse Regeringsdienste is om 'n enkele bron van inligting te bied oor dienste wat deur die Suid-Afrikaanse regering verskaf word.",
+            "flag": 1,
+            "words": [
+                "Die",
+                "doel",
+                "van",
+                "die",
+                "webtuiste",
+                "vir",
+                "Suid-Afrikaanse",
+                "Regeringsdienste",
+                "is",
+                "om",
+                "'n",
+                "enkele",
+                "bron",
+                "van",
+                "inligting",
+                "te",
+                "bied",
+                "oor",
+                "dienste",
+                "wat",
+                "deur",
+                "die",
+                "Suid-Afrikaanse",
+                "regering",
+                "verskaf",
+                "word",
+                "."
+            ]
+        },
+        {
+            "file": "UD_Afrikaans-AfriBooms\\af_afribooms-ud-dev",
+            "sentId": "dev-s4",
+            "text": "Ons sien ook uit daarna om hierdie vennootskap te versterk wanneer ons later hierdie jaar die Suid-Afrika-EU-beraad aanbied.",
+            "flag": 0,
+            "words": [
+                "Ons",
+                "sien",
+                "ook",
+                "uit",
+                "daarna",
+                "om",
+                "hierdie",
+                "vennootskap",
+                "te",
+                "versterk",
+                "wanneer",
+                "ons",
+                "later",
+                "hierdie",
+                "jaar",
+                "die",
+                "Suid-Afrika-EU-beraad",
+                "aanbied",
+                "."
+            ]
+        }
+    ],
+    "subjects": [],
+    "treebank": "UD_Afrikaans-AfriBooms",
+    "experiment": {
+        "$oid": "5efdd7340aa8c40bf405aa38"
+    }
+}

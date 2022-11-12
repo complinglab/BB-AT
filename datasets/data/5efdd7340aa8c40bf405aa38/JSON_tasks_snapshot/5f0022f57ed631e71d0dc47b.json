@@ -1,0 +1,51 @@
+{
+    "_id": {
+        "$oid": "5f0022f57ed631e71d0dc47b"
+    },
+    "sents": [
+        {
+            "file": "UD_Telugu-MTG\\te_mtg-ud-test",
+            "sentId": "20",
+            "text": "\u0c2e\u0c40\u0c30\u0c4b \u0c28\u0c47\u0c28\u0c4b \u0c08 \u0c2a\u0c28\u0c3f \u0c1a\u0c46\u0c2f\u0c4d\u0c2f\u0c3e\u0c32\u0c3f .",
+            "flag": 1,
+            "words": [
+                "\u0c2e\u0c40\u0c30\u0c4b",
+                "\u0c28\u0c47\u0c28\u0c4b",
+                "\u0c08",
+                "\u0c2a\u0c28\u0c3f",
+                "\u0c1a\u0c46\u0c2f\u0c4d\u0c2f\u0c3e\u0c32\u0c3f",
+                "."
+            ]
+        },
+        {
+            "file": "UD_Telugu-MTG\\te_mtg-ud-dev",
+            "sentId": "59",
+            "text": "\u0c28\u0c41\u0c35\u0c4d\u0c35\u0c41 \u0c2a\u0c28\u0c3f \u0c1a\u0c46\u0c2f\u0c4d\u0c2f\u0c3e\u0c32\u0c3f .",
+            "flag": 2,
+            "words": [
+                "\u0c28\u0c41\u0c35\u0c4d\u0c35\u0c41",
+                "\u0c2a\u0c28\u0c3f",
+                "\u0c1a\u0c46\u0c2f\u0c4d\u0c2f\u0c3e\u0c32\u0c3f",
+                "."
+            ]
+        },
+        {
+            "file": "UD_Telugu-MTG\\te_mtg-ud-dev",
+            "sentId": "68",
+            "text": "\u0c2e\u0c40 \u0c24\u0c32\u0c4d\u0c32\u0c3f\u0c26\u0c02\u0c21\u0c4d\u0c30\u0c41\u0c32 \u0c0a\u0c30\u0c41 \u0c0f\u0c2e\u0c3f\u0c1f\u0c3f ?",
+            "flag": 0,
+            "words": [
+                "\u0c2e\u0c40",
+                "\u0c24\u0c32\u0c4d\u0c32\u0c3f\u0c26\u0c02\u0c21\u0c4d\u0c30\u0c41\u0c32",
+                "\u0c0a\u0c30\u0c41",
+                "\u0c0f\u0c2e\u0c3f\u0c1f\u0c3f",
+                "?"
+            ]
+        }
+    ],
+    "subjects": [],
+    "treebank": "UD_Telugu-MTG",
+    "experiment": {
+        "$oid": "5efdd7340aa8c40bf405aa38"
+    }
+}

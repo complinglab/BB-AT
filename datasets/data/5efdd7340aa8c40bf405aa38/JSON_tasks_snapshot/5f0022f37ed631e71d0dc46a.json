@@ -1,0 +1,52 @@
+{
+    "_id": {
+        "$oid": "5f0022f37ed631e71d0dc46a"
+    },
+    "sents": [
+        {
+            "file": "UD_English-GUM\\en_gum-ud-test",
+            "sentId": "GUM_academic_discrimination-3",
+            "text": "Introduction.",
+            "flag": 2,
+            "words": [
+                "Introduction",
+                "."
+            ]
+        },
+        {
+            "file": "UD_English-GUM\\en_gum-ud-test",
+            "sentId": "GUM_academic_discrimination-1",
+            "text": "The prevalence of discrimination across racial groups in contemporary America:",
+            "flag": 0,
+            "words": [
+                "The",
+                "prevalence",
+                "of",
+                "discrimination",
+                "across",
+                "racial",
+                "groups",
+                "in",
+                "contemporary",
+                "America",
+                ":"
+            ]
+        },
+        {
+            "file": "UD_English-GUM\\en_gum-ud-train",
+            "sentId": "GUM_academic_art-2",
+            "text": "Insights from Eye-Tracking",
+            "flag": 2,
+            "words": [
+                "Insights",
+                "from",
+                "Eye-Tracking"
+            ]
+        }
+    ],
+    "subjects": [],
+    "treebank": "UD_English-GUM",
+    "experiment": {
+        "$oid": "5efdd7340aa8c40bf405aa38"
+    }
+}

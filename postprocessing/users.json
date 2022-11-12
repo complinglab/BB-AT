@@ -1,0 +1,996 @@
+[{
+  "_id": {
+    "$oid": "5f238ea06e04954d3ce9f642"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5f238ea06e04954d3ce9f643"
+    }
+  ],
+  "experimentsAssigned": [],
+  "email": "avaidya@hss.iitd.ac.in",
+  "password": "$2b$10$sCL.Jdb9Ofc/B7UVI0Mbm.WfxZaZOLkKbdCNQks0AA2q89mS7Rqdi",
+  "username": "admin",
+  "role": "experimenter",
+  "date_joined": {
+    "$date": "2020-07-31T03:23:12.187Z"
+  },
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5f77622eeadec30017073041"
+      },
+      "username": "t_anno_1",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5f776246eadec30017073042"
+      },
+      "username": "t_anno_2",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5f7d6cc96f2e980017370d35"
+      },
+      "username": "t_adju",
+      "role": "adjudicator"
+    },
+    {
+      "id": {
+        "$oid": "5f8966f8b753ee0017ff7647"
+      },
+      "username": "t_adju_1",
+      "role": "adjudicator"
+    },
+    {
+      "id": {
+        "$oid": "5f9ac9c3d3cd9a001729d013"
+      },
+      "username": "t_adju_2",
+      "role": "adjudicator"
+    },
+    {
+      "id": {
+        "$oid": "5fa8f4b3c0f0730017436f3f"
+      },
+      "username": "t_anno_3",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fc88d59aca356001792d7ac"
+      },
+      "username": "t_anno_4",
+      "role": "annotator"
+    }
+  ],
+  "__v": 16
+},{
+  "_id": {
+    "$oid": "5f314352b0a56d0017854bdd"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5f314352b0a56d0017854bde"
+    }
+  ],
+  "experimentsAssigned": [],
+  "email": "ashwini.vaidya@gmail.com",
+  "password": "$2b$10$WHFZmRooT9n62XnYkfc0QeJDOIa8/d0lA6Y0Y.Jd.hKs4fpJByz8O",
+  "username": "ashwini_admin",
+  "role": "experimenter",
+  "date_joined": {
+    "$date": "2020-08-10T12:53:38.437Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6adcf73bd42800171758c0"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5f6adcf73bd42800171758c1"
+    }
+  ],
+  "experimentsAssigned": [],
+  "email": "kanishkajain93@gmail.com",
+  "password": "$2b$10$sgg5BEqL/EhWNp9Pk9WKw.U54rbOH7XlgSlo6OBUcXZYdzRZoq0Ea",
+  "username": "test_exp",
+  "role": "experimenter",
+  "date_joined": {
+    "$date": "2020-09-23T05:28:23.731Z"
+  },
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5f99511fbdd3cd0017fb422d"
+      },
+      "username": "test_anno1",
+      "role": "annotator"
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5f77622eeadec30017073041"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [
+      "TSTUDY"
+    ],
+    "finishedTasks": [
+      "5f775b049f1db45c0d066e7f",
+      "5f775b049f1db45c0d066e80"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5f238ea06e04954d3ce9f643"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$OEgyL4dYnxMvNBsxWZerKeByOUY1iRJkbbBZzPZ5rTNBbD65YYwBK",
+  "username": "t_anno_1",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-10-02T17:23:58.804Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f776246eadec30017073042"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [
+      "TSTUDY",
+      "TSTUDY"
+    ],
+    "finishedTasks": [
+      "5f775b049f1db45c0d066e7f",
+      "5f775b049f1db45c0d066e80"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5f238ea06e04954d3ce9f643"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$nGbxBViz9sVuGBdVOo/dAe/sijrwiGtE6Aerq4gKfvqw7S7b4xb/C",
+  "username": "t_anno_2",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-10-02T17:24:22.958Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7d6cc96f2e980017370d35"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": [
+      "5f775b049f1db45c0d066e7f",
+      "5f775b049f1db45c0d066e80"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5f238ea06e04954d3ce9f643"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$5s33Ka4mQXxz6GE4yQNAdua/GH61PUIW8FX2cDFIr0d6pwhRdWBfy",
+  "username": "t_adju",
+  "role": "adjudicator",
+  "date_joined": {
+    "$date": "2020-10-07T07:22:49.482Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8966f8b753ee0017ff7647"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [
+      "TSTUDY"
+    ],
+    "finishedTasks": [
+      "5f775b049f1db45c0d066e7f",
+      "5f775b049f1db45c0d066e80"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5f238ea06e04954d3ce9f643"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$fCKgzmr6ZNvzV4XggcwadebCPv2g8eJLUt4NXE0cUexlvTEg4xp2S",
+  "username": "t_adju_1",
+  "role": "adjudicator",
+  "date_joined": {
+    "$date": "2020-10-16T09:25:12.981Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f950f4f89a11c1ad05dc35e"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5f950f4f89a11c1ad05dc35f"
+    }
+  ],
+  "experimentsAssigned": [],
+  "email": "test@test.com",
+  "password": "$2b$10$X1T290z.HEzI7/0eo2DAue9637cq.fVRncVJYCkZZWxBFA/vL7cGG",
+  "username": "admin2",
+  "role": "experimenter",
+  "date_joined": {
+    "$date": "2020-10-25T05:38:23.275Z"
+  },
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5f95171b89a11c1ad05dc360"
+      },
+      "username": "secondaryAnno",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5f95172989a11c1ad05dc361"
+      },
+      "username": "secondaryAdju",
+      "role": "adjudicator"
+    }
+  ],
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5f95171b89a11c1ad05dc360"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5f950f4f89a11c1ad05dc35f"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$Lj02JnOmq0eIGIHBm5NyIuU8hN8t9CxN7.fQKgrEH0f464vmlMej2",
+  "username": "secondaryAnno",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-10-25T06:11:39.209Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f95172989a11c1ad05dc361"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5f950f4f89a11c1ad05dc35f"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$LRDDot3yj2x9jOkblypZw.nZXD2UZa5L4SkKj/eW6ksCHLtAEz70y",
+  "username": "secondaryAdju",
+  "role": "adjudicator",
+  "date_joined": {
+    "$date": "2020-10-25T06:11:53.044Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f99511fbdd3cd0017fb422d"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5f6adcf73bd42800171758c1"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$0vBK8.781vd128.aAlB1YO0fD462OpcuD4ZLIL96QNHFXwtH10tPm",
+  "username": "test_anno1",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-10-28T11:08:15.998Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f995446bdd3cd0017fb422e"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5f995446bdd3cd0017fb422f"
+    }
+  ],
+  "experimentsAssigned": [],
+  "email": "test2@ann.com",
+  "password": "$2b$10$WfQVNtbJ75kVo2OhicgADOq7Br3e457PJcx6y7DVL5pZKQJm0qYr6",
+  "username": "test2",
+  "role": "experimenter",
+  "date_joined": {
+    "$date": "2020-10-28T11:21:42.909Z"
+  },
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5f995554bdd3cd0017fb4230"
+      },
+      "username": "test2_anno",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fba367bf274fb0017fa6563"
+      },
+      "username": "test2_anno2",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fbcc77c41394e00177f2819"
+      },
+      "username": "test2_adju",
+      "role": "adjudicator"
+    }
+  ],
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "5f995554bdd3cd0017fb4230"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": [
+      "5f9954f7963fbbe41deaeed5"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5f995446bdd3cd0017fb422f"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$SRgRwjarlERaFK5BUYgVH.qIyNEpMj4kKO7A5M4rfOkJHGkcau2v6",
+  "username": "test2_anno",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-10-28T11:26:12.963Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f995610bdd3cd0017fb4231"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5f995610bdd3cd0017fb4232"
+    }
+  ],
+  "experimentsAssigned": [],
+  "email": "test1@ann.com",
+  "password": "$2b$10$tRGdi/ypJeFB5Qdm9VgC2u6uq9MuUw6e8QtVuck8Xz9f7lJeVpvOW",
+  "username": "test1",
+  "role": "experimenter",
+  "date_joined": {
+    "$date": "2020-10-28T11:29:20.151Z"
+  },
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5fb7bb71f2c63f0017dc2693"
+      },
+      "username": "test_annotator1",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fb7bb94f2c63f0017dc2694"
+      },
+      "username": "test_annotator2",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fbb8c1df1318200174117e3"
+      },
+      "username": "test_adj",
+      "role": "adjudicator"
+    }
+  ],
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "5f9ac9c3d3cd9a001729d013"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": [
+      "5f775b049f1db45c0d066e7f",
+      "5f775b049f1db45c0d066e80"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5f238ea06e04954d3ce9f643"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$FUyNvluapbmpWQAABQPzCubiMVlff39JfTiwqrjB4JRn5iPZ8ut/K",
+  "username": "t_adju_2",
+  "role": "adjudicator",
+  "date_joined": {
+    "$date": "2020-10-29T13:55:15.171Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa8f4b3c0f0730017436f3f"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5f238ea06e04954d3ce9f643"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$DZtU/0aMe4z4h1kfS2PmuO2rDwezB2k3S7rXCByk/xpZuHdUeM9Ji",
+  "username": "t_anno_3",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-11-09T07:50:11.481Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae8b0b69bce809a1e7264f"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5fae8b0b69bce809a1e72650"
+    }
+  ],
+  "experimentsAssigned": [],
+  "email": "imrichsham@gmail.com",
+  "password": "$2b$10$12C2O9B4wAYGnw6Y5jxEhuL9c0wXlnd6Pwl8nFgdlJ4v7OzDIZUja",
+  "username": "rich",
+  "role": "experimenter",
+  "date_joined": {
+    "$date": "2020-11-13T13:32:59.469Z"
+  },
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5fae927a69bce809a1e72651"
+      },
+      "username": "anno",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fae9fbc69bce809a1e72652"
+      },
+      "username": "adju",
+      "role": "adjudicator"
+    }
+  ],
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5fae927a69bce809a1e72651"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": [
+      "5fae92681c02c6bf44d9ccf4",
+      "5fae92681c02c6bf44d9ccf5"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5fae8b0b69bce809a1e72650"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$xhN5nldl3w8LWYdCNaAwoOFp5G2ZTX8/mjzodXTA9ZdAtvdIBVdvW",
+  "username": "anno",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-11-13T14:04:42.648Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae9fbc69bce809a1e72652"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": [
+      "5fae92681c02c6bf44d9ccf4"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5fae8b0b69bce809a1e72650"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$Dcatdb38LnwiKJjcmOg.ee0E2klBeEilLH2Zw87xJ.wfgpGM9g1TW",
+  "username": "adju",
+  "role": "adjudicator",
+  "date_joined": {
+    "$date": "2020-11-13T15:01:16.307Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb7bb71f2c63f0017dc2693"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": [
+      "5f99566f963fbbe41deaeee5"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5f995610bdd3cd0017fb4232"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$7wBhiAtvH6h7mCCEygPqDO0HvZ1ndbDeQS6q.N8JiAQ7FGdl6z1Rq",
+  "username": "test_annotator1",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-11-20T12:49:53.295Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb7bb94f2c63f0017dc2694"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": [
+      "5f99566f963fbbe41deaeee5"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5f995610bdd3cd0017fb4232"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$m0Qn9c6zyrQLeNbUoFKlBe84/dBnWP.U9IY.FYEM1vHa5DM.T86ma",
+  "username": "test_annotator2",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-11-20T12:50:28.230Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fba367bf274fb0017fa6563"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": [
+      "5f9954f7963fbbe41deaeed5"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5f995446bdd3cd0017fb422f"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$EPxq9VT.Wd3CYgpzXO3J8ONtYw9vJTviqECEeVNYZfbjMvpN/KJLe",
+  "username": "test2_anno2",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-11-22T09:59:23.945Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbb8c1df1318200174117e3"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": [
+      "5f99566f963fbbe41deaeee5"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5f995610bdd3cd0017fb4232"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$5dpxIRevIdByasRTJ6xT1.emlct9.XBjTc3rydIoi5emBYblqQarW",
+  "username": "test_adj",
+  "role": "adjudicator",
+  "date_joined": {
+    "$date": "2020-11-23T10:17:01.916Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbcc77c41394e00177f2819"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5f995446bdd3cd0017fb422f"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$jRvbfvXDB6JpVZg4B0ABp.ryWc/OnscPJxldSZ.pCqJ21oDxWOq2y",
+  "username": "test2_adju",
+  "role": "adjudicator",
+  "date_joined": {
+    "$date": "2020-11-24T08:42:36.135Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbdf93fb6554a001796f98e"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5fbdf93fb6554a001796f98f"
+    }
+  ],
+  "experimentsAssigned": [],
+  "email": "test3@abc.com",
+  "password": "$2b$10$TMfP0cg2RkJ84h.5x16XXeqQCedeLAdlkjgKJbeexh5/gLiJsf.Z.",
+  "username": "test3",
+  "role": "experimenter",
+  "date_joined": {
+    "$date": "2020-11-25T06:27:11.888Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc4aba1bc377300173866b2"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5fc4aba1bc377300173866b3"
+    }
+  ],
+  "experimentsAssigned": [],
+  "email": "Experiments@ann.com",
+  "password": "$2b$10$z6EoFhkr80mVGe9aAYCVte39x5kjjsn23k.mtw0DtGNEY0kMj48eC",
+  "username": "Experiment_01",
+  "role": "experimenter",
+  "date_joined": {
+    "$date": "2020-11-30T08:21:53.137Z"
+  },
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5fda06940ac1b5001714ba8e"
+      },
+      "username": "ex_shr_ann01",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fe1f297e600e50017c728b8"
+      },
+      "username": "ex_aan_ann02",
+      "role": "annotator"
+    }
+  ],
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5fc4acf9bc377300173866b4"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5fc4acf9bc377300173866b5"
+    }
+  ],
+  "experimentsAssigned": [],
+  "email": "Training_Exp_01@ann.com",
+  "password": "$2b$10$kugP7Tk2bQTqcgTTl96GwO/Ln9Of9poPQX1Qmotl5464cl3oQSQ9q",
+  "username": "Training_Exp_01",
+  "role": "experimenter",
+  "date_joined": {
+    "$date": "2020-11-30T08:27:37.345Z"
+  },
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5fd0921df682ee00176403c5"
+      },
+      "username": "tr_shr_ann01",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fd8812417311f0017c77805"
+      },
+      "username": "tr_aan_ann02",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fdefa4c5677a50017eaa68f"
+      },
+      "username": "tr_kan_adj01",
+      "role": "adjudicator"
+    }
+  ],
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "5fc88d59aca356001792d7ac"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5f238ea06e04954d3ce9f643"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$liykPyTLpdLdSLqSGkynwu2MAjHeOLRxGc2u8Z9rM1J76K/jhd0U2",
+  "username": "t_anno_4",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-12-03T07:01:45.253Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd0921df682ee00176403c5"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [
+      "UD_Hindi-HDTB",
+      "UD_Hindi-HDTB",
+      "UD_Hindi-HDTB"
+    ],
+    "finishedTasks": [
+      "5fc4c0c66c71e4f6c703050c",
+      "5fc4c0c76c71e4f6c703050d"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5fc4acf9bc377300173866b5"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$jG5YQ8wGxGcltJgocS4zq.yh7AqAKbOi04kgy2DoBpjaSmefxcy3K",
+  "username": "tr_shr_ann01",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-12-09T09:00:13.302Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd8812417311f0017c77805"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [
+      "UD_Hindi-HDTB"
+    ],
+    "finishedTasks": [
+      "5fc4c0c66c71e4f6c703050c",
+      "5fc4c0c76c71e4f6c703050d"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5fc4acf9bc377300173866b5"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$VN58IkyWEAPC5xLl.5aNJ.4E8UvQu6j3E62u6wd.HoLZRHqsLVlE6",
+  "username": "tr_aan_ann02",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-12-15T09:25:56.794Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fda06940ac1b5001714ba8e"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": [
+      "5fc4c39f6c71e4f6c703050f",
+      "5fc4c3a06c71e4f6c7030510",
+      "5fc4c3a06c71e4f6c7030511",
+      "5fc4c3a06c71e4f6c7030512",
+      "5fc4c3a06c71e4f6c7030513",
+      "5fc4c3a06c71e4f6c7030514",
+      "5fc4c3a06c71e4f6c7030515"
+    ]
+  },
+  "experiments": [
+    {
+      "$oid": "5fc4aba1bc377300173866b3"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$bhHNgACcMy4eEN.OlKac8.sbkwarSrlvaYCTt55jXKQfd8ZMlH6QK",
+  "username": "ex_shr_ann01",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-12-16T13:07:32.918Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fdefa4c5677a50017eaa68f"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5fc4acf9bc377300173866b5"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$gZpYoq2xI9SHbZpiAVPA7ebMC.9mA.Yg35CZZhcaQ7qwg7qTPazQ6",
+  "username": "tr_kan_adj01",
+  "role": "adjudicator",
+  "date_joined": {
+    "$date": "2020-12-20T07:16:29.001Z"
+  },
+  "subjects": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1f297e600e50017c728b8"
+  },
+  "task": {
+    "workingTreebanks": [],
+    "finishedTreebanks": [],
+    "finishedTasks": []
+  },
+  "experiments": [
+    {
+      "$oid": "5fc4aba1bc377300173866b3"
+    }
+  ],
+  "experimentsAssigned": [],
+  "password": "$2b$10$KTjShmPydsO.rIUUyMWR/./PZBLwE2BUDSFctJsQI4BqZFfflHele",
+  "username": "ex_aan_ann02",
+  "role": "annotator",
+  "date_joined": {
+    "$date": "2020-12-22T13:20:23.678Z"
+  },
+  "subjects": [],
+  "__v": 0
+}]

@@ -1,0 +1,66 @@
+{
+    "_id": {
+        "$oid": "5f0022f47ed631e71d0dc46c"
+    },
+    "sents": [
+        {
+            "file": "UD_English-GUM\\en_gum-ud-dev",
+            "sentId": "GUM_academic_exposure-4",
+            "text": "However, it is not enough to have attained such native-like levels.",
+            "flag": 0,
+            "words": [
+                "However",
+                ",",
+                "it",
+                "is",
+                "not",
+                "enough",
+                "to",
+                "have",
+                "attained",
+                "such",
+                "native-like",
+                "levels",
+                "."
+            ]
+        },
+        {
+            "file": "UD_English-GUM\\en_gum-ud-train",
+            "sentId": "GUM_academic_art-3",
+            "text": "Claire Bailey-Ross claire.bailey-ross@port.ac.uk University of Portsmouth, United Kingdom",
+            "flag": 1,
+            "words": [
+                "Claire",
+                "Bailey-Ross",
+                "claire.bailey-ross@port.ac.uk",
+                "University",
+                "of",
+                "Portsmouth",
+                ",",
+                "United",
+                "Kingdom"
+            ]
+        },
+        {
+            "file": "UD_English-GUM\\en_gum-ud-train",
+            "sentId": "GUM_academic_art-4",
+            "text": "Andrew Beresford a.m.beresford@durham.ac.uk Durham University, United Kingdom",
+            "flag": 1,
+            "words": [
+                "Andrew",
+                "Beresford",
+                "a.m.beresford@durham.ac.uk",
+                "Durham",
+                "University",
+                ",",
+                "United",
+                "Kingdom"
+            ]
+        }
+    ],
+    "subjects": [],
+    "treebank": "UD_English-GUM",
+    "experiment": {
+        "$oid": "5efdd7340aa8c40bf405aa38"
+    }
+}

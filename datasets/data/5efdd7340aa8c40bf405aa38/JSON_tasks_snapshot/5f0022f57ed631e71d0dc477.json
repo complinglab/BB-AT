@@ -1,0 +1,310 @@
+{
+    "_id": {
+        "$oid": "5f0022f57ed631e71d0dc477"
+    },
+    "sents": [
+        {
+            "file": "UD_Telugu-MTG\\te_mtg-ud-test",
+            "sentId": "3",
+            "text": "\u0c0e\u0c15\u0c4d\u0c15\u0c21\u0c3f\u0c15\u0c02\u0c21\u0c3f \u0c35\u0c46\u0c33\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41 ?",
+            "flag": 1,
+            "words": [
+                "\u0c0e\u0c15\u0c4d\u0c15\u0c21\u0c3f\u0c15\u0c02\u0c21\u0c3f",
+                "\u0c35\u0c46\u0c33\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41",
+                "?"
+            ]
+        },
+        {
+            "file": "UD_Telugu-MTG\\te_mtg-ud-dev",
+            "sentId": "64",
+            "text": "\u0c28\u0c47\u0c28\u0c41 \u0c06 \u0c2a\u0c28\u0c3f \u0c1a\u0c46\u0c2f\u0c4d\u0c2f\u0c3e\u0c32\u0c4d\u0c38\u0c3f \u0c35\u0c1a\u0c4d\u0c1a\u0c3f\u0c02\u0c26\u0c3f .",
+            "flag": 0,
+            "words": [
+                "\u0c28\u0c47\u0c28\u0c41",
+                "\u0c06",
+                "\u0c2a\u0c28\u0c3f",
+                "\u0c1a\u0c46\u0c2f\u0c4d\u0c2f\u0c3e\u0c32\u0c4d\u0c38\u0c3f",
+                "\u0c35\u0c1a\u0c4d\u0c1a\u0c3f\u0c02\u0c26\u0c3f",
+                "."
+            ]
+        },
+        {
+            "file": "UD_Telugu-MTG\\te_mtg-ud-test",
+            "sentId": "0",
+            "text": "\u0c1a\u0c42\u0c38\u0c47\u0c30\u0c02\u0c21\u0c40 ?",
+            "flag": 2,
+            "words": [
+                "\u0c1a\u0c42\u0c38\u0c47\u0c30\u0c02\u0c21\u0c40",
+                "?"
+            ]
+        }
+    ],
+    "subjects": [
+        {
+            "subjectId": "5f1547f7bafb2b154c8bcce3",
+            "username": "anno",
+            "completed": true,
+            "sentIndex": 2,
+            "data": [
+                {
+                    "wordRTs": [
+                        664,
+                        699,
+                        867
+                    ],
+                    "wordTags": [
+                        "ADJ",
+                        "ADP",
+                        "ADV"
+                    ],
+                    "sentRT": 5722,
+                    "sentId": "3"
+                },
+                {
+                    "wordRTs": [
+                        1051,
+                        586,
+                        644,
+                        1871,
+                        1000,
+                        561
+                    ],
+                    "wordTags": [
+                        "ADJ",
+                        "ADP",
+                        "ADV",
+                        "AUX",
+                        "CCONJ",
+                        "DET"
+                    ],
+                    "sentRT": 12352,
+                    "sentId": "64"
+                },
+                {
+                    "wordRTs": [
+                        1114,
+                        679
+                    ],
+                    "wordTags": [
+                        "ADJ",
+                        "ADP"
+                    ],
+                    "sentRT": 4947,
+                    "sentId": "0"
+                }
+            ],
+            "normalizedData": {
+                "deviationMinMax": [
+                    [
+                        0.20975014089798988,
+                        0.1735863235017847,
+                        0
+                    ],
+                    [
+                        0.15273342100319362,
+                        0.29034379109524705,
+                        0.23041517941010708,
+                        1,
+                        0.10003757279729471,
+                        0.3161750892353936
+                    ],
+                    [
+                        0.21782829231636291,
+                        0.19425136201390195
+                    ]
+                ],
+                "minMax": [
+                    [
+                        0.07862595419847328,
+                        0.10534351145038168,
+                        0.233587786259542
+                    ],
+                    [
+                        0.37404580152671757,
+                        0.019083969465648856,
+                        0.0633587786259542,
+                        1,
+                        0.3351145038167939,
+                        0
+                    ],
+                    [
+                        0.4221374045801527,
+                        0.0900763358778626
+                    ]
+                ],
+                "tagMinMax": [
+                    [
+                        0,
+                        1,
+                        1
+                    ],
+                    [
+                        0.86,
+                        0,
+                        0,
+                        NaN,
+                        NaN,
+                        NaN
+                    ],
+                    [
+                        1,
+                        0.8230088495575221
+                    ]
+                ]
+            }
+        },
+        {
+            "subjectId": "5f154886bafb2b154c8bcce5",
+            "username": "anno1",
+            "completed": true,
+            "sentIndex": 2,
+            "data": [
+                {
+                    "wordRTs": [
+                        742,
+                        796,
+                        959
+                    ],
+                    "wordTags": [
+                        "ADJ",
+                        "ADP",
+                        "AUX"
+                    ],
+                    "sentRT": 7780,
+                    "sentId": "3"
+                },
+                {
+                    "wordRTs": [
+                        733,
+                        649,
+                        956,
+                        939,
+                        1037,
+                        795
+                    ],
+                    "wordTags": [
+                        "ADJ",
+                        "ADP",
+                        "ADV",
+                        "CCONJ",
+                        "AUX",
+                        "INTJ"
+                    ],
+                    "sentRT": 13932,
+                    "sentId": "64"
+                },
+                {
+                    "wordRTs": [
+                        646,
+                        940
+                    ],
+                    "wordTags": [
+                        "ADJ",
+                        "NUM"
+                    ],
+                    "sentRT": 4130,
+                    "sentId": "0"
+                }
+            ],
+            "normalizedData": {
+                "deviationMinMax": [
+                    [
+                        0.3338954468802698,
+                        0,
+                        0.5177065767284992
+                    ],
+                    [
+                        0.3895446880269814,
+                        0.90893760539629,
+                        0.49915682967959535,
+                        0.3940415964024734,
+                        1,
+                        0.006183249016301292
+                    ],
+                    [
+                        0.9274873524451938,
+                        0.4002248454187747
+                    ]
+                ],
+                "minMax": [
+                    [
+                        0.24552429667519182,
+                        0.3836317135549872,
+                        0.8005115089514067
+                    ],
+                    [
+                        0.22250639386189258,
+                        0.0076726342710997444,
+                        0.7928388746803069,
+                        0.7493606138107417,
+                        1,
+                        0.38107416879795397
+                    ],
+                    [
+                        0,
+                        0.7519181585677749
+                    ]
+                ],
+                "tagMinMax": [
+                    [
+                        1,
+                        1,
+                        0
+                    ],
+                    [
+                        0.90625,
+                        0,
+                        NaN,
+                        NaN,
+                        1,
+                        NaN
+                    ],
+                    [
+                        0,
+                        NaN
+                    ]
+                ]
+            }
+        }
+    ],
+    "treebank": "UD_Telugu-MTG",
+    "experiment": {
+        "$oid": "5efdd7340aa8c40bf405aa38"
+    },
+    "adjudicators": [
+        {
+            "subjectId": "5f154843bafb2b154c8bcce4",
+            "username": "adju",
+            "completed": true,
+            "sentIndex": 2,
+            "data": [
+                {
+                    "wordTags": [
+                        "ADJ",
+                        "ADP",
+                        "CCONJ"
+                    ],
+                    "sentId": "3"
+                },
+                {
+                    "wordTags": [
+                        "ADJ",
+                        "ADP",
+                        "ADV",
+                        "CCONJ",
+                        "ADP",
+                        "INTJ"
+                    ],
+                    "sentId": "64"
+                },
+                {
+                    "wordTags": [
+                        "ADJ",
+                        "ADP"
+                    ],
+                    "sentId": "0"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+.container {
+  margin-top: -50px;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.titleText {
+  text-align: center;
+}
+
+.treebankListContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+}
+
+.treebankList {
+  width: 200px;
+  margin: 30px 0px 0px 0px;
+  text-align: center;
+}
+
+.button {
+  margin-top: 25px;
+  margin-bottom: 60px;
+  width: 150px;
+}
+
+
+.errorText {
+  position: absolute;
+  bottom: 25px;
+
+  margin: 0em 0 0.5em 0;
+  padding: 0;
+  color: red;
+  font-style: bold;
+  font-size: 0.8rem;
+}

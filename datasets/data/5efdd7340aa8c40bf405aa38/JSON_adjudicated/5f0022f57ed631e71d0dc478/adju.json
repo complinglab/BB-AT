@@ -1,0 +1,36 @@
+{
+    "subjectId": "5f154843bafb2b154c8bcce4",
+    "username": "adju",
+    "completed": true,
+    "sentIndex": 2,
+    "data": [
+        {
+            "wordTags": [
+                "ADJ",
+                "ADP",
+                "PUNCT",
+                "SCONJ",
+                "CCONJ"
+            ],
+            "sentId": "5"
+        },
+        {
+            "wordTags": [
+                "NUM",
+                "ADP",
+                "NUM",
+                "AUX",
+                "PUNCT"
+            ],
+            "sentId": "69"
+        },
+        {
+            "wordTags": [
+                "ADJ",
+                "DET",
+                "ADV"
+            ],
+            "sentId": "4"
+        }
+    ]
+}

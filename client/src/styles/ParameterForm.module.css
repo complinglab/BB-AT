@@ -1,0 +1,14 @@
+.container {
+  width: 400px;
+  margin: 20px;
+}
+
+.colorPickerContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.sampleHighlights {
+  margin-top: 20px;
+  margin-left: 20px;
+}

@@ -1,0 +1,1113 @@
+[{
+  "_id": {
+    "$oid": "5f238ea06e04954d3ce9f643"
+  },
+  "experimenter": {
+    "$oid": "5f238ea06e04954d3ce9f642"
+  },
+  "title": "Default",
+  "parameters": {
+    "numShared": 4,
+    "numSharedAdju": 4,
+    "scaling": "minMax",
+    "highlightType": "continuous",
+    "highlightBoundaries": [
+      0.2,
+      0.8
+    ],
+    "highlights": [
+      "#fabf6a",
+      "#9088d4"
+    ]
+  },
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5f77622eeadec30017073041"
+      },
+      "username": "t_anno_1",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5f776246eadec30017073042"
+      },
+      "username": "t_anno_2",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5f7d6cc96f2e980017370d35"
+      },
+      "username": "t_adju",
+      "role": "adjudicator"
+    },
+    {
+      "id": {
+        "$oid": "5f8966f8b753ee0017ff7647"
+      },
+      "username": "t_adju_1",
+      "role": "adjudicator"
+    },
+    {
+      "id": {
+        "$oid": "5f9ac9c3d3cd9a001729d013"
+      },
+      "username": "t_adju_2",
+      "role": "adjudicator"
+    },
+    {
+      "id": {
+        "$oid": "5fa8f4b3c0f0730017436f3f"
+      },
+      "username": "t_anno_3",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fc88d59aca356001792d7ac"
+      },
+      "username": "t_anno_4",
+      "role": "annotator"
+    }
+  ],
+  "tags": [
+    {
+      "tag": "CC",
+      "description": "conjuncts",
+      "enabled": true
+    },
+    {
+      "tag": "DEM",
+      "description": "demonstrator",
+      "enabled": true
+    },
+    {
+      "tag": "ECH",
+      "description": "echo word",
+      "enabled": true
+    },
+    {
+      "tag": "INJ",
+      "description": "interjection",
+      "enabled": true
+    },
+    {
+      "tag": "INTF",
+      "description": "intensifier",
+      "enabled": true
+    },
+    {
+      "tag": "JJ",
+      "description": "adjective",
+      "enabled": true
+    },
+    {
+      "tag": "JJP",
+      "description": "adjectival chunk",
+      "enabled": true
+    },
+    {
+      "tag": "NEG",
+      "description": "nagative",
+      "enabled": true
+    },
+    {
+      "tag": "NN",
+      "description": "noun",
+      "enabled": true
+    },
+    {
+      "tag": "NNC",
+      "description": "noun compound",
+      "enabled": true
+    },
+    {
+      "tag": "NNP",
+      "description": "proper nouns",
+      "enabled": true
+    },
+    {
+      "tag": "NNPC",
+      "description": "proper noun compound",
+      "enabled": true
+    },
+    {
+      "tag": "NST",
+      "description": "noun denoting spatial or temporal expression",
+      "enabled": true
+    },
+    {
+      "tag": "PRON",
+      "description": "pronoun",
+      "enabled": true
+    },
+    {
+      "tag": "PSP",
+      "description": "postposition",
+      "enabled": true
+    },
+    {
+      "tag": "QC",
+      "description": "cardinals/numerals",
+      "enabled": true
+    },
+    {
+      "tag": "QF",
+      "description": "quantifier",
+      "enabled": true
+    },
+    {
+      "tag": "QO",
+      "description": "ordinal",
+      "enabled": true
+    },
+    {
+      "tag": "RB",
+      "description": "adverb",
+      "enabled": true
+    },
+    {
+      "tag": "RDP",
+      "description": "reduplication",
+      "enabled": true
+    },
+    {
+      "tag": "RP",
+      "description": "particle",
+      "enabled": true
+    },
+    {
+      "tag": "SYM",
+      "description": "special symbol",
+      "enabled": true
+    },
+    {
+      "tag": "UNK",
+      "description": "unknown",
+      "enabled": true
+    },
+    {
+      "tag": "VAUX",
+      "description": "verb auxiliary",
+      "enabled": true
+    },
+    {
+      "tag": "VM",
+      "description": "verb main",
+      "enabled": true
+    },
+    {
+      "tag": "WQ",
+      "description": "question words",
+      "enabled": true
+    }
+  ],
+  "tasks": [],
+  "__v": 16
+},{
+  "_id": {
+    "$oid": "5f314352b0a56d0017854bde"
+  },
+  "experimenter": {
+    "$oid": "5f314352b0a56d0017854bdd"
+  },
+  "title": "Default",
+  "parameters": {
+    "numShared": 2,
+    "numSharedAdju": 1,
+    "scaling": "tagMinMax"
+  },
+  "subjects": [],
+  "tags": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6adcf73bd42800171758c1"
+  },
+  "experimenter": {
+    "$oid": "5f6adcf73bd42800171758c0"
+  },
+  "title": "Default",
+  "parameters": {
+    "numShared": 2,
+    "numSharedAdju": 1,
+    "scaling": "tagMinMax"
+  },
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5f99511fbdd3cd0017fb422d"
+      },
+      "username": "test_anno1",
+      "role": "annotator"
+    }
+  ],
+  "tags": [
+    {
+      "tag": "ADJ",
+      "description": "adjective",
+      "enabled": true
+    },
+    {
+      "tag": "ADP",
+      "description": "adposition",
+      "enabled": true
+    },
+    {
+      "tag": "ADV",
+      "description": "adverb",
+      "enabled": true
+    },
+    {
+      "tag": "AUX",
+      "description": "auxiliary",
+      "enabled": true
+    },
+    {
+      "tag": "CCONJ",
+      "description": "coordinating conjunction",
+      "enabled": true
+    },
+    {
+      "tag": "DET",
+      "description": "determiner",
+      "enabled": true
+    },
+    {
+      "tag": "INTJ",
+      "description": "interjection",
+      "enabled": true
+    },
+    {
+      "tag": "NOUN",
+      "description": "noun",
+      "enabled": true
+    },
+    {
+      "tag": "NUM",
+      "description": "numeral",
+      "enabled": true
+    },
+    {
+      "tag": "PART",
+      "description": "particle",
+      "enabled": true
+    },
+    {
+      "tag": "PRON",
+      "description": "pronoun",
+      "enabled": true
+    },
+    {
+      "tag": "PROPN",
+      "description": "proper noun",
+      "enabled": true
+    },
+    {
+      "tag": "PUNCT",
+      "description": "punctuation",
+      "enabled": true
+    },
+    {
+      "tag": "SCONJ",
+      "description": "subordinating conjunction",
+      "enabled": true
+    },
+    {
+      "tag": "SYM",
+      "description": "symbol",
+      "enabled": true
+    },
+    {
+      "tag": "VERB",
+      "description": "verb",
+      "enabled": true
+    },
+    {
+      "tag": "X",
+      "description": "other",
+      "enabled": true
+    }
+  ],
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "5f950f4f89a11c1ad05dc35f"
+  },
+  "experimenter": {
+    "$oid": "5f950f4f89a11c1ad05dc35e"
+  },
+  "title": "Default",
+  "parameters": {
+    "numShared": 2,
+    "numSharedAdju": 1,
+    "scaling": "tagMinMax"
+  },
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5f95171b89a11c1ad05dc360"
+      },
+      "username": "secondaryAnno",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5f95172989a11c1ad05dc361"
+      },
+      "username": "secondaryAdju",
+      "role": "adjudicator"
+    }
+  ],
+  "tags": [],
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5f995446bdd3cd0017fb422f"
+  },
+  "experimenter": {
+    "$oid": "5f995446bdd3cd0017fb422e"
+  },
+  "title": "Default",
+  "parameters": {
+    "numShared": 2,
+    "numSharedAdju": 1,
+    "scaling": "tagMinMax",
+    "highlightType": "discrete",
+    "highlightBoundaries": [
+      0.1,
+      0.7
+    ]
+  },
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5f995554bdd3cd0017fb4230"
+      },
+      "username": "test2_anno",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fba367bf274fb0017fa6563"
+      },
+      "username": "test2_anno2",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fbcc77c41394e00177f2819"
+      },
+      "username": "test2_adju",
+      "role": "adjudicator"
+    }
+  ],
+  "tags": [
+    {
+      "tag": "ADJ",
+      "description": "adjective",
+      "enabled": true
+    },
+    {
+      "tag": "ADP",
+      "description": "adposition",
+      "enabled": true
+    },
+    {
+      "tag": "ADV",
+      "description": "adverb",
+      "enabled": true
+    },
+    {
+      "tag": "AUX",
+      "description": "auxiliary",
+      "enabled": true
+    },
+    {
+      "tag": "CCONJ",
+      "description": "coordinating conjunction",
+      "enabled": true
+    },
+    {
+      "tag": "DET",
+      "description": "determiner",
+      "enabled": true
+    },
+    {
+      "tag": "INTJ",
+      "description": "interjection",
+      "enabled": true
+    },
+    {
+      "tag": "NEG",
+      "description": "negation",
+      "enabled": true
+    },
+    {
+      "tag": "NOUN",
+      "description": "noun",
+      "enabled": true
+    },
+    {
+      "tag": "NUM",
+      "description": "numeral",
+      "enabled": true
+    },
+    {
+      "tag": "PART",
+      "description": "particle",
+      "enabled": true
+    },
+    {
+      "tag": "PRON",
+      "description": "pronoun",
+      "enabled": true
+    },
+    {
+      "tag": "PROPN",
+      "description": "proper noun",
+      "enabled": true
+    },
+    {
+      "tag": "PUNCT",
+      "description": "punctuation",
+      "enabled": true
+    },
+    {
+      "tag": "SCONJ",
+      "description": "subordinating conjunction",
+      "enabled": true
+    },
+    {
+      "tag": "SYM",
+      "description": "symbol",
+      "enabled": true
+    },
+    {
+      "tag": "VERB",
+      "description": "verb",
+      "enabled": true
+    },
+    {
+      "tag": "X",
+      "description": "other",
+      "enabled": true
+    }
+  ],
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "5f995610bdd3cd0017fb4232"
+  },
+  "experimenter": {
+    "$oid": "5f995610bdd3cd0017fb4231"
+  },
+  "title": "Default",
+  "parameters": {
+    "numShared": 2,
+    "numSharedAdju": 1,
+    "scaling": "tagMinMax",
+    "highlightType": "discrete",
+    "highlightBoundaries": [
+      0.2,
+      0.7
+    ]
+  },
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5fb7bb71f2c63f0017dc2693"
+      },
+      "username": "test_annotator1",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fb7bb94f2c63f0017dc2694"
+      },
+      "username": "test_annotator2",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fbb8c1df1318200174117e3"
+      },
+      "username": "test_adj",
+      "role": "adjudicator"
+    }
+  ],
+  "tags": [
+    {
+      "tag": "ADJ",
+      "description": "adjective",
+      "enabled": true
+    },
+    {
+      "tag": "ADP",
+      "description": "adposition",
+      "enabled": true
+    },
+    {
+      "tag": "ADV",
+      "description": "adverb",
+      "enabled": true
+    },
+    {
+      "tag": "AUX",
+      "description": "auxiliary",
+      "enabled": true
+    },
+    {
+      "tag": "CCONJ",
+      "description": "coordinating conjunction",
+      "enabled": true
+    },
+    {
+      "tag": "DET",
+      "description": "determiner",
+      "enabled": true
+    },
+    {
+      "tag": "INTJ",
+      "description": "interjection",
+      "enabled": true
+    },
+    {
+      "tag": "NOUN",
+      "description": "noun",
+      "enabled": true
+    },
+    {
+      "tag": "NUM",
+      "description": "numeral",
+      "enabled": true
+    },
+    {
+      "tag": "PART",
+      "description": "particle",
+      "enabled": true
+    },
+    {
+      "tag": "PRON",
+      "description": "pronoun",
+      "enabled": true
+    },
+    {
+      "tag": "PROPN",
+      "description": "proper noun",
+      "enabled": true
+    },
+    {
+      "tag": "PUNCT",
+      "description": "punctuation",
+      "enabled": true
+    },
+    {
+      "tag": "SCONJ",
+      "description": "subordinating conjunction",
+      "enabled": true
+    },
+    {
+      "tag": "SYM",
+      "description": "symbol",
+      "enabled": true
+    },
+    {
+      "tag": "VERB",
+      "description": "verb",
+      "enabled": true
+    },
+    {
+      "tag": "X",
+      "description": "other",
+      "enabled": true
+    }
+  ],
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "5fae8b0b69bce809a1e72650"
+  },
+  "experimenter": {
+    "$oid": "5fae8b0b69bce809a1e7264f"
+  },
+  "title": "Default",
+  "parameters": {
+    "numShared": 1,
+    "numSharedAdju": 1,
+    "scaling": "tagMinMax",
+    "highlightType": "discrete",
+    "highlightBoundaries": [
+      0.2,
+      0.85
+    ],
+    "highlights": [
+      "#d8a1bc",
+      "#dbc479"
+    ]
+  },
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5fae927a69bce809a1e72651"
+      },
+      "username": "anno",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fae9fbc69bce809a1e72652"
+      },
+      "username": "adju",
+      "role": "adjudicator"
+    }
+  ],
+  "tags": [
+    {
+      "tag": "ADJ",
+      "description": "adjective",
+      "enabled": true
+    },
+    {
+      "tag": "ADP",
+      "description": "adposition",
+      "enabled": true
+    },
+    {
+      "tag": "ADV",
+      "description": "adverb",
+      "enabled": true
+    },
+    {
+      "tag": "AUX",
+      "description": "auxiliary",
+      "enabled": true
+    },
+    {
+      "tag": "CCONJ",
+      "description": "coordinating conjunction",
+      "enabled": true
+    },
+    {
+      "tag": "DET",
+      "description": "determiner",
+      "enabled": true
+    },
+    {
+      "tag": "INTJ",
+      "description": "interjection",
+      "enabled": true
+    },
+    {
+      "tag": "NOUN",
+      "description": "noun",
+      "enabled": true
+    },
+    {
+      "tag": "NUM",
+      "description": "numeral",
+      "enabled": true
+    },
+    {
+      "tag": "PART",
+      "description": "particle",
+      "enabled": true
+    },
+    {
+      "tag": "PRON",
+      "description": "pronoun",
+      "enabled": true
+    },
+    {
+      "tag": "PROPN",
+      "description": "proper noun",
+      "enabled": true
+    },
+    {
+      "tag": "PUNCT",
+      "description": "punctuation",
+      "enabled": true
+    },
+    {
+      "tag": "SCONJ",
+      "description": "subordinating conjunction",
+      "enabled": true
+    },
+    {
+      "tag": "SYM",
+      "description": "symbol",
+      "enabled": true
+    },
+    {
+      "tag": "VERB",
+      "description": "verb",
+      "enabled": true
+    },
+    {
+      "tag": "X",
+      "description": "other",
+      "enabled": true
+    }
+  ],
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5fbdf93fb6554a001796f98f"
+  },
+  "parameters": {
+    "highlightBoundaries": [],
+    "numShared": 2,
+    "numSharedAdju": 1,
+    "scaling": "tagMinMax"
+  },
+  "experimenter": {
+    "$oid": "5fbdf93fb6554a001796f98e"
+  },
+  "title": "Default",
+  "subjects": [],
+  "tags": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc4aba1bc377300173866b3"
+  },
+  "parameters": {
+    "highlightBoundaries": [],
+    "highlights": [],
+    "numShared": 2,
+    "numSharedAdju": 1,
+    "scaling": "tagMinMax"
+  },
+  "experimenter": {
+    "$oid": "5fc4aba1bc377300173866b2"
+  },
+  "title": "Default",
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5fda06940ac1b5001714ba8e"
+      },
+      "username": "ex_shr_ann01",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fe1f297e600e50017c728b8"
+      },
+      "username": "ex_aan_ann02",
+      "role": "annotator"
+    }
+  ],
+  "tags": [
+    {
+      "tag": "CC",
+      "description": "conjuncts",
+      "enabled": true
+    },
+    {
+      "tag": "DEM",
+      "description": "demonstrator",
+      "enabled": true
+    },
+    {
+      "tag": "ECH",
+      "description": "echo word",
+      "enabled": true
+    },
+    {
+      "tag": "INJ",
+      "description": "interjection",
+      "enabled": true
+    },
+    {
+      "tag": "INTF",
+      "description": "intensifier",
+      "enabled": true
+    },
+    {
+      "tag": "JJ",
+      "description": "adjective",
+      "enabled": true
+    },
+    {
+      "tag": "JJP",
+      "description": "adjectival chunk",
+      "enabled": true
+    },
+    {
+      "tag": "NEG",
+      "description": "nagative",
+      "enabled": true
+    },
+    {
+      "tag": "NN",
+      "description": "noun",
+      "enabled": true
+    },
+    {
+      "tag": "NNC",
+      "description": "noun compounds",
+      "enabled": true
+    },
+    {
+      "tag": "NNP",
+      "description": "proper nouns",
+      "enabled": true
+    },
+    {
+      "tag": "NNPC",
+      "description": "proper noun compounds",
+      "enabled": true
+    },
+    {
+      "tag": "NST",
+      "description": "noun denoting spatial or temporal expression",
+      "enabled": true
+    },
+    {
+      "tag": "PRON",
+      "description": "pronoun",
+      "enabled": true
+    },
+    {
+      "tag": "PSP",
+      "description": "postposition",
+      "enabled": true
+    },
+    {
+      "tag": "QC",
+      "description": "cardinals/numerals",
+      "enabled": true
+    },
+    {
+      "tag": "QF",
+      "description": "quantifier",
+      "enabled": true
+    },
+    {
+      "tag": "QO",
+      "description": "ordinal",
+      "enabled": true
+    },
+    {
+      "tag": "RB",
+      "description": "adverb",
+      "enabled": true
+    },
+    {
+      "tag": "RDP",
+      "description": "reduplication",
+      "enabled": true
+    },
+    {
+      "tag": "RP",
+      "description": "particle",
+      "enabled": true
+    },
+    {
+      "tag": "SYM",
+      "description": "special symbol",
+      "enabled": true
+    },
+    {
+      "tag": "UNK",
+      "description": "unknown",
+      "enabled": true
+    },
+    {
+      "tag": "VAUX",
+      "description": "verb auxiliary",
+      "enabled": true
+    },
+    {
+      "tag": "VM",
+      "description": "verb main",
+      "enabled": true
+    },
+    {
+      "tag": "WQ",
+      "description": "question words",
+      "enabled": true
+    }
+  ],
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "5fc4acf9bc377300173866b5"
+  },
+  "parameters": {
+    "numShared": 2,
+    "numSharedAdju": 1,
+    "scaling": "minMax",
+    "highlightType": "discrete",
+    "highlightBoundaries": [
+      0.05,
+      0.9
+    ],
+    "highlights": [
+      "#ffa62b",
+      "#9088d4"
+    ]
+  },
+  "experimenter": {
+    "$oid": "5fc4acf9bc377300173866b4"
+  },
+  "title": "Default",
+  "subjects": [
+    {
+      "id": {
+        "$oid": "5fd0921df682ee00176403c5"
+      },
+      "username": "tr_shr_ann01",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fd8812417311f0017c77805"
+      },
+      "username": "tr_aan_ann02",
+      "role": "annotator"
+    },
+    {
+      "id": {
+        "$oid": "5fdefa4c5677a50017eaa68f"
+      },
+      "username": "tr_kan_adj01",
+      "role": "adjudicator"
+    }
+  ],
+  "tags": [
+    {
+      "tag": "CC",
+      "description": "conjuncts",
+      "enabled": true
+    },
+    {
+      "tag": "DEM",
+      "description": "demonstrator",
+      "enabled": true
+    },
+    {
+      "tag": "ECH",
+      "description": "echo word",
+      "enabled": true
+    },
+    {
+      "tag": "INJ",
+      "description": "interjection",
+      "enabled": true
+    },
+    {
+      "tag": "INTF",
+      "description": "intensifier",
+      "enabled": true
+    },
+    {
+      "tag": "JJ",
+      "description": "adjective",
+      "enabled": true
+    },
+    {
+      "tag": "JJP",
+      "description": "adjectival chunk",
+      "enabled": true
+    },
+    {
+      "tag": "NEG",
+      "description": "nagative",
+      "enabled": true
+    },
+    {
+      "tag": "NN",
+      "description": "noun",
+      "enabled": true
+    },
+    {
+      "tag": "NNC",
+      "description": "noun compounds",
+      "enabled": true
+    },
+    {
+      "tag": "NNP",
+      "description": "proper nouns",
+      "enabled": true
+    },
+    {
+      "tag": "NNPC",
+      "description": "proper noun compounds",
+      "enabled": true
+    },
+    {
+      "tag": "NST",
+      "description": "noun denoting spatial or temporal expression",
+      "enabled": true
+    },
+    {
+      "tag": "PRON",
+      "description": "pronoun",
+      "enabled": true
+    },
+    {
+      "tag": "PSP",
+      "description": "postposition",
+      "enabled": true
+    },
+    {
+      "tag": "QC",
+      "description": "cardinals/numerals",
+      "enabled": true
+    },
+    {
+      "tag": "QF",
+      "description": "quantifier",
+      "enabled": true
+    },
+    {
+      "tag": "QO",
+      "description": "ordinal",
+      "enabled": true
+    },
+    {
+      "tag": "RB",
+      "description": "adverb",
+      "enabled": true
+    },
+    {
+      "tag": "RDP",
+      "description": "reduplication",
+      "enabled": true
+    },
+    {
+      "tag": "RP",
+      "description": "particle",
+      "enabled": true
+    },
+    {
+      "tag": "SYM",
+      "description": "special symbol",
+      "enabled": true
+    },
+    {
+      "tag": "UNK",
+      "description": "unknown",
+      "enabled": true
+    },
+    {
+      "tag": "VAUX",
+      "description": "verb auxiliary",
+      "enabled": true
+    },
+    {
+      "tag": "VM",
+      "description": "verb main",
+      "enabled": true
+    },
+    {
+      "tag": "WQ",
+      "description": "question words",
+      "enabled": true
+    }
+  ],
+  "__v": 4
+}]
