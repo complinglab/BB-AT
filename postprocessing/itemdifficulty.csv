@@ -1,4 +1,4 @@
-index,sent_id,tokens,anno_1,anno_2
+index,sent_id,tokens,anno1,anno2
 0,GUM_bio_dvorak-26,All,1,1
 1,GUM_bio_dvorak-25,of,1,1
 2,GUM_bio_dvorak-24,Dvořák,1,1
